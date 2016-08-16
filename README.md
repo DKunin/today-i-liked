@@ -11,3 +11,6 @@
 ### August 15, 2016
 - [harshjv/github-repo-size: 🚀 Chrome extension to display repository size on GitHub](https://github.com/harshjv/github-repo-size) 
 - [WebTorrent - Streaming browser torrent client](https://webtorrent.io/) 
+
+### August 16, 2016
+- [stdlib — The Standard Library of the Internet](https://stdlib.com/) 
