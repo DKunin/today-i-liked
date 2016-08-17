@@ -17,3 +17,6 @@
 - [YOGO Mat Ultralight 2.0](https://yogo.net/collections/gear/products/yogo-ultralight-2-0?variant=13305630468) 
 - [Кафе LuSun](http://www.lusun.ru/) 
 - [Let's Encrypt - Free SSL/TLS Certificates](https://letsencrypt.org/) 
+
+### August 17, 2016
+- [GitHub does dotfiles - dotfiles.github.io](http://dotfiles.github.io/) 
