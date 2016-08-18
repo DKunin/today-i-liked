@@ -21,3 +21,6 @@
 ### August 17, 2016
 - [GitHub does dotfiles - dotfiles.github.io](http://dotfiles.github.io/) 
 - [The Progressive Framework - Google Презентации](https://docs.google.com/presentation/d/1WnYsxRMiNEArT3xz7xXHdKeH1C-jT92VxmptghJb5Es/edit#slide=id.g1631867b25_0_360) 
+
+### August 18, 2016
+- [WTF, forms?](http://wtfforms.com/) 
