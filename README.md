@@ -25,3 +25,6 @@
 ### August 18, 2016
 - [WTF, forms?](http://wtfforms.com/) 
 - [AddyOsmani.com - Getting started with Progressive Web Apps](http://clclp.me/4DZC#https://addyosmani.com/blog/getting-started-with-progressive-web-apps/) 
+
+### August 21, 2016
+- [fritzvd (Fritz van Deventer)](https://github.com/fritzvd) 
