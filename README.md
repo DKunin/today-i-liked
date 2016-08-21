@@ -30,3 +30,4 @@
 - [fritzvd (Fritz van Deventer)](https://github.com/fritzvd) 
 - [airbnb/react-dates: An accessible, easily internationalizable, mobile-friendly datepicker library for the web](https://github.com/airbnb/react-dates) 
 - [cube composer](http://david-peter.de/cube-composer/) 
+- [In case you have missed it, node v6.3.0 came out with Chrome DevTools support. Just start the node program with --inspect flag. : node](https://www.reddit.com/r/node/comments/4yoane/in_case_you_have_missed_it_node_v630_came_out/) 
