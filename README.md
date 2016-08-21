@@ -29,3 +29,4 @@
 ### August 21, 2016
 - [fritzvd (Fritz van Deventer)](https://github.com/fritzvd) 
 - [airbnb/react-dates: An accessible, easily internationalizable, mobile-friendly datepicker library for the web](https://github.com/airbnb/react-dates) 
+- [cube composer](http://david-peter.de/cube-composer/) 
