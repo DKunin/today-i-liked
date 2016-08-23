@@ -32,3 +32,6 @@
 - [cube composer](http://david-peter.de/cube-composer/) 
 - [In case you have missed it, node v6.3.0 came out with Chrome DevTools support. Just start the node program with --inspect flag. : node](https://www.reddit.com/r/node/comments/4yoane/in_case_you_have_missed_it_node_v630_came_out/) 
 - [r-kan/BUFFY: Back Up Files For You](https://github.com/r-kan/BUFFY) 
+
+### August 23, 2016
+- [Kickball/awesome-selfhosted: This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.](https://github.com/Kickball/awesome-selfhosted) 
