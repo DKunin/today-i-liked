@@ -38,3 +38,4 @@
 
 ### August 24, 2016
 - [alanhamlett/readtime: Calculates the time some text takes the average human to read, based on Medium's read time forumula.](https://github.com/alanhamlett/readtime) 
+- [SimulatedGREG/electron-vue: An Electron & Vue.js quick start boilerplate with vue-cli support](https://github.com/SimulatedGREG/electron-vue?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue) 
