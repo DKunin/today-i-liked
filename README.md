@@ -42,3 +42,6 @@
 - [kensterz/interview-questions-in-javascript: A mostly reasonable collection of technical software development interview questions solved in Javascript](https://github.com/kensterz/interview-questions-in-javascript) 
 - [sstur/react-rte: Pure React rich text "WYSISYG" editor based on draft-js.](https://github.com/sstur/react-rte) 
 - [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014 - YouTube](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be) 
+
+### August 25, 2016
+- [How to Hack a point and shoot camera and give it DSLR features - All](http://www.instructables.com/id/How-to-Hack-a-Point-and-Shoot-Camera-and-Turn-It-I/?ALLSTEPS) 
