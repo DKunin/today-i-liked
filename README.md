@@ -45,7 +45,4 @@
 
 ### August 25, 2016
 - [How to Hack a point and shoot camera and give it DSLR features - All](http://www.instructables.com/id/How-to-Hack-a-Point-and-Shoot-Camera-and-Turn-It-I/?ALLSTEPS) 
-- [Essential Electron](http://jlord.us/essential-electron/) 
-- [Essential Electron](http://jlord.us/essential-electron/) 
-- [Essential Electron](http://jlord.us/essential-electron/) 
-- [Essential Electron](http://jlord.us/essential-electron/) 
+- [Essential Electron](http://jlord.us/essential-electron/)
