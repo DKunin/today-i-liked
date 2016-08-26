@@ -46,3 +46,6 @@
 ### August 25, 2016
 - [How to Hack a point and shoot camera and give it DSLR features - All](http://www.instructables.com/id/How-to-Hack-a-Point-and-Shoot-Camera-and-Turn-It-I/?ALLSTEPS) 
 - [Essential Electron](http://jlord.us/essential-electron/)
+
+### August 26, 2016
+- [tonsky/FiraCode: Monospaced font with programming ligatures](https://github.com/tonsky/FiraCode) 
