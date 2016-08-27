@@ -54,3 +54,4 @@
 - [git-time-metric/gtm: Simple, seamless, lightweight time tracking for Git](https://github.com/git-time-metric/gtm) 
 - [Set Game](https://f.github.io/set/) 
 - [HollyAdele/awesome-programming-for-kids: A curated list of resources for teaching kids programming.](https://github.com/HollyAdele/awesome-programming-for-kids) 
+- [camwiegert/in-view: Get notified when a DOM element enters or exits the viewport.](https://github.com/camwiegert/in-view?utm_source=codropscollective) 
