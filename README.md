@@ -53,3 +53,4 @@
 ### August 27, 2016
 - [git-time-metric/gtm: Simple, seamless, lightweight time tracking for Git](https://github.com/git-time-metric/gtm) 
 - [Set Game](https://f.github.io/set/) 
+- [HollyAdele/awesome-programming-for-kids: A curated list of resources for teaching kids programming.](https://github.com/HollyAdele/awesome-programming-for-kids) 
