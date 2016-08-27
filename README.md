@@ -49,3 +49,6 @@
 
 ### August 26, 2016
 - [tonsky/FiraCode: Monospaced font with programming ligatures](https://github.com/tonsky/FiraCode) 
+
+### August 27, 2016
+- [git-time-metric/gtm: Simple, seamless, lightweight time tracking for Git](https://github.com/git-time-metric/gtm) 
