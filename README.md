@@ -58,3 +58,4 @@
 
 ### August 28, 2016
 - [noUiSlider - Examples and hints | Refreshless.com](http://refreshless.com/nouislider/examples/) 
+- [mokkabonna/inquirer-autocomplete-prompt: Autocomplete prompt for inquirer](https://github.com/mokkabonna/inquirer-autocomplete-prompt) 
