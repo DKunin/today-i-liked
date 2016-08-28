@@ -55,3 +55,6 @@
 - [Set Game](https://f.github.io/set/) 
 - [HollyAdele/awesome-programming-for-kids: A curated list of resources for teaching kids programming.](https://github.com/HollyAdele/awesome-programming-for-kids) 
 - [camwiegert/in-view: Get notified when a DOM element enters or exits the viewport.](https://github.com/camwiegert/in-view?utm_source=codropscollective) 
+
+### August 28, 2016
+- [noUiSlider - Examples and hints | Refreshless.com](http://refreshless.com/nouislider/examples/) 
