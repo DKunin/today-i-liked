@@ -62,3 +62,6 @@
 
 ### August 29, 2016
 - [Cache Fetched AJAX Requests Locally: Wrapping the Fetch API](https://www.sitepoint.com/cache-fetched-ajax-requests/) 
+
+### August 30, 2016
+- [Magic Card Maker](http://www.mtgcardmaker.com/) 
