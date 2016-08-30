@@ -66,3 +66,4 @@
 ### August 30, 2016
 - [Magic Card Maker](http://www.mtgcardmaker.com/) 
 - [blainesch/electron-notifications: A node module for sending notifications in electron applications.](https://github.com/blainesch/electron-notifications) 
+- [Text Mask: Conform user input to a string mask](https://text-mask.github.io/text-mask/) 
