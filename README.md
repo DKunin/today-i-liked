@@ -74,3 +74,4 @@
 - [jiahaog/nativefier: Wrap any web page natively without even thinking, across Windows, OSX and Linux](https://github.com/jiahaog/nativefier) 
 - [lesspass](https://lesspass.com/#!/) 
 - [tstringer/electron-basic-ui-layout: Basic and common UI structure for an Electron/React app](https://github.com/tstringer/electron-basic-ui-layout) 
+- [11 Simple npm Tricks That Will Knock Your Wombat Socks Off](https://nodesource.com/blog/eleven-npm-tricks-that-will-knock-your-wombat-socks-off/) 
