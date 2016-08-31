@@ -69,3 +69,6 @@
 - [Text Mask: Conform user input to a string mask](https://text-mask.github.io/text-mask/) 
 - [SSP. RTB-платформы для владельцев сайтов и вебмастеров рекламных сетей](http://rtb-media.ru/wiki-ssp/) 
 - [ncb000gt/node-cron: Cron for NodeJS.](https://github.com/ncb000gt/node-cron) 
+
+### August 31, 2016
+- [jiahaog/nativefier: Wrap any web page natively without even thinking, across Windows, OSX and Linux](https://github.com/jiahaog/nativefier) 
