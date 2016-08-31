@@ -72,3 +72,4 @@
 
 ### August 31, 2016
 - [jiahaog/nativefier: Wrap any web page natively without even thinking, across Windows, OSX and Linux](https://github.com/jiahaog/nativefier) 
+- [lesspass](https://lesspass.com/#!/) 
