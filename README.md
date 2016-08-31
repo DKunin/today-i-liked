@@ -73,3 +73,4 @@
 ### August 31, 2016
 - [jiahaog/nativefier: Wrap any web page natively without even thinking, across Windows, OSX and Linux](https://github.com/jiahaog/nativefier) 
 - [lesspass](https://lesspass.com/#!/) 
+- [tstringer/electron-basic-ui-layout: Basic and common UI structure for an Electron/React app](https://github.com/tstringer/electron-basic-ui-layout) 
