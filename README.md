@@ -82,3 +82,4 @@
 - [brillout/awesome-react-components: Catalog of React components / libraries](https://github.com/brillout/awesome-react-components?utm_source=codropscollective) 
 - [Fun Times With CSS Pixel Art | CSS-Tricks](https://css-tricks.com/fun-times-css-pixel-art/?utm_source=html5weekly&utm_medium=email) 
 - [FormidableLabs/victory-cli: A tool for generating charts on the command line.](https://github.com/FormidableLabs/victory-cli) 
+- [facebookincubator/exerslide: A framework to create React-based HTML presentations and tutorials.](https://github.com/facebookincubator/exerslide) 
