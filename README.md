@@ -80,3 +80,4 @@
 
 ### September 1, 2016
 - [brillout/awesome-react-components: Catalog of React components / libraries](https://github.com/brillout/awesome-react-components?utm_source=codropscollective) 
+- [Fun Times With CSS Pixel Art | CSS-Tricks](https://css-tricks.com/fun-times-css-pixel-art/?utm_source=html5weekly&utm_medium=email) 
