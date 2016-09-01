@@ -77,3 +77,6 @@
 - [11 Simple npm Tricks That Will Knock Your Wombat Socks Off](https://nodesource.com/blog/eleven-npm-tricks-that-will-knock-your-wombat-socks-off/) 
 - [Категория:Композиторы-минималисты — Википедия](https://ru.m.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D1%8B-%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D1%8B) 
 - [egoist/random-anime-wallpapers: Get some nice anime wallpapers in node.js](https://github.com/egoist/random-anime-wallpapers) 
+
+### September 1, 2016
+- [brillout/awesome-react-components: Catalog of React components / libraries](https://github.com/brillout/awesome-react-components?utm_source=codropscollective) 
