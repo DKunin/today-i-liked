@@ -83,3 +83,6 @@
 - [Fun Times With CSS Pixel Art | CSS-Tricks](https://css-tricks.com/fun-times-css-pixel-art/?utm_source=html5weekly&utm_medium=email) 
 - [FormidableLabs/victory-cli: A tool for generating charts on the command line.](https://github.com/FormidableLabs/victory-cli) 
 - [facebookincubator/exerslide: A framework to create React-based HTML presentations and tutorials.](https://github.com/facebookincubator/exerslide) 
+
+### September 2, 2016
+- [Доставка из Англии - Royal Mail и Parcelforce (EMS)](http://alfaparcel.com/dostavka) 
