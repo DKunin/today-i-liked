@@ -90,3 +90,4 @@
 ### September 4, 2016
 - [argon/mas: Mac App Store command line interface](https://github.com/argon/mas) 
 - [steve-vincent/awesome-decentralized: A curated list of decentralized, P2P (peer-to-peer), and distributed platforms and applications ("dapps").](https://github.com/steve-vincent/awesome-decentralized) 
+- [Alternative Internet](https://redecentralize.github.io/alternative-internet/) 
