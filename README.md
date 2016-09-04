@@ -93,3 +93,4 @@
 - [Alternative Internet](https://redecentralize.github.io/alternative-internet/) 
 - [VctrySam/whatsapp: WhatsApp in React Native](https://github.com/VctrySam/whatsapp) 
 - [Face tracking desk fan - All](http://www.instructables.com/id/Face-Tracking-Desk-Fan/?ALLSTEPS) 
+- [How to install OpenCV 3 on Raspbian Jessie - PyImageSearch](http://www.pyimagesearch.com/2015/10/26/how-to-install-opencv-3-on-raspbian-jessie/) 
