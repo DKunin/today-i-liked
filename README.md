@@ -92,3 +92,4 @@
 - [steve-vincent/awesome-decentralized: A curated list of decentralized, P2P (peer-to-peer), and distributed platforms and applications ("dapps").](https://github.com/steve-vincent/awesome-decentralized) 
 - [Alternative Internet](https://redecentralize.github.io/alternative-internet/) 
 - [VctrySam/whatsapp: WhatsApp in React Native](https://github.com/VctrySam/whatsapp) 
+- [Face tracking desk fan - All](http://www.instructables.com/id/Face-Tracking-Desk-Fan/?ALLSTEPS) 
