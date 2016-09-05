@@ -99,3 +99,4 @@
 - [jessepollak/command: Making the web better with Slack-like slash commands.](https://github.com/jessepollak/command) 
 - [mhart/alpine-node: Minimal Node.js Docker Images built on Alpine Linux](https://github.com/mhart/alpine-node) 
 - [initialstate/pi-sensor-free-presence-detector](https://github.com/initialstate/pi-sensor-free-presence-detector) 
+- [First United Church of Cthulhu: Certificate of Ordination](http://firstunitedchurchofcthulhu.blogspot.ru/p/certificate-of-ordination.html) 
