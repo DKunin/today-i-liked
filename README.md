@@ -94,3 +94,6 @@
 - [VctrySam/whatsapp: WhatsApp in React Native](https://github.com/VctrySam/whatsapp) 
 - [Face tracking desk fan - All](http://www.instructables.com/id/Face-Tracking-Desk-Fan/?ALLSTEPS) 
 - [How to install OpenCV 3 on Raspbian Jessie - PyImageSearch](http://www.pyimagesearch.com/2015/10/26/how-to-install-opencv-3-on-raspbian-jessie/) 
+
+### September 5, 2016
+- [jessepollak/command: Making the web better with Slack-like slash commands.](https://github.com/jessepollak/command) 
