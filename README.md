@@ -105,3 +105,6 @@
 ### September 6, 2016
 - [15 Essential Packages to Get Started With Electron](https://nodesource.com/blog/fifteen-essential-packages-to-get-started-with-electron/) 
 - [maxogden/menubar: ➖ high level way to create menubar desktop applications with electron](https://github.com/maxogden/menubar) 
+
+### September 7, 2016
+- [firehol/netdata: Real-time performance monitoring, done right!](https://github.com/firehol/netdata/) 
