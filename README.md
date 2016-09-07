@@ -108,3 +108,6 @@
 
 ### September 7, 2016
 - [firehol/netdata: Real-time performance monitoring, done right!](https://github.com/firehol/netdata/) 
+
+### September 8, 2016
+- [PiBakery - The blocks based, easy to use setup tool for Raspberry Pi](http://www.pibakery.org/) 
