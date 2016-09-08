@@ -112,3 +112,4 @@
 ### September 8, 2016
 - [PiBakery - The blocks based, easy to use setup tool for Raspberry Pi](http://www.pibakery.org/) 
 - [michael-lazar/rtv: Browse Reddit from your terminal](https://github.com/michael-lazar/rtv#installation) 
+- [sindresorhus/alfy: Create Alfred workflows with ease](https://github.com/sindresorhus/alfy) 
