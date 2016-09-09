@@ -115,3 +115,6 @@
 - [sindresorhus/alfy: Create Alfred workflows with ease](https://github.com/sindresorhus/alfy) 
 - [SamVerschueren/awesome-cli-apps: A curated list of command line apps](https://github.com/SamVerschueren/awesome-cli-apps) 
 - [Blog](https://restdb.io/blog/#!posts/57cece1a2d5dbc27000000d3) 
+
+### September 9, 2016
+- [abarrancog/git-waka: My implementation to measure my time in using git](https://github.com/abarrancog/git-waka) 
