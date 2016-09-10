@@ -127,3 +127,6 @@
 - [timfpark/rhom-webapp](https://github.com/timfpark/rhom-webapp) 
 - [Oh, shit, git!](http://ohshitgit.com/) 
 - [guarinogabriel/Mac-CLI:  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.](https://github.com/guarinogabriel/Mac-CLI) 
+
+### September 11, 2016
+- [Screencasts for programmers - Roman Zolotarev](https://www.romanzolotarev.com/screencasts/) 
