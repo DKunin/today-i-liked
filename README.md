@@ -125,3 +125,4 @@
 - [agile6v/awesome-nginx: A curated list of awesome Nginx distributions, third modules, active developers, etc.](https://github.com/agile6v/awesome-nginx) 
 - [• Audiophile Music Player | DAP | Volumio](https://volumio.org/) 
 - [timfpark/rhom-webapp](https://github.com/timfpark/rhom-webapp) 
+- [Oh, shit, git!](http://ohshitgit.com/) 
