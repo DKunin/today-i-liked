@@ -121,3 +121,4 @@
 
 ### September 10, 2016
 - [rndme/download: file downloading using client-side javascript](https://github.com/rndme/download) 
+- [mashpie/i18n-node: Lightweight simple translation module for node.js / express.js with dynamic json storage. Uses common __('...') syntax in app and templates.](https://github.com/mashpie/i18n-node) 
