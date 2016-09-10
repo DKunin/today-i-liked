@@ -118,3 +118,6 @@
 
 ### September 9, 2016
 - [abarrancog/git-waka: My implementation to measure my time in using git](https://github.com/abarrancog/git-waka) 
+
+### September 10, 2016
+- [rndme/download: file downloading using client-side javascript](https://github.com/rndme/download) 
