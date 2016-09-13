@@ -130,3 +130,6 @@
 
 ### September 11, 2016
 - [Screencasts for programmers - Roman Zolotarev](https://www.romanzolotarev.com/screencasts/) 
+
+### September 13, 2016
+- [https://cors.now.sh](https://cors.now.sh/) 
