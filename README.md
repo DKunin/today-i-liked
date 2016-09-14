@@ -134,3 +134,6 @@
 ### September 13, 2016
 - [https://cors.now.sh](https://cors.now.sh/) 
 - [ClF6LgrUkAAx_Uz.jpg:large (2048×1147)](https://pbs.twimg.com/media/ClF6LgrUkAAx_Uz.jpg:large) 
+
+### September 14, 2016
+- [paulmillr/scaffolt: Dead-simple JSON-based scaffolder.](https://github.com/paulmillr/scaffolt) 
