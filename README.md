@@ -137,3 +137,6 @@
 
 ### September 14, 2016
 - [paulmillr/scaffolt: Dead-simple JSON-based scaffolder.](https://github.com/paulmillr/scaffolt) 
+
+### September 15, 2016
+- [elendirx/web2web: P2P web powered by torrents and blockchain.](https://github.com/elendirx/web2web) 
