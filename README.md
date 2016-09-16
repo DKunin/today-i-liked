@@ -144,3 +144,4 @@
 ### September 16, 2016
 - [kadirahq/lokka: Simple JavaScript Client for GraphQL](https://github.com/kadirahq/lokka) 
 - [debugging-zine.pdf](http://jvns.ca/debugging-zine.pdf) 
+- [FormidableLabs/react-game-kit: Component library for making games with React & React Native](https://github.com/FormidableLabs/react-game-kit) 
