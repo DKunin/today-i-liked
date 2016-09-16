@@ -140,3 +140,6 @@
 
 ### September 15, 2016
 - [elendirx/web2web: P2P web powered by torrents and blockchain.](https://github.com/elendirx/web2web) 
+
+### September 16, 2016
+- [kadirahq/lokka: Simple JavaScript Client for GraphQL](https://github.com/kadirahq/lokka) 
