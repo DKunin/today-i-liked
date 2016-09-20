@@ -149,3 +149,6 @@
 ### September 19, 2016
 - [dawsonbotsford/o-o: A cli for opening things like url's and files](https://github.com/dawsonbotsford/o-o) 
 - [Raathigesh/Propel: Keep your favorite starter kits just a command away](https://github.com/Raathigesh/Propel) 
+
+### September 20, 2016
+- [istanbuljs/istanbul-api: High-level istanbul API](https://github.com/istanbuljs/istanbul-api) 
