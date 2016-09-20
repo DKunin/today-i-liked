@@ -152,3 +152,4 @@
 
 ### September 20, 2016
 - [istanbuljs/istanbul-api: High-level istanbul API](https://github.com/istanbuljs/istanbul-api) 
+- [You Might Not Need Redux – Medium](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367#.frs2dtykp) 
