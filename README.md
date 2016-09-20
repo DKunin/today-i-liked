@@ -154,3 +154,4 @@
 - [istanbuljs/istanbul-api: High-level istanbul API](https://github.com/istanbuljs/istanbul-api) 
 - [You Might Not Need Redux – Medium](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367#.frs2dtykp) 
 - [thibmaek/awesome-raspberrypi: A curated list of awesome Raspberry Pi tools, projects, images and resources](https://github.com/thibmaek/awesome-raspberrypi/) 
+- [Twelve Fancy Chrome DevTools Tips](https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.ilmr2lrca) 
