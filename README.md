@@ -157,3 +157,6 @@
 - [Twelve Fancy Chrome DevTools Tips](https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.ilmr2lrca) 
 - [4 must-know tips for building cross platform Electron apps](https://blog.avocode.com/blog/4-must-know-tips-for-building-cross-platform-electron-apps) 
 - [getify/Functional-Light-JS: A book about functional programming in JavaScript.](https://github.com/getify/Functional-Light-JS) 
+
+### September 22, 2016
+- [DiegoRBaquero/PeerFast: P2P Fast.com Clone](https://github.com/DiegoRBaquero/PeerFast) 
