@@ -163,3 +163,4 @@
 - [MoOx/phenomic: Modern static* website generator based on the React and Webpack ecosystem](https://github.com/MoOx/phenomic) 
 - [antwarjs/antwar: A static site generator built with React and Webpack.](https://github.com/antwarjs/antwar) 
 - [AnotherNote/anote: another markdown note (inspired by evernote)](https://github.com/AnotherNote/anote) 
+- [HBM/md-components: Material Design React Components](https://github.com/hbm/md-components/) 
