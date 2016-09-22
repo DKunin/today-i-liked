@@ -161,3 +161,4 @@
 ### September 22, 2016
 - [DiegoRBaquero/PeerFast: P2P Fast.com Clone](https://github.com/DiegoRBaquero/PeerFast) 
 - [MoOx/phenomic: Modern static* website generator based on the React and Webpack ecosystem](https://github.com/MoOx/phenomic) 
+- [antwarjs/antwar: A static site generator built with React and Webpack.](https://github.com/antwarjs/antwar) 
