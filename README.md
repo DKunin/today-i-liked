@@ -169,3 +169,4 @@
 - [iCHAIT/awesome-macOS:  A curated list of awesome applications, softwares, tools and shiny things for macOS.](https://github.com/iCHAIT/awesome-macOS) 
 - [Emoji cheat sheet for GitHub, Basecamp and other services](http://www.webpagefx.com/tools/emoji-cheat-sheet/) 
 - [Shikkic/gitbar: Open source github contribution stats on your Mac OS X Menu Bar](https://github.com/Shikkic/gitbar) 
+- [MrRio/vtop: Wow such top. So stats. More better than regular top. Written in node.js](https://github.com/MrRio/vtop) 
