@@ -164,3 +164,6 @@
 - [antwarjs/antwar: A static site generator built with React and Webpack.](https://github.com/antwarjs/antwar) 
 - [AnotherNote/anote: another markdown note (inspired by evernote)](https://github.com/AnotherNote/anote) 
 - [HBM/md-components: Material Design React Components](https://github.com/hbm/md-components/) 
+
+### September 23, 2016
+- [iCHAIT/awesome-macOS:  A curated list of awesome applications, softwares, tools and shiny things for macOS.](https://github.com/iCHAIT/awesome-macOS) 
