@@ -168,3 +168,4 @@
 ### September 23, 2016
 - [iCHAIT/awesome-macOS:  A curated list of awesome applications, softwares, tools and shiny things for macOS.](https://github.com/iCHAIT/awesome-macOS) 
 - [Emoji cheat sheet for GitHub, Basecamp and other services](http://www.webpagefx.com/tools/emoji-cheat-sheet/) 
+- [Shikkic/gitbar: Open source github contribution stats on your Mac OS X Menu Bar](https://github.com/Shikkic/gitbar) 
