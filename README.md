@@ -173,3 +173,4 @@
 
 ### September 24, 2016
 - [sstephenson/bats: Bash Automated Testing System](https://github.com/sstephenson/bats) 
+- [markdalgleish/css-modules-in-js-demo: Working demo of using JavaScript as a CSS Modules preprocessor](https://github.com/markdalgleish/css-modules-in-js-demo) 
