@@ -175,3 +175,6 @@
 - [sstephenson/bats: Bash Automated Testing System](https://github.com/sstephenson/bats) 
 - [markdalgleish/css-modules-in-js-demo: Working demo of using JavaScript as a CSS Modules preprocessor](https://github.com/markdalgleish/css-modules-in-js-demo) 
 - [ianstormtaylor/slate: A completely customizable framework for building rich text editors.](https://github.com/ianstormtaylor/slate) 
+
+### September 25, 2016
+- [mysticatea/eslint-plugin-node: Additional ESLint's rules for Node.js](https://github.com/mysticatea/eslint-plugin-node) 
