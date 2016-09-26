@@ -181,3 +181,4 @@
 
 ### September 26, 2016
 - [deepsweet/makethen: Promisify Node.js-style callbacks with native Promise](https://github.com/deepsweet/makethen) 
+- [SpiderStrategies/node-gmail-api: Node module to interact with the gmail api](https://github.com/SpiderStrategies/node-gmail-api) 
