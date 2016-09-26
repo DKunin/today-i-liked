@@ -178,3 +178,6 @@
 
 ### September 25, 2016
 - [mysticatea/eslint-plugin-node: Additional ESLint's rules for Node.js](https://github.com/mysticatea/eslint-plugin-node) 
+
+### September 26, 2016
+- [deepsweet/makethen: Promisify Node.js-style callbacks with native Promise](https://github.com/deepsweet/makethen) 
