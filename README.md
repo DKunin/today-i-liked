@@ -185,3 +185,6 @@
 
 ### September 27, 2016
 - [rwu823/mark-it-down: The modern Markdown parser, painless and all in one](https://github.com/rwu823/mark-it-down) 
+
+### September 28, 2016
+- [Bringing VR to the Web with Google Cardboard and Three.js](https://www.sitepoint.com/bringing-vr-to-web-google-cardboard-three-js/) 
