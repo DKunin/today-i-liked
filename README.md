@@ -188,3 +188,4 @@
 
 ### September 28, 2016
 - [Bringing VR to the Web with Google Cardboard and Three.js](https://www.sitepoint.com/bringing-vr-to-web-google-cardboard-three-js/) 
+- [thlorenz/snippetify: Splits a given JavaScript file into as many parsable snippets as possible.](https://github.com/thlorenz/snippetify) 
