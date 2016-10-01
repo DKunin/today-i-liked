@@ -189,3 +189,6 @@
 ### September 28, 2016
 - [Bringing VR to the Web with Google Cardboard and Three.js](https://www.sitepoint.com/bringing-vr-to-web-google-cardboard-three-js/) 
 - [thlorenz/snippetify: Splits a given JavaScript file into as many parsable snippets as possible.](https://github.com/thlorenz/snippetify) 
+
+### October 1, 2016
+- [airblade/vim-gitgutter: A Vim plugin which shows a git diff in the gutter (sign column) and stages/undoes hunks.](https://github.com/airblade/vim-gitgutter) 
