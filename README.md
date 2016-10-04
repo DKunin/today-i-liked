@@ -194,3 +194,6 @@
 - [airblade/vim-gitgutter: A Vim plugin which shows a git diff in the gutter (sign column) and stages/undoes hunks.](https://github.com/airblade/vim-gitgutter) 
 - [vuejs/vue-hackernews-2.0: HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering](https://github.com/vuejs/vue-hackernews-2.0/) 
 - [noffle/art-of-readme: Learn the art of writing quality READMEs.](https://github.com/noffle/art-of-readme) 
+
+### October 4, 2016
+- [Gitify - GitHub Notifications on your menu bar](http://gitify.io/) 
