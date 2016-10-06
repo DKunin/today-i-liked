@@ -197,3 +197,6 @@
 
 ### October 4, 2016
 - [Gitify - GitHub Notifications on your menu bar](http://gitify.io/) 
+
+### October 6, 2016
+- [wulkano/kap: An open-source screen recorder built with web technology](https://github.com/wulkano/kap) 
