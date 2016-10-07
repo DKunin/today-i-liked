@@ -200,3 +200,6 @@
 
 ### October 6, 2016
 - [wulkano/kap: An open-source screen recorder built with web technology](https://github.com/wulkano/kap) 
+
+### October 7, 2016
+- [clayallsopp/react-vr: Write VR web apps with React JS](https://github.com/clayallsopp/react-vr) 
