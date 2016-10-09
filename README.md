@@ -203,3 +203,6 @@
 
 ### October 7, 2016
 - [clayallsopp/react-vr: Write VR web apps with React JS](https://github.com/clayallsopp/react-vr) 
+
+### October 9, 2016
+- [abDetector/abDetector.js at master · R4meau/abDetector](https://github.com/R4meau/abDetector/blob/master/abDetector.js) 
