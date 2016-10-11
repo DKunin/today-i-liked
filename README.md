@@ -206,3 +206,6 @@
 
 ### October 9, 2016
 - [abDetector/abDetector.js at master · R4meau/abDetector](https://github.com/R4meau/abDetector/blob/master/abDetector.js) 
+
+### October 11, 2016
+- [cujojs/most: Ultra-high performance reactive programming](https://github.com/cujojs/most) 
