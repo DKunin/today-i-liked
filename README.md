@@ -209,3 +209,4 @@
 
 ### October 11, 2016
 - [cujojs/most: Ultra-high performance reactive programming](https://github.com/cujojs/most) 
+- [yarnpkg/yarn: 📦🐈 Fast, reliable, and secure dependency management for JavaScript.](https://github.com/yarnpkg/yarn) 
