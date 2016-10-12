@@ -210,3 +210,6 @@
 ### October 11, 2016
 - [cujojs/most: Ultra-high performance reactive programming](https://github.com/cujojs/most) 
 - [yarnpkg/yarn: 📦🐈 Fast, reliable, and secure dependency management for JavaScript.](https://github.com/yarnpkg/yarn) 
+
+### October 12, 2016
+- [Quick Tip: Accessing The Clipboard With JavaScript | Tutorialzine](http://tutorialzine.com/2016/10/quick-tip-accessing-the-clipboard-with-javascript/?utm_source=codropscollective) 
