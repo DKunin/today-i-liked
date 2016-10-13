@@ -213,3 +213,6 @@
 
 ### October 12, 2016
 - [Quick Tip: Accessing The Clipboard With JavaScript | Tutorialzine](http://tutorialzine.com/2016/10/quick-tip-accessing-the-clipboard-with-javascript/?utm_source=codropscollective) 
+
+### October 13, 2016
+- [deepstream.io - the open realtime server](https://deepstream.io/) 
