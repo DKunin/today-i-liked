@@ -219,3 +219,4 @@
 
 ### October 17, 2016
 - [zalando/zalando-howto-open-source: The open-source guidelines followed by tech at Zalando(.com), Europe's largest online fashion platform.](https://github.com/zalando/zalando-howto-open-source) 
+- [mcollina/fastify: Fast and low overhead web framework, for Node.js](https://github.com/mcollina/fastify) 
