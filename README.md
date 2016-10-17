@@ -216,3 +216,6 @@
 
 ### October 13, 2016
 - [deepstream.io - the open realtime server](https://deepstream.io/) 
+
+### October 17, 2016
+- [zalando/zalando-howto-open-source: The open-source guidelines followed by tech at Zalando(.com), Europe's largest online fashion platform.](https://github.com/zalando/zalando-howto-open-source) 
