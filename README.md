@@ -224,3 +224,4 @@
 
 ### October 18, 2016
 - [andrewrk/mpd.js: Connect to a music player daemon server, send commands, emit events.](https://github.com/andrewrk/mpd.js) 
+- [No Nonsense Survival Kit - All](http://www.instructables.com/id/No-Nonsense-Survival-Kit/?ALLSTEPS) 
