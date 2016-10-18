@@ -221,3 +221,6 @@
 - [zalando/zalando-howto-open-source: The open-source guidelines followed by tech at Zalando(.com), Europe's largest online fashion platform.](https://github.com/zalando/zalando-howto-open-source) 
 - [mcollina/fastify: Fast and low overhead web framework, for Node.js](https://github.com/mcollina/fastify) 
 - [8 Ways to Become More Creative in the Next 10 Minutes – The Mission – Medium](https://medium.com/the-mission/ways-to-become-more-creative-in-the-next-10-minutes-fef1e48a0b5f#.nk2xdk9h3) 
+
+### October 18, 2016
+- [andrewrk/mpd.js: Connect to a music player daemon server, send commands, emit events.](https://github.com/andrewrk/mpd.js) 
