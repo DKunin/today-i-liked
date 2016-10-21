@@ -231,3 +231,4 @@
 
 ### October 21, 2016
 - [deepsweet/dotfiles-1: My OS X environment](https://github.com/deepsweet/dotfiles-1) 
+- [mdn/data: This repository contains general data for Web technologies](https://github.com/mdn/data) 
