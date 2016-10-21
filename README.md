@@ -228,3 +228,6 @@
 
 ### October 20, 2016
 - [kennethreitz/autoenv: Directory-based environments.](https://github.com/kennethreitz/autoenv) 
+
+### October 21, 2016
+- [deepsweet/dotfiles-1: My OS X environment](https://github.com/deepsweet/dotfiles-1) 
