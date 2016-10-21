@@ -234,3 +234,4 @@
 - [mdn/data: This repository contains general data for Web technologies](https://github.com/mdn/data) 
 - [sindresorhus/p-map: Map over promises concurrently](https://github.com/sindresorhus/p-map) 
 - [jeffjose/tget: tget is wget for torrents](https://github.com/jeffjose/tget) 
+- [Semantic-Org/Semantic-UI-React: The official Semantic-UI-React integration](https://github.com/Semantic-Org/Semantic-UI-React) 
