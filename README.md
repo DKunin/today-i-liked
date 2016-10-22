@@ -235,3 +235,6 @@
 - [sindresorhus/p-map: Map over promises concurrently](https://github.com/sindresorhus/p-map) 
 - [jeffjose/tget: tget is wget for torrents](https://github.com/jeffjose/tget) 
 - [Semantic-Org/Semantic-UI-React: The official Semantic-UI-React integration](https://github.com/Semantic-Org/Semantic-UI-React) 
+
+### October 22, 2016
+- [FineUploader/react-fine-uploader: Easily integrate Fine Uploader into a React app. Drop-in high-level components for a turn-key UI. Use small focused components to build a more custom UI.](https://github.com/FineUploader/react-fine-uploader) 
