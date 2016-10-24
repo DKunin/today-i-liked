@@ -238,3 +238,6 @@
 
 ### October 22, 2016
 - [FineUploader/react-fine-uploader: Easily integrate Fine Uploader into a React app. Drop-in high-level components for a turn-key UI. Use small focused components to build a more custom UI.](https://github.com/FineUploader/react-fine-uploader) 
+
+### October 24, 2016
+- [alebcay/awesome-shell: A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.](https://github.com/alebcay/awesome-shell) 
