@@ -241,3 +241,6 @@
 
 ### October 24, 2016
 - [alebcay/awesome-shell: A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.](https://github.com/alebcay/awesome-shell) 
+
+### October 25, 2016
+- [MakerCase - Easy Laser Cut Case Design](http://www.makercase.com/) 
