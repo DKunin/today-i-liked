@@ -244,3 +244,6 @@
 
 ### October 25, 2016
 - [MakerCase - Easy Laser Cut Case Design](http://www.makercase.com/) 
+
+### October 26, 2016
+- [radibit/alfred-vue: Alfred 3 workflow to search for Vue.js API references on vuejs.org](https://github.com/radibit/alfred-vue?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue) 
