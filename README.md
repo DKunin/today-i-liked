@@ -248,3 +248,4 @@
 ### October 26, 2016
 - [radibit/alfred-vue: Alfred 3 workflow to search for Vue.js API references on vuejs.org](https://github.com/radibit/alfred-vue?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue) 
 - [linuxenko/lessmd: Minimal marked based unix terminal document viewer/pager with many features like markdown to terminal translation, file change watching and more.](https://github.com/linuxenko/lessmd?master) 
+- [Learning ES6: 12 tricks for ES6 fun | Ben Ilegbodu](http://www.benmvp.com/learning-es6-12-tricks-for-es6-fun/) 
