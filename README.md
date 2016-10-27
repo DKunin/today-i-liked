@@ -256,3 +256,6 @@
 - [dotfiles/setup-darwin at master · sheerun/dotfiles](https://github.com/sheerun/dotfiles/blob/master/bin/setup-darwin) 
 - [Grommet](https://grommet.github.io/) 
 - [Node.js code hotswapping with DevTools - Chrome DevTools - Dev Tips](https://umaar.com/dev-tips/119-node-js-hot-code-swap/?utm_source=Dev+Tips&utm_campaign=a85bd8b4c6-EMAIL_CAMPAIGN_2016_10_27&utm_medium=email&utm_term=0_26bacd765c-a85bd8b4c6-310356825) 
+
+### October 28, 2016
+- [.bashrc generator: create your .bashrc PS1 with a drag and drop interface](http://bashrcgenerator.com/) 
