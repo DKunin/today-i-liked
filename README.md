@@ -255,3 +255,4 @@
 - [CertSimple | How to deploy your node app on Linux, 2016 edition](https://certsimple.com/blog/deploy-node-on-linux) 
 - [dotfiles/setup-darwin at master · sheerun/dotfiles](https://github.com/sheerun/dotfiles/blob/master/bin/setup-darwin) 
 - [Grommet](https://grommet.github.io/) 
+- [Node.js code hotswapping with DevTools - Chrome DevTools - Dev Tips](https://umaar.com/dev-tips/119-node-js-hot-code-swap/?utm_source=Dev+Tips&utm_campaign=a85bd8b4c6-EMAIL_CAMPAIGN_2016_10_27&utm_medium=email&utm_term=0_26bacd765c-a85bd8b4c6-310356825) 
