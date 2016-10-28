@@ -259,3 +259,4 @@
 
 ### October 28, 2016
 - [.bashrc generator: create your .bashrc PS1 with a drag and drop interface](http://bashrcgenerator.com/) 
+- [paulsonnentag/swip: a library to create multi device experiments](https://github.com/paulsonnentag/swip) 
