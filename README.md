@@ -260,3 +260,4 @@
 ### October 28, 2016
 - [.bashrc generator: create your .bashrc PS1 with a drag and drop interface](http://bashrcgenerator.com/) 
 - [paulsonnentag/swip: a library to create multi device experiments](https://github.com/paulsonnentag/swip) 
+- [leereilly/games: A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.](https://github.com/leereilly/games#user-content-mmorpg-1) 
