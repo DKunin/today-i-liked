@@ -264,3 +264,6 @@
 
 ### October 29, 2016
 - [CityOfBoston/boston.gov: The official repository of Boston.gov](https://github.com/CityOfBoston/boston.gov) 
+
+### October 31, 2016
+- [ljharb/qs: A querystring parser with nesting support](https://github.com/ljharb/qs) 
