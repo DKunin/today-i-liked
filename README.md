@@ -267,3 +267,4 @@
 
 ### October 31, 2016
 - [ljharb/qs: A querystring parser with nesting support](https://github.com/ljharb/qs) 
+- [caolan/forms: An easy way to create, parse and validate forms in node.js](https://github.com/caolan/forms) 
