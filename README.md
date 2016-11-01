@@ -272,3 +272,4 @@
 
 ### November 1, 2016
 - [jaridmargolin/inspect-process: 🔍 Dead simple debugging for node.js using chrome-devtools.](https://github.com/jaridmargolin/inspect-process) 
+- [richtr/NoSleep.js: Prevent display sleep and enable wake lock in any Android or iOS web browser.](https://github.com/richtr/NoSleep.js) 
