@@ -279,3 +279,4 @@
 
 ### November 3, 2016
 - [vue-play/vue-play: 🍭 A minimalistic framework for demonstrating your Vue components](https://github.com/vue-play/vue-play) 
+- [4Catalyzer/css-literal-loader: Parse css tagged template literals as CSS files](https://github.com/4Catalyzer/css-literal-loader) 
