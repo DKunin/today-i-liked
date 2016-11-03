@@ -276,3 +276,6 @@
 
 ### November 2, 2016
 - [inikulin/parse5: WHATWG HTML5 specification-compliant, fast and ready for production HTML parsing/serialization toolset for Node.js](https://github.com/inikulin/parse5) 
+
+### November 3, 2016
+- [vue-play/vue-play: 🍭 A minimalistic framework for demonstrating your Vue components](https://github.com/vue-play/vue-play) 
