@@ -280,3 +280,6 @@
 ### November 3, 2016
 - [vue-play/vue-play: 🍭 A minimalistic framework for demonstrating your Vue components](https://github.com/vue-play/vue-play) 
 - [4Catalyzer/css-literal-loader: Parse css tagged template literals as CSS files](https://github.com/4Catalyzer/css-literal-loader) 
+
+### November 5, 2016
+- [Bake a Fresh Raspberry Pi: Never Struggle To Configure A Pi Again | Hackaday](http://hackaday.com/2016/11/04/bake-a-fresh-raspberry-pi-never-struggle-to-configure-a-pi-again/) 
