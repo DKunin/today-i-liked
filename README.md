@@ -283,3 +283,6 @@
 
 ### November 5, 2016
 - [Bake a Fresh Raspberry Pi: Never Struggle To Configure A Pi Again | Hackaday](http://hackaday.com/2016/11/04/bake-a-fresh-raspberry-pi-never-struggle-to-configure-a-pi-again/) 
+
+### November 6, 2016
+- [yoshuawuyts/merry: - nimble HTTP framework](https://github.com/yoshuawuyts/merry) 
