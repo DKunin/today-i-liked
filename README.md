@@ -286,3 +286,6 @@
 
 ### November 6, 2016
 - [yoshuawuyts/merry: - nimble HTTP framework](https://github.com/yoshuawuyts/merry) 
+
+### November 7, 2016
+- [voir/voir.js at master · richardanaya/voir](https://github.com/richardanaya/voir/blob/master/voir.js) 
