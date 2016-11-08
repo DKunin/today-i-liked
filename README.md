@@ -289,3 +289,6 @@
 
 ### November 7, 2016
 - [voir/voir.js at master · richardanaya/voir](https://github.com/richardanaya/voir/blob/master/voir.js) 
+
+### November 8, 2016
+- [How to prepare your rooted Android for official OTA updates](https://www.gadgetdaily.xyz/how-to-prepare-your-rooted-android-for-official-ota-updates/) 
