@@ -292,3 +292,6 @@
 
 ### November 8, 2016
 - [How to prepare your rooted Android for official OTA updates](https://www.gadgetdaily.xyz/how-to-prepare-your-rooted-android-for-official-ota-updates/) 
+
+### November 9, 2016
+- [xpl/crx-hotreload: Chrome Extension Hot Reloader](https://github.com/xpl/crx-hotreload) 
