@@ -295,3 +295,6 @@
 
 ### November 9, 2016
 - [xpl/crx-hotreload: Chrome Extension Hot Reloader](https://github.com/xpl/crx-hotreload) 
+
+### November 10, 2016
+- [10 Tips and Tricks That Will Make You an npm Ninja](https://www.sitepoint.com/10-npm-tips-and-tricks/?utm_source=nodeweekly&utm_medium=email) 
