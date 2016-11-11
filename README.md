@@ -301,3 +301,4 @@
 
 ### November 11, 2016
 - [turbo/js: turbo.js - perform massive parallel computations in your browser with GPGPU.](https://github.com/turbo/js?utm_source=javascriptweekly&utm_medium=email) 
+- [The Missing Immutable.js Manual with all the Examples you’ll ever need | Untangled](http://untangled.io/the-missing-immutable-js-manual/?utm_source=javascriptweekly&utm_medium=email) 
