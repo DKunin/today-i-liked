@@ -298,3 +298,6 @@
 
 ### November 10, 2016
 - [10 Tips and Tricks That Will Make You an npm Ninja](https://www.sitepoint.com/10-npm-tips-and-tricks/?utm_source=nodeweekly&utm_medium=email) 
+
+### November 11, 2016
+- [turbo/js: turbo.js - perform massive parallel computations in your browser with GPGPU.](https://github.com/turbo/js?utm_source=javascriptweekly&utm_medium=email) 
