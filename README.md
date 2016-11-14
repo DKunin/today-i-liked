@@ -304,3 +304,6 @@
 - [The Missing Immutable.js Manual with all the Examples you’ll ever need | Untangled](http://untangled.io/the-missing-immutable-js-manual/?utm_source=javascriptweekly&utm_medium=email) 
 - [rstacruz/kingraph: Plots family trees using JavaScript and Graphviz](https://github.com/rstacruz/kingraph) 
 - [xpl/crx-hotreload: Chrome Extension Hot Reloader](https://github.com/xpl/crx-hotreload) 
+
+### November 14, 2016
+- [Service Workers: an Introduction  |  Web  |  Google Developers](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers) 
