@@ -307,3 +307,6 @@
 
 ### November 14, 2016
 - [Service Workers: an Introduction  |  Web  |  Google Developers](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers) 
+
+### November 17, 2016
+- [Element - A Desktop UI Toolkit for Web](http://element.eleme.io/#/en-US) 
