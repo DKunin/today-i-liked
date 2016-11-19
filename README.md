@@ -316,3 +316,6 @@
 ### November 18, 2016
 - [pinojs/pino: 🌲 super fast, all natural json logger 🌲](https://github.com/pinojs/pino) 
 - [phenax/plasmajs: An isomorphic nodeJS framework based on react](https://github.com/phenax/plasmajs?utm_source=nodeweekly&utm_medium=email) 
+
+### November 19, 2016
+- [GitbookIO/gitbook: 📝 Modern documentation format and toolchain using Git and Markdown](https://github.com/GitbookIO/gitbook) 
