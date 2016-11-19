@@ -319,3 +319,4 @@
 
 ### November 19, 2016
 - [GitbookIO/gitbook: 📝 Modern documentation format and toolchain using Git and Markdown](https://github.com/GitbookIO/gitbook) 
+- [Schedule Template in CSS and jQuery | CodyHouse](https://codyhouse.co/gem/schedule-template/?utm_source=codropscollective) 
