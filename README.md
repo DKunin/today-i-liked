@@ -326,3 +326,4 @@
 
 ### November 21, 2016
 - [samyk/awesome-raspberrypi: A curated list of awesome Raspberry Pi tools, projects, images and resources](https://github.com/samyk/awesome-raspberrypi) 
+- [sindresorhus/electron-boilerplate: Boilerplate to kickstart creating an app with Electron](https://github.com/sindresorhus/electron-boilerplate) 
