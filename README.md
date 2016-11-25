@@ -331,3 +331,6 @@
 
 ### November 24, 2016
 - [mapbox/pixelmatch: The smallest, simplest and fastest JavaScript pixel-level image comparison library](https://github.com/mapbox/pixelmatch) 
+
+### November 25, 2016
+- [bevacqua/reads: A list of physical books I own and read. Includes ratings!](https://github.com/bevacqua/reads) 
