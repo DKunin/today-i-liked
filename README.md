@@ -336,3 +336,6 @@
 - [bevacqua/reads: A list of physical books I own and read. Includes ratings!](https://github.com/bevacqua/reads) 
 - [ElemeFE/restc: A server-side middleware to visualize REST requests.](https://github.com/ElemeFE/restc) 
 - [Mercury Web Parser by Postlight](https://mercury.postlight.com/web-parser/) 
+
+### November 26, 2016
+- [dhamaniasad/HeadlessBrowsers: A list of (almost) all headless web browsers in existence](https://github.com/dhamaniasad/HeadlessBrowsers) 
