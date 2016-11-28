@@ -339,3 +339,6 @@
 
 ### November 26, 2016
 - [dhamaniasad/HeadlessBrowsers: A list of (almost) all headless web browsers in existence](https://github.com/dhamaniasad/HeadlessBrowsers) 
+
+### November 28, 2016
+- [RichardLitt/standard-readme: Readme Standard Style](https://github.com/RichardLitt/standard-readme) 
