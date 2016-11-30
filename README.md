@@ -347,3 +347,4 @@
 ### November 30, 2016
 - [graph.cool | Pricing](https://graph.cool/pricing) 
 - [not-an-aardvark/lucky-commit: Make your git commits lucky!](https://github.com/not-an-aardvark/lucky-commit) 
+- [Rethinking validations for Vue.js](http://monterail.com/blog/2016/rethinking-validations-for-vue-js/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue) 
