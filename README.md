@@ -348,3 +348,4 @@
 - [graph.cool | Pricing](https://graph.cool/pricing) 
 - [not-an-aardvark/lucky-commit: Make your git commits lucky!](https://github.com/not-an-aardvark/lucky-commit) 
 - [Rethinking validations for Vue.js](http://monterail.com/blog/2016/rethinking-validations-for-vue-js/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue) 
+- [Higher-Order Components in Vue.js – tldr tech – Medium](https://medium.com/tldr-tech/higher-order-components-in-vue-js-38b500c6d49f#.dqe0ayu8g) 
