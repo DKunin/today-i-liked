@@ -343,3 +343,6 @@
 ### November 28, 2016
 - [RichardLitt/standard-readme: Readme Standard Style](https://github.com/RichardLitt/standard-readme) 
 - [shamansir/rpd: A Minimal Engine for creating Node-Based Visual Programming User Interfaces](https://github.com/shamansir/rpd) 
+
+### November 30, 2016
+- [graph.cool | Pricing](https://graph.cool/pricing) 
