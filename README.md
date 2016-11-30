@@ -346,3 +346,4 @@
 
 ### November 30, 2016
 - [graph.cool | Pricing](https://graph.cool/pricing) 
+- [not-an-aardvark/lucky-commit: Make your git commits lucky!](https://github.com/not-an-aardvark/lucky-commit) 
