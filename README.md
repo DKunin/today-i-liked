@@ -353,3 +353,4 @@
 
 ### December 1, 2016
 - [OpenEmu - Multiple Video Game System](http://openemu.org/) 
+- [dfahlander/Dexie.js: A Minimalistic Wrapper for IndexedDB](https://github.com/dfahlander/Dexie.js) 
