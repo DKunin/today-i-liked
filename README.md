@@ -360,3 +360,4 @@
 - [wulkano/aperture.js: A library for screen recording](https://github.com/wulkano/aperture.js) 
 - [sindresorhus/clipboardy: Access the system clipboard (copy/paste)](https://github.com/sindresorhus/clipboardy) 
 - [typicode/hotel: A simple process manager for developers. Start apps from your browser and get local dev domains in seconds](https://github.com/typicode/hotel) 
+- [lerna/lerna: A tool for managing JavaScript projects with multiple packages.](https://github.com/lerna/lerna/) 
