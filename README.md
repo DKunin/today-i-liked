@@ -358,3 +358,4 @@
 
 ### December 5, 2016
 - [wulkano/aperture.js: A library for screen recording](https://github.com/wulkano/aperture.js) 
+- [sindresorhus/clipboardy: Access the system clipboard (copy/paste)](https://github.com/sindresorhus/clipboardy) 
