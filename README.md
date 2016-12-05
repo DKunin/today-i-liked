@@ -355,3 +355,6 @@
 - [OpenEmu - Multiple Video Game System](http://openemu.org/) 
 - [dfahlander/Dexie.js: A Minimalistic Wrapper for IndexedDB](https://github.com/dfahlander/Dexie.js) 
 - [MaximAbramchuck/awesome-interview-questions: A curated awesome list of lists of interview questions. Feel free to contribute!](https://github.com/MaximAbramchuck/awesome-interview-questions#javascript) 
+
+### December 5, 2016
+- [wulkano/aperture.js: A library for screen recording](https://github.com/wulkano/aperture.js) 
