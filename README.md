@@ -361,3 +361,6 @@
 - [sindresorhus/clipboardy: Access the system clipboard (copy/paste)](https://github.com/sindresorhus/clipboardy) 
 - [typicode/hotel: A simple process manager for developers. Start apps from your browser and get local dev domains in seconds](https://github.com/typicode/hotel) 
 - [lerna/lerna: A tool for managing JavaScript projects with multiple packages.](https://github.com/lerna/lerna/) 
+
+### December 6, 2016
+- [flarum/flarum: Delightfully simple forum software.](https://github.com/flarum/flarum) 
