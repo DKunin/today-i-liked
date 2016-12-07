@@ -366,3 +366,6 @@
 - [flarum/flarum: Delightfully simple forum software.](https://github.com/flarum/flarum) 
 - [mathisonian/premonish: Predict which DOM element a user will interact with next.](https://github.com/mathisonian/premonish) 
 - [D3.js - Radar Chart or Spider Chart - Adjusted from radar-chart-d3 - bl.ocks.org](http://bl.ocks.org/nbremer/6506614) 
+
+### December 7, 2016
+- [drewjbartlett/vue-flickity: A Vue Component for Flickity.js](https://github.com/drewjbartlett/vue-flickity?utm_campaign=buffer&utm_content=buffer24372&utm_medium=social&utm_source=twitter.com) 
