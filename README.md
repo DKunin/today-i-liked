@@ -369,3 +369,6 @@
 
 ### December 7, 2016
 - [drewjbartlett/vue-flickity: A Vue Component for Flickity.js](https://github.com/drewjbartlett/vue-flickity?utm_campaign=buffer&utm_content=buffer24372&utm_medium=social&utm_source=twitter.com) 
+
+### December 8, 2016
+- [BoxFactura/pulltorefresh.js: A quick and powerful plugin for your pull-to-refresh needs in your webapp.](https://github.com/BoxFactura/pulltorefresh.js) 
