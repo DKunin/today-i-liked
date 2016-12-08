@@ -372,3 +372,4 @@
 
 ### December 8, 2016
 - [BoxFactura/pulltorefresh.js: A quick and powerful plugin for your pull-to-refresh needs in your webapp.](https://github.com/BoxFactura/pulltorefresh.js) 
+- [Critical Path CSS Generator - Prioritize above the fold content :: SiteLocity](https://www.sitelocity.com/critical-path-css-generator?utm_source=frontendfocus&utm_medium=email) 
