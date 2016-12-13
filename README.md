@@ -376,3 +376,6 @@
 
 ### December 12, 2016
 - [egoist/docute: Effortlessly documentation done right.](https://github.com/egoist/docute) 
+
+### December 13, 2016
+- [ragingwind/learning-pwa: Learning Progressive Web Apps step by step](https://github.com/ragingwind/learning-pwa) 
