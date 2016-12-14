@@ -382,3 +382,4 @@
 
 ### December 14, 2016
 - [antivanov/sniffr: Browser, os and device detection](https://github.com/antivanov/sniffr) 
+- [kerberos-io/machinery: An image processing framework, which uses your USB-, IP- or RPi-camera to recognize events (e.g. motion).](https://github.com/kerberos-io/machinery) 
