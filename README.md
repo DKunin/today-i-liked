@@ -379,3 +379,6 @@
 
 ### December 13, 2016
 - [ragingwind/learning-pwa: Learning Progressive Web Apps step by step](https://github.com/ragingwind/learning-pwa) 
+
+### December 14, 2016
+- [antivanov/sniffr: Browser, os and device detection](https://github.com/antivanov/sniffr) 
