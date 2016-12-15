@@ -384,3 +384,6 @@
 - [antivanov/sniffr: Browser, os and device detection](https://github.com/antivanov/sniffr) 
 - [kerberos-io/machinery: An image processing framework, which uses your USB-, IP- or RPi-camera to recognize events (e.g. motion).](https://github.com/kerberos-io/machinery) 
 - [AkihiroSuda/awesome-swarm: A curated list of Swarm (Docker >=1.12) resources and projects](https://github.com/AkihiroSuda/awesome-swarm) 
+
+### December 15, 2016
+- [lightsinthesky/react-node-graph: React node graph component](https://github.com/lightsinthesky/react-node-graph) 
