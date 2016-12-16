@@ -394,3 +394,4 @@
 - [Demystifying Public Speaking · An A List Apart Article](http://alistapart.com/article/demystifying-public-speaking) 
 - [Vue JS 2.0 Component Framework | Vuetify](https://vuetifyjs.com/) 
 - [gamestdio/colyseus: Minimalist Multiplayer Game Server for Node.js.](https://github.com/gamestdio/colyseus?utm_source=nodeweekly&utm_medium=email) 
+- [sibartlett/hyperterm-1password: 1Password extension for HyperTerm](https://github.com/sibartlett/hyperterm-1password) 
