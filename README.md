@@ -391,3 +391,4 @@
 
 ### December 16, 2016
 - [MicheleBertoli/react-fix-it: Automagically generate tests from errors](https://github.com/MicheleBertoli/react-fix-it) 
+- [Demystifying Public Speaking · An A List Apart Article](http://alistapart.com/article/demystifying-public-speaking) 
