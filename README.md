@@ -398,3 +398,4 @@
 
 ### December 19, 2016
 - [cowbell/sharedrop: HTML5 clone of Apple's AirDrop - easy P2P file transfer powered by WebRTC](https://github.com/cowbell/sharedrop) 
+- [vuejs/vuefire: Firebase bindings for Vue.js](https://github.com/vuejs/vuefire) 
