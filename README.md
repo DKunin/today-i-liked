@@ -402,3 +402,4 @@
 
 ### December 20, 2016
 - [255kb/stack-on-a-budget: A collection of services with great free tiers for developers on a budget](https://github.com/255kb/stack-on-a-budget) 
+- [cheeriojs/cheerio: Fast, flexible, and lean implementation of core jQuery designed specifically for the server.](https://github.com/cheeriojs/cheerio) 
