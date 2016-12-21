@@ -406,3 +406,4 @@
 
 ### December 21, 2016
 - [mariusandra/pigeon-maps: ReactJS Maps without external dependencies](https://github.com/mariusandra/pigeon-maps) 
+- [HQarroum/awesome-iot: A curated list of awesome Internet of Things projects and resources.](https://github.com/HQarroum/awesome-iot) 
