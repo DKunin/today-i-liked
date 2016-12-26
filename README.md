@@ -411,3 +411,4 @@
 ### December 26, 2016
 - [ai/browserslist: Share browsers list between different front-end tools, like Autoprefixer, Stylelint and babel-env-preset.](https://github.com/ai/browserslist) 
 - [ChromeDevTools/devtools-frontend: The Chrome DevTools UI](https://github.com/ChromeDevTools/devtools-frontend) 
+- [typograf/typograf: Типографика на JavaScript](https://github.com/typograf/typograf) 
