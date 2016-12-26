@@ -407,3 +407,6 @@
 ### December 21, 2016
 - [mariusandra/pigeon-maps: ReactJS Maps without external dependencies](https://github.com/mariusandra/pigeon-maps) 
 - [HQarroum/awesome-iot: A curated list of awesome Internet of Things projects and resources.](https://github.com/HQarroum/awesome-iot) 
+
+### December 26, 2016
+- [ai/browserslist: Share browsers list between different front-end tools, like Autoprefixer, Stylelint and babel-env-preset.](https://github.com/ai/browserslist) 
