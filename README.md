@@ -414,3 +414,6 @@
 - [typograf/typograf: Типографика на JavaScript](https://github.com/typograf/typograf) 
 - [vuejs/awesome-vue: A curated list of awesome things related to Vue.js](https://github.com/vuejs/awesome-vue) 
 - [список високосных лет - Поиск в Google](https://www.google.ru/search?q=%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA+%D0%B2%D0%B8%D1%81%D0%BE%D0%BA%D0%BE%D1%81%D0%BD%D1%8B%D1%85+%D0%BB%D0%B5%D1%82&oq=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA+%D0%B2%D0%B5%D1%81%D0%BE%D0%BA%D0%BE%D1%81%D0%BD%D1%8B&aqs=chrome.1.69i57j0l3.3695j0j1&sourceid=chrome&ie=UTF-8) 
+
+### December 27, 2016
+- [devtools-html/debugger.html: The Firefox debugger that works anywhere](https://github.com/devtools-html/debugger.html) 
