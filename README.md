@@ -418,3 +418,6 @@
 ### December 27, 2016
 - [devtools-html/debugger.html: The Firefox debugger that works anywhere](https://github.com/devtools-html/debugger.html) 
 - [egoist/sao: Futuristic scaffolding tool.](https://github.com/egoist/sao) 
+
+### December 28, 2016
+- [My lightbulb moment with modular design – We Are Yammer – Medium](https://medium.com/we-are-yammer/my-lightbulb-moment-with-modular-design-8c256f036f90#.arsul02oj) 
