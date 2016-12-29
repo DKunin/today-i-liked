@@ -421,3 +421,6 @@
 
 ### December 28, 2016
 - [My lightbulb moment with modular design – We Are Yammer – Medium](https://medium.com/we-are-yammer/my-lightbulb-moment-with-modular-design-8c256f036f90#.arsul02oj) 
+
+### December 29, 2016
+- [jonschlinkert/guide-to-staying-productive: If you're looking for ways to stay motivated and focused, while still having fun, this guide is for you! Contributions and any kind of improvements are very welcome!](https://github.com/jonschlinkert/guide-to-staying-productive) 
