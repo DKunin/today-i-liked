@@ -426,3 +426,4 @@
 - [jonschlinkert/guide-to-staying-productive: If you're looking for ways to stay motivated and focused, while still having fun, this guide is for you! Contributions and any kind of improvements are very welcome!](https://github.com/jonschlinkert/guide-to-staying-productive) 
 - [lemonce/svg-captcha: generate svg captcha in node](https://github.com/lemonce/svg-captcha) 
 - [rockymadden/slack-cli: Powerful Slack CLI via pure bash](https://github.com/rockymadden/slack-cli) 
+- [beakerbrowser/beaker: An Experimental P2P Browser](https://github.com/beakerbrowser/beaker) 
