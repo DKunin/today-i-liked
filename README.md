@@ -427,3 +427,6 @@
 - [lemonce/svg-captcha: generate svg captcha in node](https://github.com/lemonce/svg-captcha) 
 - [rockymadden/slack-cli: Powerful Slack CLI via pure bash](https://github.com/rockymadden/slack-cli) 
 - [beakerbrowser/beaker: An Experimental P2P Browser](https://github.com/beakerbrowser/beaker) 
+
+### January 3, 2017
+- [prigara/javascript-conferences: List of conferences for frontend and Node.js developers in 2016](https://github.com/prigara/javascript-conferences) 
