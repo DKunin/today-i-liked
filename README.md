@@ -432,3 +432,6 @@
 - [prigara/javascript-conferences: List of conferences for frontend and Node.js developers in 2016](https://github.com/prigara/javascript-conferences) 
 - [google/eslint-config-google: ESLint shareable config for the Google JavaScript style guide](https://github.com/google/eslint-config-google) 
 - [passy/awesome-recursion-schemes: Resources for learning and using recursion schemes.](https://github.com/passy/awesome-recursion-schemes) 
+
+### January 8, 2017
+- [maniart/diffyjs: A dependency-free motion detection library for the browser](https://github.com/maniart/diffyjs) 
