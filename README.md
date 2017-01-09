@@ -435,3 +435,6 @@
 
 ### January 8, 2017
 - [maniart/diffyjs: A dependency-free motion detection library for the browser](https://github.com/maniart/diffyjs) 
+
+### January 9, 2017
+- [SSENSE/vue-carousel: A flexible, responsive, touch-friendly carousel for Vue.js](https://github.com/SSENSE/vue-carousel) 
