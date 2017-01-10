@@ -438,3 +438,6 @@
 
 ### January 9, 2017
 - [SSENSE/vue-carousel: A flexible, responsive, touch-friendly carousel for Vue.js](https://github.com/SSENSE/vue-carousel) 
+
+### January 10, 2017
+- [nasa/openmct: A web based mission control framework.](https://github.com/nasa/openmct) 
