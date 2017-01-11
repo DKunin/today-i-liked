@@ -441,3 +441,6 @@
 
 ### January 10, 2017
 - [nasa/openmct: A web based mission control framework.](https://github.com/nasa/openmct) 
+
+### January 11, 2017
+- [jlord/git-it-electron: A Git-it Desktop App (A Node.js app, not Perl as GH suggests)](https://github.com/jlord/git-it-electron) 
