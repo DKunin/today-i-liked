@@ -448,3 +448,4 @@
 
 ### January 12, 2017
 - [fontforge/fontforge: Free (libre) font editor for Windows, Mac OS X and GNU+Linux](https://github.com/fontforge/fontforge) 
+- [OpenCV tutorial: Computer vision with Node.js | @RisingStack](https://community.risingstack.com/opencv-tutorial-computer-vision-with-node-js/) 
