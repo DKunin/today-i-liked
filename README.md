@@ -450,3 +450,6 @@
 - [fontforge/fontforge: Free (libre) font editor for Windows, Mac OS X and GNU+Linux](https://github.com/fontforge/fontforge) 
 - [OpenCV tutorial: Computer vision with Node.js | @RisingStack](https://community.risingstack.com/opencv-tutorial-computer-vision-with-node-js/) 
 - [peterbraden/node-opencv: OpenCV Bindings for node.js](https://github.com/peterbraden/node-opencv) 
+
+### January 13, 2017
+- [GitHub - DevExpress/testcafe: Automated browser testing for the modern web development stack.](https://github.com/DevExpress/testcafe) 
