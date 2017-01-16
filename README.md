@@ -453,3 +453,6 @@
 
 ### January 13, 2017
 - [GitHub - DevExpress/testcafe: Automated browser testing for the modern web development stack.](https://github.com/DevExpress/testcafe) 
+
+### January 16, 2017
+- [big-list-of-naughty-strings/blns.json at master · minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings/blob/master/blns.json) 
