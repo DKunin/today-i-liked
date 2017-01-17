@@ -464,3 +464,6 @@
 - [prasmussen/chrome-cli: Control Google Chrome from the command line](https://github.com/prasmussen/chrome-cli) 
 - [thlorenz/nif: node --inspect a file and open devtool url in chrome via chrome-cli.](https://github.com/thlorenz/nif) 
 - [Tonejs/Tone.js: A Web Audio framework for making interactive music in the browser.](https://github.com/Tonejs/Tone.js) 
+
+### January 18, 2017
+- [sdras/vue-sublime-snippets: Simplify and supercharging my workflow with snippets for Vue.js that help me spin things up quickly](https://github.com/sdras/vue-sublime-snippets?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue) 
