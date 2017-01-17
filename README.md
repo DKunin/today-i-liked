@@ -458,3 +458,6 @@
 - [big-list-of-naughty-strings/blns.json at master · minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings/blob/master/blns.json) 
 - [anywhichway/unionizor: Superfast union supporting primitives and objects. In the age of big data, you need it.](https://github.com/anywhichway/unionizor) 
 - [planttheidea/highcharts-config: Declarative Highcharts configuration generator with immutable, chainable API](https://github.com/planttheidea/highcharts-config) 
+
+### January 17, 2017
+- [samdutton/simpl: Simplest possible examples of HTML, CSS and Javascript:](https://github.com/samdutton/simpl) 
