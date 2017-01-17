@@ -463,3 +463,4 @@
 - [samdutton/simpl: Simplest possible examples of HTML, CSS and Javascript:](https://github.com/samdutton/simpl) 
 - [prasmussen/chrome-cli: Control Google Chrome from the command line](https://github.com/prasmussen/chrome-cli) 
 - [thlorenz/nif: node --inspect a file and open devtool url in chrome via chrome-cli.](https://github.com/thlorenz/nif) 
+- [Tonejs/Tone.js: A Web Audio framework for making interactive music in the browser.](https://github.com/Tonejs/Tone.js) 
