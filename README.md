@@ -461,3 +461,4 @@
 
 ### January 17, 2017
 - [samdutton/simpl: Simplest possible examples of HTML, CSS and Javascript:](https://github.com/samdutton/simpl) 
+- [prasmussen/chrome-cli: Control Google Chrome from the command line](https://github.com/prasmussen/chrome-cli) 
