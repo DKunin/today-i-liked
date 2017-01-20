@@ -467,3 +467,6 @@
 
 ### January 18, 2017
 - [sdras/vue-sublime-snippets: Simplify and supercharging my workflow with snippets for Vue.js that help me spin things up quickly](https://github.com/sdras/vue-sublime-snippets?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue) 
+
+### January 20, 2017
+- [creatale/node-dv: A node.js library for processing and understanding scanned documents](https://github.com/creatale/node-dv) 
