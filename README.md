@@ -470,3 +470,6 @@
 
 ### January 20, 2017
 - [creatale/node-dv: A node.js library for processing and understanding scanned documents](https://github.com/creatale/node-dv) 
+
+### January 24, 2017
+- [marmelab/EventDrops: A time based / event series interactive visualization using d3.js](https://github.com/marmelab/EventDrops) 
