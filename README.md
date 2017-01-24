@@ -475,3 +475,6 @@
 - [marmelab/EventDrops: A time based / event series interactive visualization using d3.js](https://github.com/marmelab/EventDrops) 
 - [Jam3/google-maps-api: Get up and running with the google maps API quickly](https://github.com/Jam3/google-maps-api) 
 - [Jam3/ffmpeg-gif: shell script to convert video to high quality GIF with ffmpeg](https://github.com/Jam3/ffmpeg-gif) 
+
+### January 25, 2017
+- [MiCottOn/DejaVue: Visualization and debugging tool built for Vue.js](https://github.com/MiCottOn/DejaVue) 
