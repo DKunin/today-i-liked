@@ -478,3 +478,4 @@
 
 ### January 25, 2017
 - [MiCottOn/DejaVue: Visualization and debugging tool built for Vue.js](https://github.com/MiCottOn/DejaVue) 
+- [Understanding the Console API in JavaScript – 7 Tips for Smoother Debugging – Zsolt Nagy](http://www.zsoltnagy.eu/understanding-the-console-api-in-javascript-7-tips-for-smoother-debugging/) 
