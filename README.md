@@ -480,3 +480,6 @@
 - [MiCottOn/DejaVue: Visualization and debugging tool built for Vue.js](https://github.com/MiCottOn/DejaVue) 
 - [Understanding the Console API in JavaScript – 7 Tips for Smoother Debugging – Zsolt Nagy](http://www.zsoltnagy.eu/understanding-the-console-api-in-javascript-7-tips-for-smoother-debugging/) 
 - [How to copy to clipboard using JavaScript - jomendez](http://www.jomendez.com/2017/01/25/copy-clipboard-using-javascript/) 
+
+### January 26, 2017
+- [deepsyx/home-automation: Raspberry Pi 3 based home automation with NodeJS and React Native.](https://github.com/deepsyx/home-automation) 
