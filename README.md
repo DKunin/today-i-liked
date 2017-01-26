@@ -485,3 +485,4 @@
 - [deepsyx/home-automation: Raspberry Pi 3 based home automation with NodeJS and React Native.](https://github.com/deepsyx/home-automation) 
 - [108 задач с IT-собеседований с разбором решений](https://tproger.ru/articles/problems/) 
 - [HTML5 Security Cheat Sheet - OWASP](https://www.owasp.org/index.php/HTML5_Security_Cheat_Sheet?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=issue-47#Web_Workers) 
+- [paulirish/git-open: Type `git open` to open the GitHub page or website for a repository in your browser.](https://github.com/paulirish/git-open) 
