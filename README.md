@@ -483,3 +483,4 @@
 
 ### January 26, 2017
 - [deepsyx/home-automation: Raspberry Pi 3 based home automation with NodeJS and React Native.](https://github.com/deepsyx/home-automation) 
+- [108 задач с IT-собеседований с разбором решений](https://tproger.ru/articles/problems/) 
