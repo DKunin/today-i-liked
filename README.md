@@ -494,3 +494,4 @@
 
 ### February 1, 2017
 - [FrontendMasters/front-end-handbook-2017: 2017 edition of our front-end development guide](https://github.com/FrontendMasters/front-end-handbook-2017) 
+- [tunnckoCore/parse-function: Parse a function to an object that has its name, body, args and few more useful properties. Support regular functions, async/await, arrow and generator functions.](https://github.com/tunnckoCore/parse-function) 
