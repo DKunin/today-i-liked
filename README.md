@@ -497,3 +497,4 @@
 - [tunnckoCore/parse-function: Parse a function to an object that has its name, body, args and few more useful properties. Support regular functions, async/await, arrow and generator functions.](https://github.com/tunnckoCore/parse-function) 
 - [foo123/code-optimization-methods: A summary of code optimization methods](https://github.com/foo123/code-optimization-methods) 
 - [Fakerr/git-recall: Simple and handy tool to easily recall what you've done](https://github.com/Fakerr/git-recall) 
+- [breakdance/breakdance: Breakdance is a node.js library for converting HTML to markdown. Highly pluggable, flexible and easy to use. It's time for your markup to get down.](https://github.com/breakdance/breakdance) 
