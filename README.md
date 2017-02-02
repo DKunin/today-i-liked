@@ -498,3 +498,6 @@
 - [foo123/code-optimization-methods: A summary of code optimization methods](https://github.com/foo123/code-optimization-methods) 
 - [Fakerr/git-recall: Simple and handy tool to easily recall what you've done](https://github.com/Fakerr/git-recall) 
 - [breakdance/breakdance: Breakdance is a node.js library for converting HTML to markdown. Highly pluggable, flexible and easy to use. It's time for your markup to get down.](https://github.com/breakdance/breakdance) 
+
+### February 2, 2017
+- [zammad/zammad-docker: Zammad docker image for easy testing](https://github.com/zammad/zammad-docker) 
