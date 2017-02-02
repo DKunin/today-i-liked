@@ -501,3 +501,4 @@
 
 ### February 2, 2017
 - [zammad/zammad-docker: Zammad docker image for easy testing](https://github.com/zammad/zammad-docker) 
+- [10 Lodash Features You Can Replace with ES6](https://www.sitepoint.com/lodash-features-replace-es6/) 
