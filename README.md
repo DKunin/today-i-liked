@@ -502,3 +502,4 @@
 ### February 2, 2017
 - [zammad/zammad-docker: Zammad docker image for easy testing](https://github.com/zammad/zammad-docker) 
 - [10 Lodash Features You Can Replace with ES6](https://www.sitepoint.com/lodash-features-replace-es6/) 
+- [Detecting text in an image on the web in real-time - Tales of a Developer Advocate by Paul Kinlan](https://paul.kinlan.me/detecting-text-in-an-image/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=issue-48) 
