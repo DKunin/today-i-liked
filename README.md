@@ -503,3 +503,6 @@
 - [zammad/zammad-docker: Zammad docker image for easy testing](https://github.com/zammad/zammad-docker) 
 - [10 Lodash Features You Can Replace with ES6](https://www.sitepoint.com/lodash-features-replace-es6/) 
 - [Detecting text in an image on the web in real-time - Tales of a Developer Advocate by Paul Kinlan](https://paul.kinlan.me/detecting-text-in-an-image/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=issue-48) 
+
+### February 3, 2017
+- [gokulkrishh/demo-progressive-web-app: ⚙ A simple pwa to showcase offline, add to home screen, splash screen, push notifications, bg sync, share API etc,.](https://github.com/gokulkrishh/demo-progressive-web-app) 
