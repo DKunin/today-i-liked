@@ -507,3 +507,6 @@
 ### February 3, 2017
 - [gokulkrishh/demo-progressive-web-app: ⚙ A simple pwa to showcase offline, add to home screen, splash screen, push notifications, bg sync, share API etc,.](https://github.com/gokulkrishh/demo-progressive-web-app) 
 - [cdata/meat-scope: Capture your meatiest moments and share them with other meats!](https://github.com/cdata/meat-scope) 
+
+### February 6, 2017
+- [mikefarah/dashinator: Dashinator the daringly delightful dashboard. A replacement for dashing](https://github.com/mikefarah/dashinator) 
