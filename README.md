@@ -516,3 +516,4 @@
 - [bahmutov/game-of-github: Play Game of Life in your GitHub contributions](https://github.com/bahmutov/game-of-github) 
 - [hackjutsu/Lepton: An AWESOME desktop Gist client based on Electron.](https://github.com/hackjutsu/Lepton) 
 - [Web Share API brings the native sharing capabilities to the browser](https://blog.hospodarets.com/web-share-api) 
+- [shershen08/vue-styleguide-generator: React inspired style guide generator for Vue.js](https://github.com/shershen08/vue-styleguide-generator?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue) 
