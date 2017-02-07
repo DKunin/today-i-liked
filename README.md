@@ -515,3 +515,4 @@
 - [tommoor/electron-lets-move: Automatically move Electron apps to the Applications directory](https://github.com/tommoor/electron-lets-move) 
 - [bahmutov/game-of-github: Play Game of Life in your GitHub contributions](https://github.com/bahmutov/game-of-github) 
 - [hackjutsu/Lepton: An AWESOME desktop Gist client based on Electron.](https://github.com/hackjutsu/Lepton) 
+- [Web Share API brings the native sharing capabilities to the browser](https://blog.hospodarets.com/web-share-api) 
