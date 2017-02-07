@@ -510,3 +510,6 @@
 
 ### February 6, 2017
 - [mikefarah/dashinator: Dashinator the daringly delightful dashboard. A replacement for dashing](https://github.com/mikefarah/dashinator) 
+
+### February 7, 2017
+- [tommoor/electron-lets-move: Automatically move Electron apps to the Applications directory](https://github.com/tommoor/electron-lets-move) 
