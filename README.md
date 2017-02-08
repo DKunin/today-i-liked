@@ -518,3 +518,6 @@
 - [Web Share API brings the native sharing capabilities to the browser](https://blog.hospodarets.com/web-share-api) 
 - [shershen08/vue-styleguide-generator: React inspired style guide generator for Vue.js](https://github.com/shershen08/vue-styleguide-generator?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue) 
 - [GinMu/vue-audio: A simple audio player based on Vue 2.x which supports single, loop, order, circulation, and random mode](https://github.com/GinMu/vue-audio?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue) 
+
+### February 8, 2017
+- [Welcome | Clarifai Developer](https://developer.clarifai.com/) 
