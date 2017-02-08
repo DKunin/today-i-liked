@@ -522,3 +522,4 @@
 ### February 8, 2017
 - [Welcome | Clarifai Developer](https://developer.clarifai.com/) 
 - [Commandline Challenge](https://cmdchallenge.com/) 
+- [iFgR/vue-shortkey: Vue-ShortKey - plugin for Vue.js](https://github.com/iFgR/vue-shortkey?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue) 
