@@ -521,3 +521,4 @@
 
 ### February 8, 2017
 - [Welcome | Clarifai Developer](https://developer.clarifai.com/) 
+- [Commandline Challenge](https://cmdchallenge.com/) 
