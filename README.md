@@ -523,3 +523,6 @@
 - [Welcome | Clarifai Developer](https://developer.clarifai.com/) 
 - [Commandline Challenge](https://cmdchallenge.com/) 
 - [iFgR/vue-shortkey: Vue-ShortKey - plugin for Vue.js](https://github.com/iFgR/vue-shortkey?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue) 
+
+### February 10, 2017
+- [Docker for Devs Part 1: Containerizing Your Application - Lock Me Down](https://lockmedown.com/docker-4-devs-containerizing-app/) 
