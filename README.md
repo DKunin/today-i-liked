@@ -527,3 +527,6 @@
 ### February 10, 2017
 - [Docker for Devs Part 1: Containerizing Your Application - Lock Me Down](https://lockmedown.com/docker-4-devs-containerizing-app/) 
 - [k4m4/terminals-are-sexy: 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.](https://github.com/k4m4/terminals-are-sexy) 
+
+### February 12, 2017
+- [ericchiang/pup: Parsing HTML at the command line](https://github.com/ericchiang/pup) 
