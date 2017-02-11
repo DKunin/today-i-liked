@@ -530,3 +530,4 @@
 
 ### February 12, 2017
 - [ericchiang/pup: Parsing HTML at the command line](https://github.com/ericchiang/pup) 
+- [inca/did-you-mean: Fuzzy match a command from a list (typo-safety)](https://github.com/inca/did-you-mean) 
