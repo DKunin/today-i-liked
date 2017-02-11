@@ -532,3 +532,4 @@
 - [ericchiang/pup: Parsing HTML at the command line](https://github.com/ericchiang/pup) 
 - [inca/did-you-mean: Fuzzy match a command from a list (typo-safety)](https://github.com/inca/did-you-mean) 
 - [inca/did-you-mean: Fuzzy match a command from a list (typo-safety)](https://github.com/inca/did-you-mean) 
+- [miripiruni/frontdesk: Community driven list of useful things for Front End Developers](https://github.com/miripiruni/frontdesk) 
