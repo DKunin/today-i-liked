@@ -534,3 +534,6 @@
 - [inca/did-you-mean: Fuzzy match a command from a list (typo-safety)](https://github.com/inca/did-you-mean) 
 - [miripiruni/frontdesk: Community driven list of useful things for Front End Developers](https://github.com/miripiruni/frontdesk) 
 - [iron-io/functions: IronFunctions - the serverless microservices platform.](https://github.com/iron-io/functions) 
+
+### February 13, 2017
+- [Yomguithereal/mnemonist: Curated collection of data structures for the JavaScript language.](https://github.com/Yomguithereal/mnemonist) 
