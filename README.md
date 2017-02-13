@@ -537,3 +537,4 @@
 
 ### February 13, 2017
 - [Yomguithereal/mnemonist: Curated collection of data structures for the JavaScript language.](https://github.com/Yomguithereal/mnemonist) 
+- [moeiscool/Shinobi: The Open Source CCTV platform written in Node.JS (Camera Recorder - Security Surveillance Software)](https://github.com/moeiscool/Shinobi) 
