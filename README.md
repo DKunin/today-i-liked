@@ -543,3 +543,4 @@
 ### February 14, 2017
 - [webpack/webpack-pwa: Example for a super simple PWA with webpack.](https://github.com/webpack/webpack-pwa) 
 - [HTML Reference - A free guide to all HTML elements and attributes.](http://htmlreference.io/) 
+- [open-source-guide/CODE_OF_CONDUCT.md at gh-pages · github/open-source-guide](https://github.com/github/open-source-guide/blob/gh-pages/CODE_OF_CONDUCT.md) 
