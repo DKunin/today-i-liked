@@ -542,3 +542,4 @@
 
 ### February 14, 2017
 - [webpack/webpack-pwa: Example for a super simple PWA with webpack.](https://github.com/webpack/webpack-pwa) 
+- [HTML Reference - A free guide to all HTML elements and attributes.](http://htmlreference.io/) 
