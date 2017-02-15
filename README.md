@@ -547,3 +547,4 @@
 
 ### February 15, 2017
 - [Component based SVG Icon System](http://varun.ca/icon-component/) 
+- [Taskade](https://www.taskade.com/) 
