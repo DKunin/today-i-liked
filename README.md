@@ -551,3 +551,4 @@
 
 ### February 16, 2017
 - [DavidWells/markdown-magic: Automatically keep markdown files up to date from source code or via external sources.](https://github.com/DavidWells/markdown-magic) 
+- [8 Protips to Start Killing It When Dockerizing Node.js](https://nodesource.com/blog/8-protips-to-start-killing-it-when-dockerizing-node-js?utm_medium=Referral&utm_source=nodeorg&utm_campaign=Community%20Building) 
