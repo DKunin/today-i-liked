@@ -548,3 +548,6 @@
 ### February 15, 2017
 - [Component based SVG Icon System](http://varun.ca/icon-component/) 
 - [Taskade](https://www.taskade.com/) 
+
+### February 16, 2017
+- [DavidWells/markdown-magic: Automatically keep markdown files up to date from source code or via external sources.](https://github.com/DavidWells/markdown-magic) 
