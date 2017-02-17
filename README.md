@@ -556,3 +556,6 @@
 - [Miscellaneous Symbols — Unicode Character Table](http://jrgraphix.net/r/Unicode/2600-26FF) 
 - [Dev.Opera — Media Capture in Mobile Browsers](https://dev.opera.com/articles/media-capture-in-mobile-browsers/) 
 - [Imangazaliev/git-tips: Часто используемые трюки и советы при работе с Git](https://github.com/Imangazaliev/git-tips) 
+
+### February 17, 2017
+- [Резервное копирование — Энциклопедия хостинга](http://firstwiki.ru/index.php/%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D0%BD%D0%BE%D0%B5_%D0%BA%D0%BE%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5) 
