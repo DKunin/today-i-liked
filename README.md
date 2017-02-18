@@ -566,3 +566,6 @@
 - [feross/yt-player: Simple, robust, blazing-fast YouTube Player API](https://github.com/feross/yt-player) 
 - [Moving to HTTPS - migrate from HTTP to HTTPS with ease.](https://movingtohttps.com/) 
 - [yoshuawuyts/basic-auth-middleware: Basic auth middleware](https://github.com/yoshuawuyts/basic-auth-middleware) 
+
+### February 19, 2017
+- [hakatashi/kindlegen: Simple Node.js wrapper for kindlegen program](https://github.com/hakatashi/kindlegen) 
