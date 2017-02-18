@@ -564,3 +564,4 @@
 ### February 18, 2017
 - [MoOx/phenomic: Modern static* website generator based on the React and Webpack ecosystem](https://github.com/MoOx/phenomic) 
 - [feross/yt-player: Simple, robust, blazing-fast YouTube Player API](https://github.com/feross/yt-player) 
+- [Moving to HTTPS - migrate from HTTP to HTTPS with ease.](https://movingtohttps.com/) 
