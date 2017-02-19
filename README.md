@@ -570,3 +570,4 @@
 ### February 19, 2017
 - [hakatashi/kindlegen: Simple Node.js wrapper for kindlegen program](https://github.com/hakatashi/kindlegen) 
 - [hakatashi/kindlegen: Simple Node.js wrapper for kindlegen program](https://github.com/hakatashi/kindlegen) 
+- [Adventures in /usr/bin and the likes - Dormammu's Blog](http://ablagoev.github.io/linux/adventures/commands/2017/02/19/adventures-in-usr-bin.html) 
