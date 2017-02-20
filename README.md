@@ -571,3 +571,6 @@
 - [hakatashi/kindlegen: Simple Node.js wrapper for kindlegen program](https://github.com/hakatashi/kindlegen) 
 - [hakatashi/kindlegen: Simple Node.js wrapper for kindlegen program](https://github.com/hakatashi/kindlegen) 
 - [Adventures in /usr/bin and the likes - Dormammu's Blog](http://ablagoev.github.io/linux/adventures/commands/2017/02/19/adventures-in-usr-bin.html) 
+
+### February 20, 2017
+- [hypebeast/micro-auth: A microservice that makes adding authentication with Google and Github to your application easy.](https://github.com/hypebeast/micro-auth) 
