@@ -574,3 +574,4 @@
 
 ### February 20, 2017
 - [hypebeast/micro-auth: A microservice that makes adding authentication with Google and Github to your application easy.](https://github.com/hypebeast/micro-auth) 
+- [arzzen/git-quick-stats: Git quick statistics is a simple and efficient way to access various statistics in git repository.](https://github.com/arzzen/git-quick-stats) 
