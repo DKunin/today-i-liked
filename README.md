@@ -578,3 +578,6 @@
 
 ### February 24, 2017
 - [dleitee/walletjs: A little library to handle money amounts.](https://github.com/dleitee/walletjs) 
+
+### February 25, 2017
+- [codecov/example-node: Example repo for uploading reports to Codecov](https://github.com/codecov/example-node) 
