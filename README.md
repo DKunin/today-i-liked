@@ -581,3 +581,6 @@
 
 ### February 25, 2017
 - [codecov/example-node: Example repo for uploading reports to Codecov](https://github.com/codecov/example-node) 
+
+### February 26, 2017
+- [5 Ways to Remove a Stripped Screw - All](http://www.instructables.com/id/5-Ways-to-Remove-a-Stripped-Screw/?ALLSTEPS) 
