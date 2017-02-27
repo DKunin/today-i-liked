@@ -584,3 +584,6 @@
 
 ### February 26, 2017
 - [5 Ways to Remove a Stripped Screw - All](http://www.instructables.com/id/5-Ways-to-Remove-a-Stripped-Screw/?ALLSTEPS) 
+
+### February 27, 2017
+- [Бесплатное программное обеспечение для IP-камер / Блог компании Интемс / Хабрахабр](https://habrahabr.ru/company/intems/blog/322634/) 
