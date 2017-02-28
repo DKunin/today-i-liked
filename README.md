@@ -587,3 +587,6 @@
 
 ### February 27, 2017
 - [Бесплатное программное обеспечение для IP-камер / Блог компании Интемс / Хабрахабр](https://habrahabr.ru/company/intems/blog/322634/) 
+
+### February 28, 2017
+- [jarun/imgp: Superfast multi-core batch image resizer and rotator. Go crunch 'em!](https://github.com/jarun/imgp) 
