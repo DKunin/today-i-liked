@@ -590,3 +590,6 @@
 
 ### February 28, 2017
 - [jarun/imgp: Superfast multi-core batch image resizer and rotator. Go crunch 'em!](https://github.com/jarun/imgp) 
+
+### March 3, 2017
+- [alexcorvi/anchorme.js: Tiny, fast, efficient, feature rich Javascript library to detect links / URLs / Emails in text and convert them to clickable HTML anchor links](https://github.com/alexcorvi/anchorme.js) 
