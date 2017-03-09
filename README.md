@@ -593,3 +593,6 @@
 
 ### March 3, 2017
 - [alexcorvi/anchorme.js: Tiny, fast, efficient, feature rich Javascript library to detect links / URLs / Emails in text and convert them to clickable HTML anchor links](https://github.com/alexcorvi/anchorme.js) 
+
+### March 9, 2017
+- [JustClear/blurify: blurify.js is a tiny(~2kb) library to blurred pictures, support graceful downgrade from `css` mode to `canvas` mode.](https://github.com/JustClear/blurify) 
