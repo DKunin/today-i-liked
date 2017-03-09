@@ -597,3 +597,4 @@
 ### March 9, 2017
 - [JustClear/blurify: blurify.js is a tiny(~2kb) library to blurred pictures, support graceful downgrade from `css` mode to `canvas` mode.](https://github.com/JustClear/blurify) 
 - [Digital Hygiene: How We Might Have Destroyed Our Attention Spans](https://www.geeksaresexy.net/2017/03/08/digital-hygiene-might-destroyed-attention-spans/) 
+- [GRID LAYOUT - a Collection by Gabi on CodePen](http://codepen.io/collection/DgwjNL/) 
