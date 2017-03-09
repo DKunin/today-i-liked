@@ -600,3 +600,4 @@
 - [GRID LAYOUT - a Collection by Gabi on CodePen](http://codepen.io/collection/DgwjNL/) 
 - [bcicen/ctop: Top-like interface for container metrics](https://github.com/bcicen/ctop) 
 - [Prophet - Prophet](https://facebookincubator.github.io/prophet/?ref=stackshare) 
+- [Examples: In Depth — Kur 0.3.0 documentation](http://kur.deepgram.com/in_depth_examples.html#in-depth-examples) 
