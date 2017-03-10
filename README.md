@@ -604,3 +604,4 @@
 
 ### March 10, 2017
 - [amilajack/eslint-plugin-compat: Lint browser compatibility of APIs used](https://github.com/amilajack/eslint-plugin-compat?utm_source=javascriptweekly&utm_medium=email) 
+- [snyk/snyk: CLI and build-time tool to find & fix known vulnerabilities in npm dependencies](https://github.com/snyk/snyk) 
