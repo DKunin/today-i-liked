@@ -611,3 +611,4 @@
 - [verticalgrain/CMSish: The worlds simplest CMS, using a google doc as a database / backend, and tabletop.js + handlebars.js as a frontend.](https://github.com/verticalgrain/CMSish) 
 - [Building Tiny Secure Docker Containers](https://linuxctl.com/2017/03/building-tiny-secure-docker-containers/) 
 - [YR/sw-test-env: A sandboxed ServiceWorker context for testing your ServiceWorker code on the command line](https://github.com/yr/sw-test-env) 
+- [Fluidbyte/spaq: Template for quickly setting up an SPA](https://github.com/Fluidbyte/spaq) 
