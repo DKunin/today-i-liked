@@ -613,3 +613,4 @@
 - [YR/sw-test-env: A sandboxed ServiceWorker context for testing your ServiceWorker code on the command line](https://github.com/yr/sw-test-env) 
 - [Fluidbyte/spaq: Template for quickly setting up an SPA](https://github.com/Fluidbyte/spaq) 
 - [tjoskar/service-worker-exercises: Get started with Service Worker](https://github.com/tjoskar/service-worker-exercises) 
+- [Zulko/eagle.js: A hackable slideshow framework built with Vue.js](https://github.com/zulko/eagle.js/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue) 
