@@ -617,3 +617,6 @@
 
 ### March 15, 2017
 - [getgrav/grav: Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS](https://github.com/getgrav/grav) 
+
+### March 16, 2017
+- [Feedly. Read more, know more.](https://feedly.com/) 
