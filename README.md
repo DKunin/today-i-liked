@@ -622,3 +622,6 @@
 - [Feedly. Read more, know more.](https://feedly.com/) 
 - [mjmlio/mjml: MJML: the only framework that makes responsive-email easy](https://github.com/mjmlio/mjml) 
 - [Docker Swarm: Setting Up a Scalable System - via @codeship | via @codeship](https://blog.codeship.com/docker-swarm-setting-up-a-scalable-system/) 
+
+### March 17, 2017
+- [fluent-ffmpeg/node-fluent-ffmpeg: A fluent API to FFMPEG (http://www.ffmpeg.org)](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) 
