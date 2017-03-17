@@ -625,3 +625,4 @@
 
 ### March 17, 2017
 - [fluent-ffmpeg/node-fluent-ffmpeg: A fluent API to FFMPEG (http://www.ffmpeg.org)](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) 
+- [janhuenermann/neurojs: A javascript deep learning and reinforcement learning library.](https://github.com/janhuenermann/neurojs?utm_source=javascriptweekly&utm_medium=email) 
