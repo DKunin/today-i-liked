@@ -627,3 +627,6 @@
 - [fluent-ffmpeg/node-fluent-ffmpeg: A fluent API to FFMPEG (http://www.ffmpeg.org)](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) 
 - [janhuenermann/neurojs: A javascript deep learning and reinforcement learning library.](https://github.com/janhuenermann/neurojs?utm_source=javascriptweekly&utm_medium=email) 
 - [Nightonke/Gitee: Gitee, OS X status bar application for Github](https://github.com/Nightonke/Gitee) 
+
+### March 19, 2017
+- [TedGoas/Cerberus: A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail.](https://github.com/TedGoas/Cerberus) 
