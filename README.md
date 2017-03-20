@@ -630,3 +630,6 @@
 
 ### March 19, 2017
 - [TedGoas/Cerberus: A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail.](https://github.com/TedGoas/Cerberus) 
+
+### March 20, 2017
+- [jonaskuiler/vue-config-manager: A Vue configuration manager](https://github.com/jonaskuiler/vue-config-manager) 
