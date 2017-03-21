@@ -642,3 +642,4 @@
 - [bmorelli25/Become-A-Full-Stack-Web-Developer: Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) 
 - [znck/vue-keynote: Keynote with Vue.js - Build presentations on the go!](https://github.com/znck/vue-keynote) 
 - [monterail/vuelidate: Simple, lightweight model-based validation for Vue.js](https://github.com/monterail/vuelidate) 
+- [LucienLee/vue-data-grid: An example that complex table interaction in Vue.js](https://github.com/LucienLee/vue-data-grid?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue) 
