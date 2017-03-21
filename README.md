@@ -639,3 +639,4 @@
 - [readbeyond/aeneas: aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)](https://github.com/readbeyond/aeneas) 
 - [How to Handle File Uploads in Vue 2 | Scotch](https://scotch.io/tutorials/how-to-handle-file-uploads-in-vue-2) 
 - [pd4d10/chrome-ui: Chrome UI built with web stack.](https://github.com/pd4d10/chrome-ui) 
+- [bmorelli25/Become-A-Full-Stack-Web-Developer: Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) 
