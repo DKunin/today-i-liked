@@ -634,3 +634,6 @@
 ### March 20, 2017
 - [jonaskuiler/vue-config-manager: A Vue configuration manager](https://github.com/jonaskuiler/vue-config-manager) 
 - [khan4019/front-end-Interview-Questions: Help the front End community to rock interview](https://github.com/khan4019/front-end-Interview-Questions) 
+
+### March 21, 2017
+- [readbeyond/aeneas: aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)](https://github.com/readbeyond/aeneas) 
