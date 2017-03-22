@@ -643,3 +643,6 @@
 - [znck/vue-keynote: Keynote with Vue.js - Build presentations on the go!](https://github.com/znck/vue-keynote) 
 - [monterail/vuelidate: Simple, lightweight model-based validation for Vue.js](https://github.com/monterail/vuelidate) 
 - [LucienLee/vue-data-grid: An example that complex table interaction in Vue.js](https://github.com/LucienLee/vue-data-grid?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue) 
+
+### March 22, 2017
+- [nexe/nexe: 🎉 create a single executable out of your node.js apps](https://github.com/nexe/nexe) 
