@@ -646,3 +646,6 @@
 
 ### March 22, 2017
 - [nexe/nexe: 🎉 create a single executable out of your node.js apps](https://github.com/nexe/nexe) 
+
+### March 23, 2017
+- [golr/face-recognition-api: ⭐️Facial Recognition API made easy](https://github.com/golr/face-recognition-api) 
