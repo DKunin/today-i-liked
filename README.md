@@ -655,3 +655,4 @@
 - [atlassian/localstack: A fully functional local AWS cloud stack. Develop and test your cloud apps offline!](https://github.com/atlassian/localstack) 
 - [webpro/awesome-newsletters: The best (weekly) newsletters](https://github.com/webpro/awesome-newsletters) 
 - [phanan/koel: A personal music streaming server that works.](https://github.com/phanan/koel) 
+- [yask123/Instant-Music-Downloader: 🎷 Downloads Music From The Web](https://github.com/yask123/Instant-Music-Downloader) 
