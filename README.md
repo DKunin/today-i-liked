@@ -649,3 +649,6 @@
 
 ### March 23, 2017
 - [golr/face-recognition-api: ⭐️Facial Recognition API made easy](https://github.com/golr/face-recognition-api) 
+
+### March 27, 2017
+- [allow-any-origin.appspot.com](https://allow-any-origin.appspot.com/) 
