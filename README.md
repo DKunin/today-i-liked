@@ -653,3 +653,4 @@
 ### March 27, 2017
 - [allow-any-origin.appspot.com](https://allow-any-origin.appspot.com/) 
 - [atlassian/localstack: A fully functional local AWS cloud stack. Develop and test your cloud apps offline!](https://github.com/atlassian/localstack) 
+- [webpro/awesome-newsletters: The best (weekly) newsletters](https://github.com/webpro/awesome-newsletters) 
