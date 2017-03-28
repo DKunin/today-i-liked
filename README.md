@@ -656,3 +656,6 @@
 - [webpro/awesome-newsletters: The best (weekly) newsletters](https://github.com/webpro/awesome-newsletters) 
 - [phanan/koel: A personal music streaming server that works.](https://github.com/phanan/koel) 
 - [yask123/Instant-Music-Downloader: 🎷 Downloads Music From The Web](https://github.com/yask123/Instant-Music-Downloader) 
+
+### March 28, 2017
+- [etopian/docker-koel: https://github.com/phanan/koel](https://github.com/etopian/docker-koel) 
