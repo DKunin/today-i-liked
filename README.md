@@ -659,3 +659,4 @@
 
 ### March 28, 2017
 - [etopian/docker-koel: https://github.com/phanan/koel](https://github.com/etopian/docker-koel) 
+- [Scrape Images with wget](https://davidwalsh.name/scrape-images-wget) 
