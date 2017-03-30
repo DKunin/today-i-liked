@@ -666,3 +666,6 @@
 - [Google Open Source – opensource.google.com](https://opensource.google.com/) 
 - [Google Open Source – opensource.google.com](https://opensource.google.com/) 
 - [BlueHatbRit/mdpdf: Markdown to PDF command line app with support for stylesheets](https://github.com/BlueHatbRit/mdpdf) 
+
+### March 30, 2017
+- [kdzwinel/Proofreader: Simple text proofreader based on 'write-good' (hemingway-app-like suggestions) and 'nodehun' (spelling).](https://github.com/kdzwinel/Proofreader) 
