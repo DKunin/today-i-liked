@@ -672,3 +672,4 @@
 - [reactide/reactide](https://github.com/reactide/reactide) 
 - [hcodes/yaspeller: Search tool typos in the text, files and websites](https://github.com/hcodes/yaspeller) 
 - [egoist/codepan: Like codepen and jsbin but works offline.](https://github.com/egoist/codepan) 
+- [menubar-server/src at master · rempl/menubar-server](https://github.com/rempl/menubar-server/tree/master/src) 
