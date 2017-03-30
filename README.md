@@ -669,3 +669,4 @@
 
 ### March 30, 2017
 - [kdzwinel/Proofreader: Simple text proofreader based on 'write-good' (hemingway-app-like suggestions) and 'nodehun' (spelling).](https://github.com/kdzwinel/Proofreader) 
+- [reactide/reactide](https://github.com/reactide/reactide) 
