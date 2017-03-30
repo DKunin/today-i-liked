@@ -671,3 +671,4 @@
 - [kdzwinel/Proofreader: Simple text proofreader based on 'write-good' (hemingway-app-like suggestions) and 'nodehun' (spelling).](https://github.com/kdzwinel/Proofreader) 
 - [reactide/reactide](https://github.com/reactide/reactide) 
 - [hcodes/yaspeller: Search tool typos in the text, files and websites](https://github.com/hcodes/yaspeller) 
+- [egoist/codepan: Like codepen and jsbin but works offline.](https://github.com/egoist/codepan) 
