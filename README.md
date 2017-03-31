@@ -673,3 +673,6 @@
 - [hcodes/yaspeller: Search tool typos in the text, files and websites](https://github.com/hcodes/yaspeller) 
 - [egoist/codepan: Like codepen and jsbin but works offline.](https://github.com/egoist/codepan) 
 - [menubar-server/src at master · rempl/menubar-server](https://github.com/rempl/menubar-server/tree/master/src) 
+
+### March 31, 2017
+- [ivanakimov/hashids.js: A small JavaScript library to generate YouTube-like ids from numbers. Use it when you don't want to expose your database ids to the user.](https://github.com/ivanakimov/hashids.js) 
