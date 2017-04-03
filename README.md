@@ -676,3 +676,6 @@
 
 ### March 31, 2017
 - [ivanakimov/hashids.js: A small JavaScript library to generate YouTube-like ids from numbers. Use it when you don't want to expose your database ids to the user.](https://github.com/ivanakimov/hashids.js) 
+
+### April 3, 2017
+- [A fantasy themed font and CSS toolkit](https://nagoshiashumari.github.io/Rpg-Awesome/) 
