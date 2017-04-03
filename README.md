@@ -679,3 +679,4 @@
 
 ### April 3, 2017
 - [A fantasy themed font and CSS toolkit](https://nagoshiashumari.github.io/Rpg-Awesome/) 
+- [freethan/dv-manifesto: Thoughts on how to live a productive life being a developer](https://github.com/freethan/dv-manifesto) 
