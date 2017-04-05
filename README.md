@@ -685,3 +685,6 @@
 
 ### April 4, 2017
 - [Regular Expressions in a post-ES6 world](https://ponyfoo.com/articles/regular-expressions-post-es6) 
+
+### April 5, 2017
+- [Use Vue.js to create custom web components – Vue.js Tips](http://vuetips.com/vue-web-components) 
