@@ -688,3 +688,4 @@
 
 ### April 5, 2017
 - [Use Vue.js to create custom web components – Vue.js Tips](http://vuetips.com/vue-web-components) 
+- [Vue.js 2.2 Complete API Cheat Sheet](https://vuejs-tips.github.io/cheatsheet/) 
