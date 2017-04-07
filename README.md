@@ -693,3 +693,4 @@
 
 ### April 7, 2017
 - [iserdmi/card-info: Get bank logo, colors, brand and etc. by card number](https://github.com/iserdmi/card-info) 
+- [imagemin/imagemin-cli: Minify images](https://github.com/imagemin/imagemin-cli) 
