@@ -694,3 +694,6 @@
 ### April 7, 2017
 - [iserdmi/card-info: Get bank logo, colors, brand and etc. by card number](https://github.com/iserdmi/card-info) 
 - [imagemin/imagemin-cli: Minify images](https://github.com/imagemin/imagemin-cli) 
+
+### April 8, 2017
+- [MattMcFarland/rot-web-api: roguelike dungeon generator RESTful web api](https://github.com/MattMcFarland/rot-web-api) 
