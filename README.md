@@ -698,3 +698,6 @@
 ### April 8, 2017
 - [MattMcFarland/rot-web-api: roguelike dungeon generator RESTful web api](https://github.com/MattMcFarland/rot-web-api) 
 - [sherxon/AlgoDS: Implementation of Algorithms and Data Structures, Interview Questions and Answers](https://github.com/sherxon/AlgoDS/) 
+
+### April 9, 2017
+- [Hack-with-Github/Awesome-Hacking: A collection of various awesome lists for hackers, pentesters and security researchers](https://github.com/Hack-with-Github/Awesome-Hacking) 
