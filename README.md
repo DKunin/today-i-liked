@@ -701,3 +701,6 @@
 
 ### April 9, 2017
 - [Hack-with-Github/Awesome-Hacking: A collection of various awesome lists for hackers, pentesters and security researchers](https://github.com/Hack-with-Github/Awesome-Hacking) 
+
+### April 10, 2017
+- [wingify/across-tabs: Easy communication between cross-origin browser tabs](https://github.com/wingify/across-tabs) 
