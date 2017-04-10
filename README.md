@@ -704,3 +704,4 @@
 
 ### April 10, 2017
 - [wingify/across-tabs: Easy communication between cross-origin browser tabs](https://github.com/wingify/across-tabs) 
+- [captainsafia/fony: A simple command line tool for generating fake data from a template string](https://github.com/captainsafia/fony) 
