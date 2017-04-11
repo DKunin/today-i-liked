@@ -706,3 +706,6 @@
 - [wingify/across-tabs: Easy communication between cross-origin browser tabs](https://github.com/wingify/across-tabs) 
 - [captainsafia/fony: A simple command line tool for generating fake data from a template string](https://github.com/captainsafia/fony) 
 - [tobiaslins/avatar: 💎 Beautiful avatars as a microservice](https://github.com/tobiaslins/avatar) 
+
+### April 11, 2017
+- [yoshuawuyts/pretty-hot-ranking-algorithm: Algorithm that measures how relevant a given data set is, kinda like Reddit](https://github.com/yoshuawuyts/pretty-hot-ranking-algorithm) 
