@@ -710,3 +710,4 @@
 ### April 11, 2017
 - [yoshuawuyts/pretty-hot-ranking-algorithm: Algorithm that measures how relevant a given data set is, kinda like Reddit](https://github.com/yoshuawuyts/pretty-hot-ranking-algorithm) 
 - [dwightjack/vue-types: Vue Prop Types definitions](https://github.com/dwightjack/vue-types) 
+- [LOOPY: a tool for thinking in systems](http://ncase.me/loopy/) 
