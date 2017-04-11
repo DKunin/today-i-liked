@@ -714,3 +714,4 @@
 - [lyonlai/blessed-vue: A VueJS runtime to render Blessed to build command line UI.](https://github.com/lyonlai/blessed-vue) 
 - [Chrome Experiments - AutoDraw by Google Creative Lab](https://www.chromeexperiments.com/experiment/autodraw) 
 - [The Ultimate Guide to Becoming a CTO](https://brainhub.eu/guide-to-becoming-a-cto) 
+- [ScreamZ/vue-analytics: Google Universal Analytics support in Vue.js](https://github.com/ScreamZ/vue-analytics) 
