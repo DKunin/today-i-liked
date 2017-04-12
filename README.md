@@ -716,3 +716,6 @@
 - [The Ultimate Guide to Becoming a CTO](https://brainhub.eu/guide-to-becoming-a-cto) 
 - [ScreamZ/vue-analytics: Google Universal Analytics support in Vue.js](https://github.com/ScreamZ/vue-analytics) 
 - [Glovo/vue-multianalytics: A vue multianalytics plugin](https://github.com/Glovo/vue-multianalytics?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue) 
+
+### April 12, 2017
+- [lyzadanger/pragmatist-service-worker: Pragmatist's Guide to Service Worker](https://github.com/lyzadanger/pragmatist-service-worker) 
