@@ -719,3 +719,4 @@
 
 ### April 12, 2017
 - [lyzadanger/pragmatist-service-worker: Pragmatist's Guide to Service Worker](https://github.com/lyzadanger/pragmatist-service-worker) 
+- [danleech/simple-icons: SVG icons for popular brands](https://github.com/danleech/simple-icons) 
