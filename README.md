@@ -721,3 +721,6 @@
 - [lyzadanger/pragmatist-service-worker: Pragmatist's Guide to Service Worker](https://github.com/lyzadanger/pragmatist-service-worker) 
 - [danleech/simple-icons: SVG icons for popular brands](https://github.com/danleech/simple-icons) 
 - [egoist/marked3: A markdown parser and compiler. Built for speed.](https://github.com/egoist/marked3) 
+
+### April 14, 2017
+- [openstf/stf: Control and manage Android devices from your browser.](https://github.com/openstf/stf) 
