@@ -724,3 +724,4 @@
 
 ### April 14, 2017
 - [openstf/stf: Control and manage Android devices from your browser.](https://github.com/openstf/stf) 
+- [How to install and use Headless Chrome on OSX | Object Partners](https://objectpartners.com/2017/04/13/how-to-install-and-use-headless-chrome-on-osx/) 
