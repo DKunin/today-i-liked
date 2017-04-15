@@ -728,3 +728,4 @@
 
 ### April 15, 2017
 - [matteofigus/awesome-speaking: Resources about public speaking](https://github.com/matteofigus/awesome-speaking) 
+- [ooto: A free dashboard template for Sketch - Freebiesbug](https://freebiesbug.com/sketch-freebies/ooto-dashboard-template/) 
