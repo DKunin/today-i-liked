@@ -734,3 +734,4 @@
 ### April 17, 2017
 - [ИТ в Беларуси | dev.by](https://dev.by/pages/programming_matrix) 
 - [500 Data structures and algorithms interview qu... - Techie Delight - Quora](https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions) 
+- [somesocks/vet: A Javascript library for data validation.](https://github.com/somesocks/vet) 
