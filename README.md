@@ -730,3 +730,6 @@
 - [matteofigus/awesome-speaking: Resources about public speaking](https://github.com/matteofigus/awesome-speaking) 
 - [ooto: A free dashboard template for Sketch - Freebiesbug](https://freebiesbug.com/sketch-freebies/ooto-dashboard-template/) 
 - [ES6 modules support lands in browsers: is it time to rethink bundling?](https://www.contentful.com/blog/2017/04/04/es6-modules-support-lands-in-browsers-is-it-time-to-rethink-bundling/) 
+
+### April 17, 2017
+- [ИТ в Беларуси | dev.by](https://dev.by/pages/programming_matrix) 
