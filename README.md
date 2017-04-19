@@ -741,3 +741,4 @@
 
 ### April 19, 2017
 - [gemini-testing/looks-same: Node.js library for comparing images](https://github.com/gemini-testing/looks-same) 
+- [jonschlinkert/git-branch: Get the current branch for a local git repository](https://github.com/jonschlinkert/git-branch) 
