@@ -742,3 +742,4 @@
 ### April 19, 2017
 - [gemini-testing/looks-same: Node.js library for comparing images](https://github.com/gemini-testing/looks-same) 
 - [jonschlinkert/git-branch: Get the current branch for a local git repository](https://github.com/jonschlinkert/git-branch) 
+- [speakeasyjs/speakeasy: Two-factor authentication for Node.js. One-time passcode generator (HOTP/TOTP) with support for Google Authenticator.](https://github.com/speakeasyjs/speakeasy) 
