@@ -738,3 +738,6 @@
 
 ### April 18, 2017
 - [A developer’s guide to interviewing – freeCodeCamp](https://medium.freecodecamp.com/how-to-interview-as-a-developer-candidate-b666734f12dd) 
+
+### April 19, 2017
+- [gemini-testing/looks-same: Node.js library for comparing images](https://github.com/gemini-testing/looks-same) 
