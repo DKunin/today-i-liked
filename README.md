@@ -747,3 +747,4 @@
 
 ### April 20, 2017
 - [vankasteelj/opensubtitles-api: nodejs opensubtitles.org api wrapper for downloading and uploading subtitles in multiple langs](https://github.com/vankasteelj/opensubtitles-api) 
+- [mapbox/node-sqlite3: Asynchronous, non-blocking SQLite3 bindings for Node.js](https://github.com/mapbox/node-sqlite3) 
