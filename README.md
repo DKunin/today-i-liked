@@ -744,3 +744,6 @@
 - [jonschlinkert/git-branch: Get the current branch for a local git repository](https://github.com/jonschlinkert/git-branch) 
 - [speakeasyjs/speakeasy: Two-factor authentication for Node.js. One-time passcode generator (HOTP/TOTP) with support for Google Authenticator.](https://github.com/speakeasyjs/speakeasy) 
 - [Role Based Authorization for your Vue.js and Nuxt.js Applications Using vue-kindergarten](https://medium.com/@JiriChara/role-based-authorization-for-your-vue-js-and-nuxt-js-applications-using-vue-kindergarten-fd483e013ec5) 
+
+### April 20, 2017
+- [vankasteelj/opensubtitles-api: nodejs opensubtitles.org api wrapper for downloading and uploading subtitles in multiple langs](https://github.com/vankasteelj/opensubtitles-api) 
