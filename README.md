@@ -749,3 +749,4 @@
 - [vankasteelj/opensubtitles-api: nodejs opensubtitles.org api wrapper for downloading and uploading subtitles in multiple langs](https://github.com/vankasteelj/opensubtitles-api) 
 - [mapbox/node-sqlite3: Asynchronous, non-blocking SQLite3 bindings for Node.js](https://github.com/mapbox/node-sqlite3) 
 - [Единая мобильная платформа города Москвы](http://serviceprovider.if.emp.msk.ru/default/auth) 
+- [slackapi/sample-message-menus-node: An example Slack app that demonstrates use of message menus](https://github.com/slackapi/sample-message-menus-node?utm_source=nodeweekly&utm_medium=email) 
