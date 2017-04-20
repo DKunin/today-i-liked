@@ -750,3 +750,4 @@
 - [mapbox/node-sqlite3: Asynchronous, non-blocking SQLite3 bindings for Node.js](https://github.com/mapbox/node-sqlite3) 
 - [Единая мобильная платформа города Москвы](http://serviceprovider.if.emp.msk.ru/default/auth) 
 - [slackapi/sample-message-menus-node: An example Slack app that demonstrates use of message menus](https://github.com/slackapi/sample-message-menus-node?utm_source=nodeweekly&utm_medium=email) 
+- [Developing and Testing Microservices With Docker - Michael Herman](http://mherman.org/blog/2017/04/18/developing-and-testing-microservices-with-docker/#.WPii_lPyuEB?utm_source=nodeweekly&utm_medium=email) 
