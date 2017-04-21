@@ -751,3 +751,6 @@
 - [Единая мобильная платформа города Москвы](http://serviceprovider.if.emp.msk.ru/default/auth) 
 - [slackapi/sample-message-menus-node: An example Slack app that demonstrates use of message menus](https://github.com/slackapi/sample-message-menus-node?utm_source=nodeweekly&utm_medium=email) 
 - [Developing and Testing Microservices With Docker - Michael Herman](http://mherman.org/blog/2017/04/18/developing-and-testing-microservices-with-docker/#.WPii_lPyuEB?utm_source=nodeweekly&utm_medium=email) 
+
+### April 21, 2017
+- [Try Deep Learning in Python now with a fully pre-configured VM](https://medium.com/@ageitgey/try-deep-learning-in-python-now-with-a-fully-pre-configured-vm-1d97d4c3e9b) 
