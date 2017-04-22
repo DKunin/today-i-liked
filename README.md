@@ -755,3 +755,6 @@
 ### April 21, 2017
 - [Try Deep Learning in Python now with a fully pre-configured VM](https://medium.com/@ageitgey/try-deep-learning-in-python-now-with-a-fully-pre-configured-vm-1d97d4c3e9b) 
 - [ageitgey/face_recognition: The world's simplest facial recognition api for Python and the command line](https://github.com/ageitgey/face_recognition) 
+
+### April 22, 2017
+- [egoist/awesome-tiny-browser-libs: A curated list of awesome tiny browser libraries.](https://github.com/egoist/awesome-tiny-browser-libs) 
