@@ -761,3 +761,6 @@
 
 ### April 23, 2017
 - [The Definitive Guide to Object Streams in Node.js | @RisingStack](https://community.risingstack.com/the-definitive-guide-to-object-streams-in-node-js/?utm_source=nodeweekly&utm_medium=email) 
+
+### April 24, 2017
+- [micro-analytics/micro-analytics-cli: Public analytics as a Node.js microservice. No sysadmin experience required! 📈](https://github.com/micro-analytics/micro-analytics-cli) 
