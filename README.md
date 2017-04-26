@@ -774,3 +774,4 @@
 - [v-click-outside/v-click-outside.js at master · ndelvalle/v-click-outside](https://github.com/ndelvalle/v-click-outside/blob/master/lib/v-click-outside.js) 
 - [littlewin-wang/vue-images: A simple lightbox component for displaying an array of images](https://github.com/littlewin-wang/vue-images?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue) 
 - [Buka/book.js at master · oguzhaninan/Buka](https://github.com/oguzhaninan/Buka/blob/master/src/store/modules/book.js) 
+- [Inbox: Manually Create Trips - Google Tips and Tricks](http://www.scottgreenstone.com/2016/03/manuallycreatetrips.html) 
