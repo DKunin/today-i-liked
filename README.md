@@ -769,3 +769,6 @@
 ### April 25, 2017
 - [How To Shrink Your Virtualbox VM And Free Up Space For Your Hard Disk - Make Tech Easier](https://www.maketecheasier.com/shrink-your-virtualbox-vm/) 
 - [wooorm/readability: visualise readability](https://github.com/wooorm/readability) 
+
+### April 26, 2017
+- [v-click-outside/v-click-outside.js at master · ndelvalle/v-click-outside](https://github.com/ndelvalle/v-click-outside/blob/master/lib/v-click-outside.js) 
