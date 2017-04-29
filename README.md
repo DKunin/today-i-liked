@@ -780,3 +780,6 @@
 - [DevExpress/testcafe: Automated browser testing for the modern web development stack.](https://github.com/DevExpress/testcafe) 
 - [atech/postal: 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail](https://github.com/atech/postal) 
 - [aweary/tinytime: A straightforward time and time formatter in <1kb](https://github.com/aweary/tinytime?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=issue-60) 
+
+### April 29, 2017
+- [Basic Usage · GitBook](https://ssr.vuejs.org/en/basic.html) 
