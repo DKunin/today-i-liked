@@ -784,3 +784,6 @@
 ### April 29, 2017
 - [Basic Usage · GitBook](https://ssr.vuejs.org/en/basic.html) 
 - [jkup/javascript-interview: A list of JavaScript interview resources](https://github.com/jkup/javascript-interview) 
+
+### May 1, 2017
+- [Google Home for Mac](https://newmediaeurope.com/google-home-mac/) 
