@@ -787,3 +787,6 @@
 
 ### May 1, 2017
 - [Google Home for Mac](https://newmediaeurope.com/google-home-mac/) 
+
+### May 3, 2017
+- [Lists](https://lists.design/) 
