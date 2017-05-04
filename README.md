@@ -792,3 +792,6 @@
 - [Lists](https://lists.design/) 
 - [Lists/Lists at master · jperriere/Lists](https://github.com/jperriere/Lists/tree/master/Lists) 
 - [ECMAScript modules in browsers - JakeArchibald.com](https://jakearchibald.com/2017/es-modules-in-browsers/?utm_source=forwebdev_tlgrm&utm_medium=announcement&utm_campaign=nativnaya-podderzhka-ecmascript-moduley-uzh) 
+
+### May 4, 2017
+- [Yonaba/awesome-one-person-games: A curated list of successul games, made (quite) entirely by a lone gamedev.](https://github.com/Yonaba/awesome-one-person-games) 
