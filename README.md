@@ -795,3 +795,4 @@
 
 ### May 4, 2017
 - [Yonaba/awesome-one-person-games: A curated list of successul games, made (quite) entirely by a lone gamedev.](https://github.com/Yonaba/awesome-one-person-games) 
+- [Using Device Motion on the Web · Raymond Camden](https://www.raymondcamden.com/2017/04/25/using-device-motion-on-the-web?utm_source=frontendfocus&utm_medium=email) 
