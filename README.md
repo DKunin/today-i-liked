@@ -796,3 +796,6 @@
 ### May 4, 2017
 - [Yonaba/awesome-one-person-games: A curated list of successul games, made (quite) entirely by a lone gamedev.](https://github.com/Yonaba/awesome-one-person-games) 
 - [Using Device Motion on the Web · Raymond Camden](https://www.raymondcamden.com/2017/04/25/using-device-motion-on-the-web?utm_source=frontendfocus&utm_medium=email) 
+
+### May 6, 2017
+- [ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/ripienaar/free-for-dev#code-quality) 
