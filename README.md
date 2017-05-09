@@ -799,3 +799,6 @@
 
 ### May 6, 2017
 - [ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/ripienaar/free-for-dev#code-quality) 
+
+### May 9, 2017
+- [arirusso/viddl: Ruby/Command line tool to quickly download, cut, crop and resize video clips](https://github.com/arirusso/viddl) 
