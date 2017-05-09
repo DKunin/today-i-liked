@@ -802,3 +802,4 @@
 
 ### May 9, 2017
 - [arirusso/viddl: Ruby/Command line tool to quickly download, cut, crop and resize video clips](https://github.com/arirusso/viddl) 
+- [pojala/electrino: Desktop runtime for apps built on web technologies, using the system's own web browser engine](https://github.com/pojala/electrino) 
