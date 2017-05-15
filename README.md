@@ -808,3 +808,6 @@
 - [Unsplash | High-Resolution Photos](https://unsplash.com/developers) 
 - [assaf/zombie: Insanely fast, full-stack, headless browser testing using node.js](https://github.com/assaf/zombie) 
 - [models/syntaxnet at master · tensorflow/models](https://github.com/tensorflow/models/tree/master/syntaxnet) 
+
+### May 15, 2017
+- [Best courses to learn Javascript in 2017 – Indrek Lasn – Medium](https://medium.com/@wesharehoodies/best-courses-to-learn-javascript-in-2017-fc3a254638cc) 
