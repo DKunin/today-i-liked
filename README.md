@@ -811,3 +811,4 @@
 
 ### May 15, 2017
 - [Best courses to learn Javascript in 2017 – Indrek Lasn – Medium](https://medium.com/@wesharehoodies/best-courses-to-learn-javascript-in-2017-fc3a254638cc) 
+- [jonschlinkert/time-stamp: Get a formatted timestamp. Used in gulp, assemble, generate, update, verb...](https://github.com/jonschlinkert/time-stamp) 
