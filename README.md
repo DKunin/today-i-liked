@@ -815,3 +815,4 @@
 
 ### May 17, 2017
 - [froala/wysiwyg-editor: A beautifully designed WYSIWYG HTML Editor based on HTML5.](https://github.com/froala/wysiwyg-editor) 
+- [m0g/ansel: Digital image organizer powered by the web](https://github.com/m0g/ansel) 
