@@ -817,3 +817,6 @@
 - [froala/wysiwyg-editor: A beautifully designed WYSIWYG HTML Editor based on HTML5.](https://github.com/froala/wysiwyg-editor) 
 - [m0g/ansel: Digital image organizer powered by the web](https://github.com/m0g/ansel) 
 - [morishitter/stylefmt: stylefmt is a tool that automatically formats stylesheets.](https://github.com/morishitter/stylefmt) 
+
+### May 18, 2017
+- [Add git-like functionality to your application using Event Sourcing - He codes](http://hecodes.com/2017/05/event-sourcing-in-node-js-add-git-like-functionality-to-your-application/) 
