@@ -820,3 +820,4 @@
 
 ### May 18, 2017
 - [Add git-like functionality to your application using Event Sourcing - He codes](http://hecodes.com/2017/05/event-sourcing-in-node-js-add-git-like-functionality-to-your-application/) 
+- [segmentio/niffy: Perceptual diffing suite built on Nightmare](https://github.com/segmentio/niffy) 
