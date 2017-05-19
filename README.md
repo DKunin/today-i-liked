@@ -822,3 +822,6 @@
 - [Add git-like functionality to your application using Event Sourcing - He codes](http://hecodes.com/2017/05/event-sourcing-in-node-js-add-git-like-functionality-to-your-application/) 
 - [segmentio/niffy: Perceptual diffing suite built on Nightmare](https://github.com/segmentio/niffy) 
 - [museui/muse-ui: Material Design UI library for Vuejs 2.0](https://github.com/museui/muse-ui) 
+
+### May 19, 2017
+- [GoogleChrome/sw-toolbox: A collection of service worker tools for offlining runtime requests](https://github.com/GoogleChrome/sw-toolbox) 
