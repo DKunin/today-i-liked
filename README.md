@@ -832,3 +832,4 @@
 
 ### May 22, 2017
 - [leasing-app](http://localhost:8080/#/login) 
+- [egoist/modern-copy: Precompiled @sindresorhus/copy-text-to-clipboard (ES5, still 0.2kB)](https://github.com/egoist/modern-copy) 
