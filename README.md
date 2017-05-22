@@ -829,3 +829,6 @@
 ### May 21, 2017
 - [Welcome to GitTown | Git Town](http://www.git-town.com/) 
 - [sindresorhus/guides: A collection of succinct guides - Public Domain](https://github.com/sindresorhus/guides) 
+
+### May 22, 2017
+- [leasing-app](http://localhost:8080/#/login) 
