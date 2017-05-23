@@ -833,3 +833,6 @@
 ### May 22, 2017
 - [leasing-app](http://localhost:8080/#/login) 
 - [egoist/modern-copy: Precompiled @sindresorhus/copy-text-to-clipboard (ES5, still 0.2kB)](https://github.com/egoist/modern-copy) 
+
+### May 23, 2017
+- [matthewmueller/x-ray: The next web scraper. See through the <html> noise.](https://github.com/matthewmueller/x-ray) 
