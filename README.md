@@ -836,3 +836,6 @@
 
 ### May 23, 2017
 - [matthewmueller/x-ray: The next web scraper. See through the <html> noise.](https://github.com/matthewmueller/x-ray) 
+
+### May 24, 2017
+- [chubin/cheat.sh: the fastest way to find {command options|code pieces} you need](https://github.com/chubin/cheat.sh) 
