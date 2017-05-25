@@ -839,3 +839,6 @@
 
 ### May 24, 2017
 - [chubin/cheat.sh: the fastest way to find {command options|code pieces} you need](https://github.com/chubin/cheat.sh) 
+
+### May 25, 2017
+- [devstark-com/vue-circle-slider: Circle slider component for Vue.js](https://github.com/devstark-com/vue-circle-slider) 
