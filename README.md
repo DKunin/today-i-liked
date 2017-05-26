@@ -843,3 +843,6 @@
 ### May 25, 2017
 - [devstark-com/vue-circle-slider: Circle slider component for Vue.js](https://github.com/devstark-com/vue-circle-slider) 
 - [BrockReece/vue-kanban: A vue based drag and drop kanban board](https://github.com/BrockReece/vue-kanban?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue) 
+
+### May 26, 2017
+- [hemera/packages/hemera-web at master · hemerajs/hemera](https://github.com/hemerajs/hemera/tree/master/packages/hemera-web) 
