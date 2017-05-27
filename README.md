@@ -849,3 +849,4 @@
 
 ### May 28, 2017
 - [Command Line Tips and Tricks](https://safia.rocks/cli-tips/) 
+- [toish/chromatism: A simple set of utility functions for colours.](https://github.com/toish/chromatism) 
