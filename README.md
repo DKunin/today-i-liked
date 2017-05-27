@@ -846,3 +846,6 @@
 
 ### May 26, 2017
 - [hemera/packages/hemera-web at master · hemerajs/hemera](https://github.com/hemerajs/hemera/tree/master/packages/hemera-web) 
+
+### May 28, 2017
+- [Command Line Tips and Tricks](https://safia.rocks/cli-tips/) 
