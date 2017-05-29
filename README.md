@@ -850,3 +850,6 @@
 ### May 28, 2017
 - [Command Line Tips and Tricks](https://safia.rocks/cli-tips/) 
 - [toish/chromatism: A simple set of utility functions for colours.](https://github.com/toish/chromatism) 
+
+### May 29, 2017
+- [Getting free wifi](https://remysharp.com/2017/05/29/getting-free-wifi) 
