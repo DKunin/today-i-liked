@@ -854,3 +854,4 @@
 ### May 29, 2017
 - [Getting free wifi](https://remysharp.com/2017/05/29/getting-free-wifi) 
 - [IntersectionObserver’s Coming into View  |  Web  |  Google Developers](https://developers.google.com/web/updates/2016/04/intersectionobserver) 
+- [git - Gingko App](https://gingkoapp.com/git-notes) 
