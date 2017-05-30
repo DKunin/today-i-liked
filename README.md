@@ -859,3 +859,4 @@
 ### May 30, 2017
 - [antonycourtney/tad: A desktop application for viewing and analyzing tabular data](https://github.com/antonycourtney/tad) 
 - [picodom/picodom: 1kb Virtual DOM builder and patch algorithm.](https://github.com/picodom/picodom) 
+- [Upgrading Ele.me to Progressive Web App – ELEME Frontend Engineering – Medium](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509) 
