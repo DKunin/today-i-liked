@@ -858,3 +858,4 @@
 
 ### May 30, 2017
 - [antonycourtney/tad: A desktop application for viewing and analyzing tabular data](https://github.com/antonycourtney/tad) 
+- [picodom/picodom: 1kb Virtual DOM builder and patch algorithm.](https://github.com/picodom/picodom) 
