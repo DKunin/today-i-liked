@@ -863,3 +863,6 @@
 
 ### May 31, 2017
 - [simply-coded/electron-navigation: A Node.js module that adds a navigation interface to Electron which allows you to browse the internet or view local HTML files with tabs and webviews.](https://github.com/simply-coded/electron-navigation) 
+
+### June 2, 2017
+- [dashersw/cote: A Node.js library for building zero-configuration microservices.](https://github.com/dashersw/cote) 
