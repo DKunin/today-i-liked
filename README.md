@@ -867,3 +867,6 @@
 ### June 2, 2017
 - [dashersw/cote: A Node.js library for building zero-configuration microservices.](https://github.com/dashersw/cote) 
 - [521dimensions/amplitudejs: Amplitude.js is the HTML5 Audio Player for the modern era. No dependencies required.](https://github.com/521dimensions/amplitudejs) 
+
+### June 3, 2017
+- [Feather – Simply beautiful open source icons](https://feathericons.com/) 
