@@ -873,3 +873,4 @@
 
 ### June 5, 2017
 - [karan/Projects: A list of practical projects that anyone can solve in any programming language.](https://github.com/karan/Projects) 
+- [Using Dnsmasq for local development on OS X - Passing Curiosity](https://passingcuriosity.com/2013/dnsmasq-dev-osx/) 
