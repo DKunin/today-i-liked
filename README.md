@@ -870,3 +870,6 @@
 
 ### June 3, 2017
 - [Feather – Simply beautiful open source icons](https://feathericons.com/) 
+
+### June 5, 2017
+- [karan/Projects: A list of practical projects that anyone can solve in any programming language.](https://github.com/karan/Projects) 
