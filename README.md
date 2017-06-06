@@ -875,3 +875,6 @@
 - [karan/Projects: A list of practical projects that anyone can solve in any programming language.](https://github.com/karan/Projects) 
 - [Using Dnsmasq for local development on OS X - Passing Curiosity](https://passingcuriosity.com/2013/dnsmasq-dev-osx/) 
 - [LinkedIn](https://www.linkedin.com/feed/) 
+
+### June 6, 2017
+- [lukasmartinelli/nigit: Web server that wraps around programs and shell scripts and exposes them as API](https://github.com/lukasmartinelli/nigit) 
