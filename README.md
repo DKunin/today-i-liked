@@ -878,3 +878,6 @@
 
 ### June 6, 2017
 - [lukasmartinelli/nigit: Web server that wraps around programs and shell scripts and exposes them as API](https://github.com/lukasmartinelli/nigit) 
+
+### June 8, 2017
+- [AmplitudeJS: The HTML Audio Player For The Modern Era](https://521dimensions.com/open-source/amplitudejs) 
