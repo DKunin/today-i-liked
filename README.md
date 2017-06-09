@@ -884,3 +884,4 @@
 
 ### June 9, 2017
 - [StreamFlix](http://streamflix.pw/#/) 
+- [Super Quick Share](https://sqs.fun/) 
