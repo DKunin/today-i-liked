@@ -881,3 +881,6 @@
 
 ### June 8, 2017
 - [AmplitudeJS: The HTML Audio Player For The Modern Era](https://521dimensions.com/open-source/amplitudejs) 
+
+### June 9, 2017
+- [StreamFlix](http://streamflix.pw/#/) 
