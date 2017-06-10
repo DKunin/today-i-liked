@@ -892,3 +892,4 @@
 
 ### June 10, 2017
 - [billboard.js](https://naver.github.io/billboard.js/) 
+- [serapath/benny-hill-x: Play the Benny Hill theme for x (default 5) seconds after running another command](https://github.com/serapath/benny-hill-x) 
