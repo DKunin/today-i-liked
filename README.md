@@ -894,3 +894,6 @@
 - [billboard.js](https://naver.github.io/billboard.js/) 
 - [serapath/benny-hill-x: Play the Benny Hill theme for x (default 5) seconds after running another command](https://github.com/serapath/benny-hill-x) 
 - [git-extras/Commands.md at master · tj/git-extras](https://github.com/tj/git-extras/blob/master/Commands.md#git-featurerefactorbugchore) 
+
+### June 12, 2017
+- [rambler-digital-solutions/rambler-ui: 😈 UI library for creating interfaces in Rambler guidelines with React power](https://github.com/rambler-digital-solutions/rambler-ui) 
