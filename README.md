@@ -900,3 +900,4 @@
 
 ### June 13, 2017
 - [www.pement.org/sed/sed1line.txt](http://www.pement.org/sed/sed1line.txt) 
+- [dexteryy/spellbook-of-modern-webdev: A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development](https://github.com/dexteryy/spellbook-of-modern-webdev) 
