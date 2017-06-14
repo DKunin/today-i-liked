@@ -903,3 +903,6 @@
 - [dexteryy/spellbook-of-modern-webdev: A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development](https://github.com/dexteryy/spellbook-of-modern-webdev) 
 - [How to build a modern CI/CD pipeline – BetterCode – Medium](https://medium.com/bettercode/how-to-build-a-modern-ci-cd-pipeline-5faa01891a5b) 
 - [Two-Factor Authentication with Node.js](https://davidwalsh.name/2fa) 
+
+### June 14, 2017
+- [vue-styleguidist/vue-styleguidist: Created from react styleguidist for Vue Components with a living style guide](https://github.com/vue-styleguidist/vue-styleguidist) 
