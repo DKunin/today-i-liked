@@ -906,3 +906,6 @@
 
 ### June 14, 2017
 - [vue-styleguidist/vue-styleguidist: Created from react styleguidist for Vue Components with a living style guide](https://github.com/vue-styleguidist/vue-styleguidist) 
+
+### June 15, 2017
+- [Static HTML Crypto](https://robinmoisson.github.io/staticrypt/#) 
