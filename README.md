@@ -910,3 +910,6 @@
 ### June 15, 2017
 - [Static HTML Crypto](https://robinmoisson.github.io/staticrypt/#) 
 - [Ramp Receipts - Index](https://rampreceipts.com/) 
+
+### June 16, 2017
+- [voicetube/client.js at master · noffle/voicetube](https://github.com/noffle/voicetube/blob/master/client.js) 
