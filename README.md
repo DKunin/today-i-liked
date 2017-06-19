@@ -916,3 +916,4 @@
 
 ### June 19, 2017
 - [First Timers Only - Get involved in Open Source and commit code to your first project!](http://www.firsttimersonly.com/) 
+- [rlindskog/vueniverse: Vueniverse.](https://github.com/rlindskog/vueniverse) 
