@@ -913,3 +913,6 @@
 
 ### June 16, 2017
 - [voicetube/client.js at master · noffle/voicetube](https://github.com/noffle/voicetube/blob/master/client.js) 
+
+### June 19, 2017
+- [First Timers Only - Get involved in Open Source and commit code to your first project!](http://www.firsttimersonly.com/) 
