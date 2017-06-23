@@ -926,3 +926,4 @@
 
 ### June 23, 2017
 - [facebook/jscodeshift: A JavaScript codemod toolkit.](https://github.com/facebook/jscodeshift) 
+- [cpojer/js-codemod: Codemod scripts to transform code to next generation JS](https://github.com/cpojer/js-codemod/#template-literals) 
