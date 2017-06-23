@@ -923,3 +923,6 @@
 
 ### June 22, 2017
 - [roccomuso/netcat: Netcat client and server modules written in pure Javascript for Node.js.](https://github.com/roccomuso/netcat) 
+
+### June 23, 2017
+- [facebook/jscodeshift: A JavaScript codemod toolkit.](https://github.com/facebook/jscodeshift) 
