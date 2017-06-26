@@ -930,3 +930,4 @@
 
 ### June 26, 2017
 - [rstacruz/kingraph: Plots family trees using JavaScript and Graphviz](https://github.com/rstacruz/kingraph) 
+- [Making a Zombie Horde in JavaScript Using ES6 Generators](http://trycatchfail.com/blog/post/Making-a-Zombie-Horde-in-JavaScript-Using-ES6-Generators) 
