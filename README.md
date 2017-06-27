@@ -934,3 +934,4 @@
 
 ### June 27, 2017
 - [How to Setup a Raspberry Pi Nextcloud Server - Pi My Life Up](https://pimylifeup.com/raspberry-pi-nextcloud-server/) 
+- [Get HTTPS for free!](https://gethttpsforfree.com/) 
