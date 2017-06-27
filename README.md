@@ -931,3 +931,6 @@
 ### June 26, 2017
 - [rstacruz/kingraph: Plots family trees using JavaScript and Graphviz](https://github.com/rstacruz/kingraph) 
 - [Making a Zombie Horde in JavaScript Using ES6 Generators](http://trycatchfail.com/blog/post/Making-a-Zombie-Horde-in-JavaScript-Using-ES6-Generators) 
+
+### June 27, 2017
+- [How to Setup a Raspberry Pi Nextcloud Server - Pi My Life Up](https://pimylifeup.com/raspberry-pi-nextcloud-server/) 
