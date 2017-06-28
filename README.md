@@ -939,3 +939,6 @@
 - [Exobrain](https://www.exobrain.co/) 
 - [Localtunnel ~ Expose yourself to the world](https://localtunnel.github.io/www/) 
 - [JSON Generator – tool for generating random JSON data](http://beta.json-generator.com/) 
+
+### June 28, 2017
+- [egoist/badge-studio: Creating customizable metadata badges.](https://github.com/egoist/badge-studio) 
