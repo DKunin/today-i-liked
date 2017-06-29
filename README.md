@@ -948,3 +948,4 @@
 - [enigma-io/boundless: ✨ accessible, battle-tested React components with infinite composability](https://github.com/enigma-io/boundless) 
 - [survey.js : The JavaScript JSON based Survey Library](http://surveyjs.org/index.html) 
 - [Recast.AI | Collaborative Bot Platform](https://recast.ai/) 
+- [dollarshaveclub/study: A Simple, progressive, client/server AB testing library ⚡️](https://github.com/dollarshaveclub/study) 
