@@ -949,3 +949,4 @@
 - [survey.js : The JavaScript JSON based Survey Library](http://surveyjs.org/index.html) 
 - [Recast.AI | Collaborative Bot Platform](https://recast.ai/) 
 - [dollarshaveclub/study: A Simple, progressive, client/server AB testing library ⚡️](https://github.com/dollarshaveclub/study) 
+- [stared/science-based-games-list: Science-based games - a collaborative list](https://github.com/stared/science-based-games-list) 
