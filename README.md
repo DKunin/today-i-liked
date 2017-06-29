@@ -942,3 +942,6 @@
 
 ### June 28, 2017
 - [egoist/badge-studio: Creating customizable metadata badges.](https://github.com/egoist/badge-studio) 
+
+### June 29, 2017
+- [warner/magic-wormhole: get things from one computer to another, safely](https://github.com/warner/magic-wormhole) 
