@@ -953,3 +953,6 @@
 
 ### July 3, 2017
 - [fastify/fastify: Fast and low overhead web framework, for Node.js](https://github.com/fastify/fastify) 
+
+### July 4, 2017
+- [auto-install/package.json at master · siddharthkp/auto-install](https://github.com/siddharthkp/auto-install/blob/master/package.json) 
