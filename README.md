@@ -956,3 +956,6 @@
 
 ### July 4, 2017
 - [auto-install/package.json at master · siddharthkp/auto-install](https://github.com/siddharthkp/auto-install/blob/master/package.json) 
+
+### July 5, 2017
+- [Booking.com — UX Analysis and Responsive Redesign – uxdesign.cc](https://uxdesign.cc/booking-com-ux-analysis-and-responsive-redesign-5854d616c0b8) 
