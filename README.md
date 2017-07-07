@@ -963,3 +963,6 @@
 
 ### July 6, 2017
 - [neuland/micro-frontends: frontend integration recipes for composing a website with multiple teams](https://github.com/neuland/micro-frontends) 
+
+### July 7, 2017
+- [vadimdemedes/ink: 🌈 React for CLIs](https://github.com/vadimdemedes/ink) 
