@@ -966,3 +966,6 @@
 
 ### July 7, 2017
 - [vadimdemedes/ink: 🌈 React for CLIs](https://github.com/vadimdemedes/ink) 
+
+### July 8, 2017
+- [fardog/node-xkcd-password: An XKCD-style password and random word generator module and CLI.](https://github.com/fardog/node-xkcd-password) 
