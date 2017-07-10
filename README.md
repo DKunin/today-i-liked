@@ -969,3 +969,6 @@
 
 ### July 8, 2017
 - [fardog/node-xkcd-password: An XKCD-style password and random word generator module and CLI.](https://github.com/fardog/node-xkcd-password) 
+
+### July 10, 2017
+- [gajus/usus: Renders page using Chrome Debugging Protocol (CDP). Extracts CSS used to render the page. Renders HTML with the blocking CSS made asynchronous. Inlines the critical CSS.](https://github.com/gajus/usus) 
