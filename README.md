@@ -974,3 +974,6 @@
 - [gajus/usus: Renders page using Chrome Debugging Protocol (CDP). Extracts CSS used to render the page. Renders HTML with the blocking CSS made asynchronous. Inlines the critical CSS.](https://github.com/gajus/usus) 
 - [Setting up 2FA for Node.js Applications](https://ponyfoo.com/articles/setting-up-2fa-for-nodejs-applications) 
 - [joelgriffith/navalia: Not your father's web scraper https://joelgriffith.github.io/navalia/](https://github.com/joelgriffith/navalia) 
+
+### July 11, 2017
+- [jaredreich/pell: 📝 the simplest and smallest (5kB) WYSIWYG text editor for web, with no dependencies](https://github.com/jaredreich/pell) 
