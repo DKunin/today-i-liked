@@ -980,3 +980,4 @@
 
 ### July 13, 2017
 - [cssstats/cssstats: Webapp to visualize various stats about your css](https://github.com/cssstats/cssstats) 
+- [f/vuex-loading: Complex Loader Management for Vue/Vuex Applications](https://github.com/f/vuex-loading?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Vue-newsletter) 
