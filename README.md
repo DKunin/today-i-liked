@@ -977,3 +977,6 @@
 
 ### July 11, 2017
 - [jaredreich/pell: 📝 the simplest and smallest (5kB) WYSIWYG text editor for web, with no dependencies](https://github.com/jaredreich/pell) 
+
+### July 13, 2017
+- [cssstats/cssstats: Webapp to visualize various stats about your css](https://github.com/cssstats/cssstats) 
