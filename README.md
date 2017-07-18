@@ -985,3 +985,6 @@
 ### July 17, 2017
 - [oblador/loki: Visual Regression Testing for react-storybook](https://github.com/oblador/loki) 
 - [exoframejs/exoframe: Exoframe - power armor for docker containers](https://github.com/exoframejs/exoframe) 
+
+### July 18, 2017
+- [Prevent Mobile Browser From Sleeping](https://davidwalsh.name/wake-lock-shim) 
