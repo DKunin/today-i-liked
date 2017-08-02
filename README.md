@@ -988,3 +988,6 @@
 
 ### July 18, 2017
 - [Prevent Mobile Browser From Sleeping](https://davidwalsh.name/wake-lock-shim) 
+
+### August 02, 2017
+- [A tiny drop-in REST API to send emails](https://github.com/dthree/mailit)
