@@ -991,3 +991,4 @@
 
 ### August 02, 2017
 - [A tiny drop-in REST API to send emails](https://github.com/dthree/mailit)
+- [Linters Gonna Lint](https://glebbahmutov.com/blog/linters-gonna-lint/)
