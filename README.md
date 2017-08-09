@@ -998,8 +998,6 @@
 - [Anki cards](https://play.google.com/store/apps/details?id=com.ichi2.anki)
 - [Systems Architectures](https://github.com/donnemartin/system-design-primer)
 
-### August 9, 2017 
-- [test](test) 
-- [test](test) 
+### August 9, 2017
 - [GitHub - zeit/hazel: Lightweight update server for Electron apps
 ](https://github.com/zeit/hazel) 
