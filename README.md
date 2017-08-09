@@ -992,3 +992,7 @@
 ### August 02, 2017
 - [A tiny drop-in REST API to send emails](https://github.com/dthree/mailit)
 - [Linters Gonna Lint](https://glebbahmutov.com/blog/linters-gonna-lint/)
+
+### August 09, 2017
+- [Android Niceties](http://androidniceties.tumblr.com/)
+- [Anki cards](https://play.google.com/store/apps/details?id=com.ichi2.anki)
