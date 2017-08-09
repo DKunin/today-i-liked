@@ -1001,3 +1001,5 @@
 ### August 9, 2017 
 - [test](test) 
 - [test](test) 
+- [GitHub - zeit/hazel: Lightweight update server for Electron apps
+](https://github.com/zeit/hazel) 
