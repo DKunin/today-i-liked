@@ -997,3 +997,6 @@
 - [Android Niceties](http://androidniceties.tumblr.com/)
 - [Anki cards](https://play.google.com/store/apps/details?id=com.ichi2.anki)
 - [Systems Architectures](https://github.com/donnemartin/system-design-primer)
+
+### August 9, 2017 
+- [test](test) 
