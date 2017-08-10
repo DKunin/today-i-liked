@@ -1017,3 +1017,5 @@
 ](https://www.mixcloud.com) 
 - [Nextein<style>.css-github-yfwck9-h33vkn { -webkit-align-self: center; -ms-flex-item-align: center; align-self: center;
 ](https://nextein.now.sh/) 
+- [GitHub - IonicaBizau/git-stats: Local git statistics including GitHub-like contributions calendars.
+](https://github.com/IonicaBizau/git-stats) 
