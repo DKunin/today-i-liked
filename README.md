@@ -1001,3 +1001,7 @@
 ### August 9, 2017
 - [GitHub - zeit/hazel: Lightweight update server for Electron apps
 ](https://github.com/zeit/hazel) 
+
+### August 10, 2017 
+- [GitHub - PNKBizz/vue-yandex-map: Yandex Maps Component for VueJS
+](https://github.com/PNKBizz/vue-yandex-map) 
