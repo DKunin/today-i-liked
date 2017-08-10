@@ -1005,3 +1005,5 @@
 ### August 10, 2017 
 - [GitHub - PNKBizz/vue-yandex-map: Yandex Maps Component for VueJS
 ](https://github.com/PNKBizz/vue-yandex-map) 
+- [GitHub - lukaszflorczak/vue-agile: Carousel component for Vue.js
+](https://github.com/lukaszflorczak/vue-agile) 
