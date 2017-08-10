@@ -1019,3 +1019,5 @@
 ](https://nextein.now.sh/) 
 - [GitHub - IonicaBizau/git-stats: Local git statistics including GitHub-like contributions calendars.
 ](https://github.com/IonicaBizau/git-stats) 
+- [GitHub - meitar/awesome-lockpicking: A curated list of awesome guides, tools, and other resources related to the security and compromise of locks, safes, and keys.
+](https://github.com/meitar/awesome-lockpicking) 
