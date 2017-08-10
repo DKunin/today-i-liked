@@ -1007,3 +1007,5 @@
 ](https://github.com/PNKBizz/vue-yandex-map) 
 - [GitHub - lukaszflorczak/vue-agile: Carousel component for Vue.js
 ](https://github.com/lukaszflorczak/vue-agile) 
+- [GitHub - zeeshanu/learn-regex: Learn regex the easy way
+](https://github.com/zeeshanu/learn-regex) 
