@@ -1027,3 +1027,7 @@
 ](https://hackernoon.com/build-a-serverless-stripe-store-in-5-minutes-with-node-js-and-stdlib-d90352c89227) 
 - [Gimme Chocolate - Babymetal (1920s Jazz Cover) ft. Tara Louise - YouTube<link rel="canonical" href="https://www.youtube.com/watch?v=69bid4gUOHQ"><link rel="alternate" media="handheld" href="https://m.youtube.com/watch?v=69bid4gUOHQ"><link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.youtube.com/watch?v=69bid4gUOHQ">      <meta name="title" content="Gimme Chocolate - Babymetal (1920s Jazz Cover) ft. Tara Louise">
 ](https://youtu.be/69bid4gUOHQ) 
+
+### August 12, 2017 
+- [Walking Your Octopus: A Guidebook to the Domesticated Cephalopod: Brian Kesinger: 0884887410547: Amazon.com: Books
+](https://www.amazon.com/Walking-Your-Octopus-Domesticated-Cephalopod/dp/1614040060//ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=bkgas-20&linkId=8ee5989aac950208cd1c1169c523cb72) 
