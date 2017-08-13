@@ -1021,3 +1021,6 @@
 - [Walking Your Octopus: A Guidebook to the Domesticated Cephalopod: Brian Kesinger: 0884887410547: Amazon.com: Books
 ](https://www.amazon.com/Walking-Your-Octopus-Domesticated-Cephalopod/dp/1614040060//ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=bkgas-20&linkId=8ee5989aac950208cd1c1169c523cb72) 
 - [unified](https://unifiedjs.github.io/) 
+
+### August 13, 2017 
+- [12 Terminal Commands Every Web Developer Should Know About - Tutorialzine](https://tutorialzine.com/2017/08/12-terminal-commands-every-web-developer-should-know) 
