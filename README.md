@@ -1024,3 +1024,6 @@
 
 ### August 13, 2017 
 - [12 Terminal Commands Every Web Developer Should Know About - Tutorialzine](https://tutorialzine.com/2017/08/12-terminal-commands-every-web-developer-should-know) 
+
+### August 15, 2017 
+- [GitHub - epicmaxco/vuestic-admin: Vue.js admin dashboard](https://github.com/epicmaxco/vuestic-admin) 
