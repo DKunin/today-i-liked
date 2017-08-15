@@ -1027,3 +1027,4 @@
 
 ### August 15, 2017 
 - [GitHub - epicmaxco/vuestic-admin: Vue.js admin dashboard](https://github.com/epicmaxco/vuestic-admin) 
+- [Log Management - Chrome DevTools - Dev Tips](https://umaar.com/dev-tips/153-log-management/?utm_source=Dev+Tips&utm_campaign=87bf7505e7-EMAIL_CAMPAIGN_2017_08_15&utm_medium=email&utm_term=0_26bacd765c-87bf7505e7-310356825) 
