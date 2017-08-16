@@ -1032,3 +1032,4 @@
 ### August 16, 2017 
 - [Designing The Perfect Feature Comparison Table &ndash; Smashing Magazine](https://www.smashingmagazine.com/2017/08/designing-perfect-feature-comparison-table/) 
 - [GitHub - appium/appium-adb: Wrapper around adb used by appium + helper libs](https://github.com/appium/appium-adb) 
+- [GitHub - Urucas/ScreenRec: osx screen recording with node](https://github.com/Urucas/ScreenRec) 
