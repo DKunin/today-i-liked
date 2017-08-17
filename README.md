@@ -1034,3 +1034,6 @@
 - [GitHub - appium/appium-adb: Wrapper around adb used by appium + helper libs](https://github.com/appium/appium-adb) 
 - [GitHub - Urucas/ScreenRec: osx screen recording with node](https://github.com/Urucas/ScreenRec) 
 - [GitHub - GoogleChrome/puppeteer: Headless Chrome Node API](https://github.com/GoogleChrome/puppeteer) 
+
+### August 17, 2017 
+- [Using the Paint Timing API | CSS-Tricks](https://css-tricks.com/paint-timing-api/) 
