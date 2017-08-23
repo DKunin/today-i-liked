@@ -1040,3 +1040,6 @@
 
 ### August 21, 2017 
 - [GitHub - bbyars/mountebank: Over the wire test doubles](https://github.com/bbyars/mountebank) 
+
+### August 23, 2017 
+- [GitHub - IonicaBizau/github-calendar: Embed your GitHub calendar everywhere.](https://github.com/IonicaBizau/github-calendar) 
