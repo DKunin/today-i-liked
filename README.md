@@ -1044,3 +1044,6 @@
 ### August 23, 2017 
 - [GitHub - IonicaBizau/github-calendar: Embed your GitHub calendar everywhere.](https://github.com/IonicaBizau/github-calendar) 
 - [Ant Design - A UI Design Language](https://ant.design) 
+
+### August 29, 2017 
+- [GitHub - mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know](https://github.com/mr-mig/every-programmer-should-know) 
