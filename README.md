@@ -1052,3 +1052,4 @@
 ### August 30, 2017 
 - [GitHub - uber/deck.gl: WebGL based visualization layers](https://github.com/uber/deck.gl) 
 - [GitHub - doowb/octobox.js: Take back control of your GitHub Notifications! (Port of octobox to node.js)](https://github.com/doowb/octobox.js) 
+- [GitHub - octobox/octobox: Take back control of your GitHub Notifications](https://github.com/octobox/octobox) 
