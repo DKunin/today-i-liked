@@ -1048,3 +1048,6 @@
 ### August 29, 2017 
 - [GitHub - mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know](https://github.com/mr-mig/every-programmer-should-know) 
 - [vddl - Vue components for modifying lists with the HTML5 drag & drop API.](http://hejx.space/vddl/#/guide/quick-start) 
+
+### August 30, 2017 
+- [GitHub - uber/deck.gl: WebGL based visualization layers](https://github.com/uber/deck.gl) 
