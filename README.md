@@ -1054,3 +1054,6 @@
 - [GitHub - doowb/octobox.js: Take back control of your GitHub Notifications! (Port of octobox to node.js)](https://github.com/doowb/octobox.js) 
 - [GitHub - octobox/octobox: Take back control of your GitHub Notifications](https://github.com/octobox/octobox) 
 - [Использование символов в Redux](http://slonoed.net/ispolzovanie-simvolov-v-redux) 
+
+### August 31, 2017 
+- [GitHub - dattn/dnd-grid: A vuejs grid with draggable and resizable boxes](https://github.com/dattn/dnd-grid) 
