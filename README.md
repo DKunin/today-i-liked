@@ -1060,3 +1060,4 @@
 
 ### September 3, 2017 
 - [GitHub - openstf/stf: Control and manage Android devices from your browser.](https://github.com/openstf/stf) 
+- [GitHub - prasmussen/gdrive: Google Drive CLI Client](https://github.com/prasmussen/gdrive) 
