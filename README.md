@@ -1057,3 +1057,6 @@
 
 ### August 31, 2017 
 - [GitHub - dattn/dnd-grid: A vuejs grid with draggable and resizable boxes](https://github.com/dattn/dnd-grid) 
+
+### September 3, 2017 
+- [GitHub - openstf/stf: Control and manage Android devices from your browser.](https://github.com/openstf/stf) 
