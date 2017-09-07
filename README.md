@@ -1064,3 +1064,6 @@
 
 ### September 5, 2017 
 - [Size Limit: Make the Web lighter — Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles/size-limit-make-the-web-lighter) 
+
+### September 7, 2017 
+- [Headless mode - Mozilla | MDN](https://developer.mozilla.org/en-US/Firefox/Headless_mode) 
