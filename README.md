@@ -1068,3 +1068,6 @@
 ### September 7, 2017 
 - [Headless mode - Mozilla | MDN](https://developer.mozilla.org/en-US/Firefox/Headless_mode) 
 - [The art of over-engineering your side projects &#8211; Liam Symonds](https://elsyms.com/the-art-of-over-engineering-your-side-projects) 
+
+### September 9, 2017 
+- [CodePen - Little UI details from @steveschoger, in HTML and CSS](https://codepen.io/tyrellrummage/full/ZJPXgy/) 
