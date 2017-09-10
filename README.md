@@ -1071,3 +1071,6 @@
 
 ### September 9, 2017 
 - [CodePen - Little UI details from @steveschoger, in HTML and CSS](https://codepen.io/tyrellrummage/full/ZJPXgy/) 
+
+### September 10, 2017 
+- [GitHub - regisb/slack-cli: Slack CLI for productive developers](https://github.com/regisb/slack-cli) 
