@@ -1078,3 +1078,4 @@
 
 ### September 11, 2017 
 - [Building a Node.js application on Android – freeCodeCamp](https://medium.freecodecamp.org/building-a-node-js-application-on-android-part-1-termux-vim-and-node-js-dfa90c28958f) 
+- [Building a Small PWA with Preact and Firebase](https://dandenney.com/posts/front-end-dev/building-a-small-pwa-with-preact-and-firebase) 
