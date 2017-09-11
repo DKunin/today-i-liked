@@ -1075,3 +1075,6 @@
 ### September 10, 2017 
 - [GitHub - regisb/slack-cli: Slack CLI for productive developers](https://github.com/regisb/slack-cli) 
 - [I wanted real time GitHub push notifications. So I built a Chrome extension.](https://medium.freecodecamp.org/i-wanted-real-time-github-push-notifications-so-i-built-a-chrome-extension-7e6be0611e4) 
+
+### September 11, 2017 
+- [Building a Node.js application on Android – freeCodeCamp](https://medium.freecodecamp.org/building-a-node-js-application-on-android-part-1-termux-vim-and-node-js-dfa90c28958f) 
