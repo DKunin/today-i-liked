@@ -1085,3 +1085,4 @@
 
 ### September 16, 2017 
 - [How to make Magic links with Node – One More Thing Studio – Medium](https://medium.com/one-more-thing-studio/how-to-make-magic-links-with-node-1d164c036e29) 
+- [git-secret](http://git-secret.io/) 
