@@ -1089,3 +1089,6 @@
 
 ### September 23, 2017 
 - [Vuetify.js · GitHub](https://github.com/vuetifyjs) 
+
+### September 25, 2017 
+- [HTML Standard](https://html.spec.whatwg.org/multipage/webappapis.html#unhandled-promise-rejections:event-unhandledrejection) 
