@@ -1096,3 +1096,4 @@
 ### September 26, 2017 
 - [GitHub - dawnlabs/carbon: 🎨 Create and share beautiful images of your source code](https://github.com/dawnlabs/carbon) 
 - [Spec Markdown](http://leebyron.com/spec-md/) 
+- [Dockerize your app: Micro Tip #16 - Supercharged - YouTube](https://www.youtube.com/watch?v=06pkOtDLpmI&feature=youtu.be) 
