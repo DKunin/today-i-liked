@@ -1098,3 +1098,4 @@
 - [Spec Markdown](http://leebyron.com/spec-md/) 
 - [Dockerize your app: Micro Tip #16 - Supercharged - YouTube](https://www.youtube.com/watch?v=06pkOtDLpmI&feature=youtu.be) 
 - [Vue.js Single-File JavaScript Components In The Browser](https://vuejsdevelopers.com/2017/09/24/vue-js-single-file-javascript-components/) 
+- [60 Travel Icons To Awaken Your Wanderlust (Freebie) &ndash; Smashing Magazine](https://www.smashingmagazine.com/2017/09/60-travel-icons-set-freebie/) 
