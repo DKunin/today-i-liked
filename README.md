@@ -1103,3 +1103,6 @@
 ### September 29, 2017 
 - [Search · label:hacktoberfest state:open type:issue · GitHub](https://github.com/search?l=JavaScript&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue&type=Issues) 
 - [How I Cut My Hours in Half](https://code.lengstorf.com/presentations/work-life-balance/slides/#/) 
+
+### September 30, 2017 
+- [Orbit](https://orbit.chat/#/connect) 
