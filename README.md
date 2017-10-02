@@ -1106,3 +1106,6 @@
 
 ### September 30, 2017 
 - [Orbit](https://orbit.chat/#/connect) 
+
+### October 2, 2017 
+- [Keep your personal data private with these privacy tips for Android.](https://spreadprivacy.com/android-privacy-tips/) 
