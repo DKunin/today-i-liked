@@ -1109,3 +1109,4 @@
 
 ### October 2, 2017 
 - [Keep your personal data private with these privacy tips for Android.](https://spreadprivacy.com/android-privacy-tips/) 
+- [Keep your personal data private with these privacy tips for Mac.](https://spreadprivacy.com/mac-privacy-tips/) 
