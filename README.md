@@ -1114,3 +1114,4 @@
 ### October 3, 2017 
 - [lagom.js](https://reimertz.github.io/lagom/#20) 
 - [Sign Language • ASL Dictionary |  HandSpeak](https://www.handspeak.com) 
+- [<title ng-bind="SEO.title">Kit](https://kit.com/) 
