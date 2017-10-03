@@ -1115,3 +1115,4 @@
 - [lagom.js](https://reimertz.github.io/lagom/#20) 
 - [Sign Language • ASL Dictionary |  HandSpeak](https://www.handspeak.com) 
 - [<title ng-bind="SEO.title">Kit](https://kit.com/) 
+- [PhotoLifeToys: Control your camera with gPhoto2 via MacOSX Terminal (Nikon, Canon, Dslr / compact, etc)](http://photolifetoys.blogspot.ru/2012/08/control-your-camera-with-gphoto2-via.html) 
