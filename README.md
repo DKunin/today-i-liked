@@ -1116,3 +1116,6 @@
 - [Sign Language • ASL Dictionary |  HandSpeak](https://www.handspeak.com) 
 - [<title ng-bind="SEO.title">Kit](https://kit.com/) 
 - [PhotoLifeToys: Control your camera with gPhoto2 via MacOSX Terminal (Nikon, Canon, Dslr / compact, etc)](http://photolifetoys.blogspot.ru/2012/08/control-your-camera-with-gphoto2-via.html) 
+
+### October 4, 2017 
+- [GitHub - Foundry376/Mailspring: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.](https://github.com/Foundry376/Mailspring) 
