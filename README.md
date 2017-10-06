@@ -1120,3 +1120,6 @@
 ### October 4, 2017 
 - [GitHub - Foundry376/Mailspring: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.](https://github.com/Foundry376/Mailspring) 
 - [Web Push Book | Web Push Book](https://web-push-book.gauntface.com/) 
+
+### October 6, 2017 
+- [Adorable Avatars!](http://avatars.adorable.io/) 
