@@ -1123,3 +1123,4 @@
 
 ### October 6, 2017 
 - [Adorable Avatars!](http://avatars.adorable.io/) 
+- [GitHub - creationix/drop-dat: A quick file sharing mechanism using dat libraries.](https://github.com/creationix/drop-dat) 
