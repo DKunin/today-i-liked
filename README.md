@@ -1127,3 +1127,6 @@
 
 ### October 11, 2017 
 - [Создание заказа - пазл из фотографии](http://www.allprint-service.ru/order/puzzle.php) 
+
+### October 13, 2017 
+- [Бамси (Bamse) на русском - Разное - Другие издательства - Архив комиксов](http://comicsgeek.ru/publ/37-1-0-468) 
