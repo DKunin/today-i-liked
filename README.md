@@ -1130,3 +1130,6 @@
 
 ### October 13, 2017 
 - [Бамси (Bamse) на русском - Разное - Другие издательства - Архив комиксов](http://comicsgeek.ru/publ/37-1-0-468) 
+
+### October 15, 2017 
+- [Regexly | Chipto](https://regexly.chipto.io/) 
