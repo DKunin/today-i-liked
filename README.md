@@ -1133,3 +1133,6 @@
 
 ### October 15, 2017 
 - [Regexly | Chipto](https://regexly.chipto.io/) 
+
+### October 16, 2017 
+- [Data Viz Project | Collection of data visualizations to get inspired and finding the right type.](http://datavizproject.com/) 
