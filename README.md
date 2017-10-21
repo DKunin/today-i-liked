@@ -1138,3 +1138,6 @@
 - [Data Viz Project | Collection of data visualizations to get inspired and finding the right type.](http://datavizproject.com/) 
 - [Woz U &#8211; Education. Reprogrammed.](https://woz-u.com/) 
 - [Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript](https://regex101.com) 
+
+### October 22, 2017 
+- [Portainer | Simple management UI for Docker](https://portainer.io/) 
