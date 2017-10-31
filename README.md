@@ -1149,3 +1149,6 @@
 
 ### October 29, 2017 
 - [Easy i18n in 10 lines of JavaScript (PoC) – codeburst](https://codeburst.io/easy-i18n-in-10-lines-of-javascript-poc-eb9e5444d71e) 
+
+### October 31, 2017 
+- [GitHub - ebidel/lighthouse-ci: Lighthouse CI](https://github.com/ebidel/lighthouse-ci) 
