@@ -1152,3 +1152,6 @@
 
 ### October 31, 2017 
 - [GitHub - ebidel/lighthouse-ci: Lighthouse CI](https://github.com/ebidel/lighthouse-ci) 
+
+### November 1, 2017 
+- [GitHub - prometheus/prometheus: The Prometheus monitoring system and time series database.](https://github.com/prometheus/prometheus/) 
