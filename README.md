@@ -1155,3 +1155,6 @@
 
 ### November 1, 2017 
 - [GitHub - prometheus/prometheus: The Prometheus monitoring system and time series database.](https://github.com/prometheus/prometheus/) 
+
+### November 2, 2017 
+- [Workbox, the easier way of adding a service worker to your web app.](https://codeburst.io/workbox-the-easier-way-of-adding-a-service-worker-to-your-web-app-b0a1f26ef96c) 
