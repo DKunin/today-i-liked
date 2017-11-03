@@ -1159,3 +1159,6 @@
 ### November 2, 2017 
 - [Workbox, the easier way of adding a service worker to your web app.](https://codeburst.io/workbox-the-easier-way-of-adding-a-service-worker-to-your-web-app-b0a1f26ef96c) 
 - [Prometheus - Monitoring system &amp; time series database](https://prometheus.io/) 
+
+### November 3, 2017 
+- [GitHub - alvesjtiago/clip2p: Decentralized file sharing right from the menu bar.](https://github.com/alvesjtiago/clip2p) 
