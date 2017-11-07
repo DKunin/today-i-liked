@@ -1167,3 +1167,4 @@
 - [DJ Jolene](http://djjolene.com/) 
 - [DJ Jolene](http://djjolene.com/) 
 - [Using Vim with Syntastic and ESLint | remarkablemark](http://remarkablemark.org/blog/2016/09/28/vim-syntastic-eslint/) 
+- [GitHub - junegunn/vim-plug: Minimalist Vim Plugin Manager](https://github.com/junegunn/vim-plug) 
