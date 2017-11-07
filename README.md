@@ -1162,3 +1162,6 @@
 
 ### November 3, 2017 
 - [GitHub - alvesjtiago/clip2p: Decentralized file sharing right from the menu bar.](https://github.com/alvesjtiago/clip2p) 
+
+### November 7, 2017 
+- [DJ Jolene](http://djjolene.com/) 
