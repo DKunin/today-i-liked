@@ -1171,3 +1171,4 @@
 
 ### November 9, 2017 
 - [GitHub - viljamis/vue-design-system: Vue Design System is an open-source tool for prototyping UI design systems.](https://github.com/viljamis/vue-design-system) 
+- [GitHub - nathanreyes/v-calendar: A lightweight, dependency-free plugin for building attributed calendars in Vue.js](https://github.com/nathanreyes/v-calendar) 
