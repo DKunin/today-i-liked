@@ -1168,3 +1168,6 @@
 - [DJ Jolene](http://djjolene.com/) 
 - [Using Vim with Syntastic and ESLint | remarkablemark](http://remarkablemark.org/blog/2016/09/28/vim-syntastic-eslint/) 
 - [GitHub - junegunn/vim-plug: Minimalist Vim Plugin Manager](https://github.com/junegunn/vim-plug) 
+
+### November 9, 2017 
+- [GitHub - viljamis/vue-design-system: Vue Design System is an open-source tool for prototyping UI design systems.](https://github.com/viljamis/vue-design-system) 
