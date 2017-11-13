@@ -1173,3 +1173,6 @@
 - [GitHub - viljamis/vue-design-system: Vue Design System is an open-source tool for prototyping UI design systems.](https://github.com/viljamis/vue-design-system) 
 - [GitHub - nathanreyes/v-calendar: A lightweight, dependency-free plugin for building attributed calendars in Vue.js](https://github.com/nathanreyes/v-calendar) 
 - [Katacoda - Interactive Learning Platform for Software Engineers](https://www.katacoda.com) 
+
+### November 13, 2017 
+- [Extraordinary Routines](http://www.extraordinaryroutines.com/#/tina-roth-eisenberg/) 
