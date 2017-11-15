@@ -1176,3 +1176,6 @@
 
 ### November 13, 2017 
 - [Extraordinary Routines](http://www.extraordinaryroutines.com/#/tina-roth-eisenberg/) 
+
+### November 15, 2017 
+- [GitHub - jessfraz/k8s-snowflake: Configs and scripts for bootstrapping an opinionated Kubernetes cluster anywhere.](https://github.com/jessfraz/k8s-snowflake) 
