@@ -1179,3 +1179,6 @@
 
 ### November 15, 2017 
 - [GitHub - jessfraz/k8s-snowflake: Configs and scripts for bootstrapping an opinionated Kubernetes cluster anywhere.](https://github.com/jessfraz/k8s-snowflake) 
+
+### November 17, 2017 
+- [How to add real web push notifications to your webapp - A geek with a hat](https://swizec.com/blog/add-real-web-push-notifications-webapp/swizec/7924) 
