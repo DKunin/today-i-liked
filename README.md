@@ -1182,3 +1182,6 @@
 
 ### November 17, 2017 
 - [How to add real web push notifications to your webapp - A geek with a hat](https://swizec.com/blog/add-real-web-push-notifications-webapp/swizec/7924) 
+
+### November 18, 2017 
+- [Github Help Wanted](http://github-help-wanted.com/) 
