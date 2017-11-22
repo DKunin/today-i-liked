@@ -1189,3 +1189,6 @@
 
 ### November 20, 2017 
 - [Luxon](https://moment.github.io/luxon/) 
+
+### November 22, 2017 
+- [GitHub - drone/drone: Drone is a Continuous Delivery platform built on Docker, written in Go](https://github.com/drone/drone) 
