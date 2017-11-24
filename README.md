@@ -1192,3 +1192,6 @@
 
 ### November 22, 2017 
 - [GitHub - drone/drone: Drone is a Continuous Delivery platform built on Docker, written in Go](https://github.com/drone/drone) 
+
+### November 24, 2017 
+- [GitHub - croqaz/clean-mark: Convert an article into a clean Markdown text](https://github.com/croqaz/clean-mark) 
