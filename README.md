@@ -1195,3 +1195,6 @@
 
 ### November 24, 2017 
 - [GitHub - croqaz/clean-mark: Convert an article into a clean Markdown text](https://github.com/croqaz/clean-mark) 
+
+### November 27, 2017 
+- [GitHub - dataarts/dat.gui: dat.gui is a lightweight controller library for JavaScript.](https://github.com/dataarts/dat.gui) 
