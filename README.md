@@ -1203,3 +1203,6 @@
 ### November 29, 2017 
 - [GitHub - brainly/html-sketchapp: Experimental HTML to Sketch export solution](https://github.com/brainly/html-sketchapp) 
 - [GitHub - hopsoft/docker-graphite-statsd: Docker image for Graphite &amp; Statsd](https://github.com/hopsoft/docker-graphite-statsd) 
+
+### November 30, 2017 
+- [GitHub - kamon-io/docker-grafana-graphite: Docker image with StatsD, Graphite, Grafana 2 and a Kamon Dashboard](https://github.com/kamon-io/docker-grafana-graphite) 
