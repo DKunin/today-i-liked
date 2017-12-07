@@ -1206,3 +1206,6 @@
 
 ### November 30, 2017 
 - [GitHub - kamon-io/docker-grafana-graphite: Docker image with StatsD, Graphite, Grafana 2 and a Kamon Dashboard](https://github.com/kamon-io/docker-grafana-graphite) 
+
+### December 7, 2017 
+- [GitHub - beevelop/docker-nginx-basic-auth: Simple docker middleware image for basic authentication](https://github.com/beevelop/docker-nginx-basic-auth) 
