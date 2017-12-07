@@ -1209,3 +1209,4 @@
 
 ### December 7, 2017 
 - [GitHub - beevelop/docker-nginx-basic-auth: Simple docker middleware image for basic authentication](https://github.com/beevelop/docker-nginx-basic-auth) 
+- [GitHub - millette/dat-shell: Dat shell. Open a remote dat and explore with cd, ls, etc.](https://github.com/millette/dat-shell) 
