@@ -1213,3 +1213,4 @@
 
 ### December 9, 2017 
 - [Calendar with CSS Grid - Snook.ca](http://snook.ca/archives/html_and_css/calendar-css-grid) 
+- [GitHub - haltu/muuri: Responsive, sortable, filterable and draggable grid layouts](https://github.com/haltu/muuri) 
