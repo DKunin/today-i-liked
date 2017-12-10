@@ -1215,3 +1215,6 @@
 - [Calendar with CSS Grid - Snook.ca](http://snook.ca/archives/html_and_css/calendar-css-grid) 
 - [GitHub - haltu/muuri: Responsive, sortable, filterable and draggable grid layouts](https://github.com/haltu/muuri) 
 - [GitHub - JoshuaWise/better-sqlite3: The fastest and simplest library for SQLite3 in Node.js.](https://github.com/JoshuaWise/better-sqlite3) 
+
+### December 10, 2017 
+- [GitHub - hustcc/timeago.js: :clock8: timeago.js is a tiny(~2.0kb) library used to format date with `*** time ago` statement. eg: &#39;3 hours ago&#39;. No dependency &amp; localization &amp; tiny.](https://github.com/hustcc/timeago.js) 
