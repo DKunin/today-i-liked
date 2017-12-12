@@ -1218,3 +1218,6 @@
 
 ### December 10, 2017 
 - [GitHub - hustcc/timeago.js: :clock8: timeago.js is a tiny(~2.0kb) library used to format date with `*** time ago` statement. eg: &#39;3 hours ago&#39;. No dependency &amp; localization &amp; tiny.](https://github.com/hustcc/timeago.js) 
+
+### December 12, 2017 
+- [GitHub - asciidisco/web-conferences-2018: A list of Web &amp; JavaScript related conferences happening in 2018.](https://github.com/asciidisco/web-conferences-2018) 
