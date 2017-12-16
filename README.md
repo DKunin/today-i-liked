@@ -1221,3 +1221,6 @@
 
 ### December 12, 2017 
 - [GitHub - asciidisco/web-conferences-2018: A list of Web &amp; JavaScript related conferences happening in 2018.](https://github.com/asciidisco/web-conferences-2018) 
+
+### December 16, 2017 
+- [AI support platform, chatbot and open source helpdesk](https://helpy.io) 
