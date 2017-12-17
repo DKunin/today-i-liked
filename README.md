@@ -1225,3 +1225,6 @@
 ### December 16, 2017 
 - [AI support platform, chatbot and open source helpdesk](https://helpy.io) 
 - [GitHub - shime/awesome-open-source-indie: A curated list of small independent active open source products.](https://github.com/shime/awesome-open-source-indie) 
+
+### December 17, 2017 
+- [Feeding the Audio Graph &#9670; 24 ways](https://24ways.org/2017/feeding-the-audio-graph/) 
