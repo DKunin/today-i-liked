@@ -1228,3 +1228,6 @@
 
 ### December 17, 2017 
 - [Feeding the Audio Graph &#9670; 24 ways](https://24ways.org/2017/feeding-the-audio-graph/) 
+
+### December 18, 2017 
+- [GitHub - willfarrell/alfred-encode-decode-workflow: Encoding and decoding a sting into multiple variations.](https://github.com/willfarrell/alfred-encode-decode-workflow) 
