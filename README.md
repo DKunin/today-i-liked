@@ -1231,3 +1231,8 @@
 
 ### December 18, 2017 
 - [GitHub - willfarrell/alfred-encode-decode-workflow: Encoding and decoding a sting into multiple variations.](https://github.com/willfarrell/alfred-encode-decode-workflow) 
+
+### December 20, 2017 
+- [
+	VPN Gate - Public Free VPN Cloud by Univ of Tsukuba, Japan
+](http://www.vpngate.net/) 
