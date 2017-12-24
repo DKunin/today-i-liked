@@ -1236,3 +1236,6 @@
 - [
 	VPN Gate - Public Free VPN Cloud by Univ of Tsukuba, Japan
 ](http://www.vpngate.net/) 
+
+### December 24, 2017 
+- [GitHub - magicbookproject/magicbook: The magic book project returns!](https://github.com/magicbookproject/magicbook) 
