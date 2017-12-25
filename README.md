@@ -1239,3 +1239,6 @@
 
 ### December 24, 2017 
 - [GitHub - magicbookproject/magicbook: The magic book project returns!](https://github.com/magicbookproject/magicbook) 
+
+### December 25, 2017 
+- [JWT Tokens Revisited - Solteq Developer Blog](https://solteq.github.io/2017/02/13/jwt-tokens-revisited/) 
