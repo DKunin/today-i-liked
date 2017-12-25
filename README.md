@@ -1242,3 +1242,10 @@
 
 ### December 25, 2017 
 - [JWT Tokens Revisited - Solteq Developer Blog](https://solteq.github.io/2017/02/13/jwt-tokens-revisited/) 
+
+### December 26, 2017 
+- [
+  	 Playing HTTP Tricks with Nginx
+	  	 | Elastic
+  	
+  	](https://www.elastic.co/blog/playing-http-tricks-nginx) 
