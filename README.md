@@ -1249,3 +1249,6 @@
 	  	 | Elastic
   	
   	](https://www.elastic.co/blog/playing-http-tricks-nginx) 
+
+### January 2, 2018 
+- [GitHub - SFTtech/openage: Free (as in freedom) open source clone of the Age of Empires II engine](https://github.com/SFTtech/openage) 
