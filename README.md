@@ -1252,3 +1252,6 @@
 
 ### January 2, 2018 
 - [GitHub - SFTtech/openage: Free (as in freedom) open source clone of the Age of Empires II engine](https://github.com/SFTtech/openage) 
+
+### January 3, 2018 
+- [GitHub - ramsaylanier/VuePress: WordPress with Vue, GraphQL, and Node](https://github.com/ramsaylanier/VuePress) 
