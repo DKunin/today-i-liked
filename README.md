@@ -1255,3 +1255,6 @@
 
 ### January 3, 2018 
 - [GitHub - ramsaylanier/VuePress: WordPress with Vue, GraphQL, and Node](https://github.com/ramsaylanier/VuePress) 
+
+### January 7, 2018 
+- [GitHub - yyx990803/launch-editor: Open file with line numbers in editor from Node.js.](https://github.com/yyx990803/launch-editor) 
