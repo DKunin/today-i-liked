@@ -1258,3 +1258,6 @@
 
 ### January 7, 2018 
 - [GitHub - yyx990803/launch-editor: Open file with line numbers in editor from Node.js.](https://github.com/yyx990803/launch-editor) 
+
+### January 9, 2018 
+- [GitHub - bbc/peaks.js: JavaScript UI component for interacting with audio waveforms](https://github.com/bbc/peaks.js) 
