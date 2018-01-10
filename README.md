@@ -1261,3 +1261,6 @@
 
 ### January 9, 2018 
 - [GitHub - bbc/peaks.js: JavaScript UI component for interacting with audio waveforms](https://github.com/bbc/peaks.js) 
+
+### January 10, 2018 
+- [Build User Registration with Node, React, and Okta &#8213; Scotch](https://scotch.io/tutorials/add-user-registration-to-your-site-with-node-react-and-okta) 
