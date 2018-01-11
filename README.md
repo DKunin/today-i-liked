@@ -1266,3 +1266,6 @@
 - [Build User Registration with Node, React, and Okta &#8213; Scotch](https://scotch.io/tutorials/add-user-registration-to-your-site-with-node-react-and-okta) 
 - [GitHub - cowchimp/headless-devtools: Lets you perform Chrome DevTools actions from code by leveraging Headless Chrome+Puppeteer](https://github.com/cowchimp/headless-devtools) 
 - [GitHub - sschoger/heroicons-ui](https://github.com/sschoger/heroicons-ui) 
+
+### January 11, 2018 
+- [GitHub - developit/workerize: Run a module in a Web Worker.](https://github.com/developit/workerize) 
