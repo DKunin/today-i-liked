@@ -1275,3 +1275,4 @@
 - [GitHub - ncw/rclone: &quot;rsync for cloud storage&quot; - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files](https://github.com/ncw/rclone) 
 - [Купить Смарт-часы Kronaby Sekel 43 мм. Ремешок: кожа, черный в интернет магазине Euro.market](https://euro.market/catalog/smart_chasy/smart_chasy_kronaby_sekel_43_mm_remeshok_kozha_chernyy.html?pid=50455) 
 - [GitHub - googlecreativelab/teachable-machine-boilerplate: Boilerplate code for Teachable Machine](https://github.com/googlecreativelab/teachable-machine-boilerplate) 
+- [Adam Savage&#39;s One Day Builds: Blade Runner 2049 Binoculars! - YouTube](https://www.youtube.com/watch?v=wl558EoTuEQ) 
