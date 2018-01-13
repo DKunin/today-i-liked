@@ -1270,3 +1270,6 @@
 ### January 11, 2018 
 - [GitHub - developit/workerize: Run a module in a Web Worker.](https://github.com/developit/workerize) 
 - [Arrays, symbols, and realms - JakeArchibald.com](https://jakearchibald.com/2017/arrays-symbols-realms/) 
+
+### January 13, 2018 
+- [GitHub - ncw/rclone: &quot;rsync for cloud storage&quot; - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files](https://github.com/ncw/rclone) 
