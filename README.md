@@ -1279,3 +1279,4 @@
 
 ### January 16, 2018 
 - [GitHub - arcticicestudio/nord: An arctic, north-bluish color palette.](https://github.com/arcticicestudio/nord) 
+- [Little steps for accessibility at N26](https://hugogiraudel.com/2018/01/08/little-steps-for-accessibility-at-n26/) 
