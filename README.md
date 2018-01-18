@@ -1283,3 +1283,6 @@
 
 ### January 17, 2018 
 - [GitHub - skevy/wobble: A tiny (~1.7 KB gzipped) spring physics micro-library that models a damped harmonic oscillator.](https://github.com/skevy/wobble) 
+
+### January 18, 2018 
+- [GitHub - xxczaki/xa: Beautiful &amp; Customizable log messages in your terminal](https://github.com/xxczaki/xa) 
