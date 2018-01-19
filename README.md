@@ -1286,3 +1286,6 @@
 
 ### January 18, 2018 
 - [GitHub - xxczaki/xa: Beautiful &amp; Customizable log messages in your terminal](https://github.com/xxczaki/xa) 
+
+### January 19, 2018 
+- [GitHub - onmyway133/emoji: ❤️ List of emojis](https://github.com/onmyway133/emoji) 
