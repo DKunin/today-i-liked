@@ -1289,3 +1289,6 @@
 
 ### January 19, 2018 
 - [GitHub - onmyway133/emoji: ❤️ List of emojis](https://github.com/onmyway133/emoji) 
+
+### January 20, 2018 
+- [ManyKey.org - Open source tools for custom keyboard interfaces](https://www.manykey.org/tutorial.html) 
