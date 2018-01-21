@@ -1295,3 +1295,4 @@
 
 ### January 21, 2018 
 - [Why Senior Devs Write Dumb Code and How to Spot a Junior From A Mile Away](https://hackernoon.com/why-senior-devs-write-dumb-code-and-how-to-spot-a-junior-from-a-mile-away-27fa263b101a) 
+- [Tomu | Crowd Supply](https://www.crowdsupply.com/sutajio-kosagi/tomu) 
