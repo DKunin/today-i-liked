@@ -1306,3 +1306,6 @@
 
 ### January 28, 2018 
 - [GitHub - developit/greenlet: 🦎 Move an async function into its own thread.](https://github.com/developit/greenlet) 
+
+### January 29, 2018 
+- [Left by Rekka &amp; Devine](https://hundredrabbits.itch.io/left) 
