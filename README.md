@@ -1311,3 +1311,6 @@
 - [Left by Rekka &amp; Devine](https://hundredrabbits.itch.io/left) 
 - [GitHub - binhnguyennus/awesome-scalability: Daily-updated reading list for designing High Scalability , High Availability , High Stability back-end systems - Pull requests are greatly welcome I hope you will find this project helpful Please help me share it to more and more people Thank you - 谢谢 - धन्यवाद - ধন্যবাদ - Спасибо - شكرا - Merci - Gracias - Danke - Cảm ơn!](https://github.com/binhnguyennus/awesome-scalability) 
 - [Moving efficiently in the CLI](https://clementc.github.io/blog/2018/01/25/moving_cli/) 
+
+### January 30, 2018 
+- [GitHub - heremaps/flatdata: Zero copy memory-mapped data storage](https://github.com/heremaps/flatdata) 
