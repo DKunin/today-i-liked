@@ -1317,3 +1317,6 @@
 
 ### February 1, 2018 
 - [The Power of Serverless](https://thepowerofserverless.info/) 
+- [
+			Practice: Progressively Enhancing A Flexbox Grid To Use CSS Grid
+		](https://www.bennadel.com/blog/3404-practice-progressively-enhancing-a-flexbox-grid-to-use-css-grid.htm) 
