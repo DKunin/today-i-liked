@@ -1314,3 +1314,6 @@
 
 ### January 30, 2018 
 - [GitHub - heremaps/flatdata: Zero copy memory-mapped data storage](https://github.com/heremaps/flatdata) 
+
+### February 1, 2018 
+- [The Power of Serverless](https://thepowerofserverless.info/) 
