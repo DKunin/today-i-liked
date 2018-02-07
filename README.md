@@ -1330,3 +1330,8 @@
 
 ### February 6, 2018 
 - [«Море детям» — бассейн с морской водой для детей и будущих мам](http://моредетям.рф/) 
+
+### February 7, 2018 
+- [
+             Snazzy Maps - Free Styles for Google Maps
+        ](https://snazzymaps.com) 
