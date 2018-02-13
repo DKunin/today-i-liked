@@ -1335,3 +1335,6 @@
 - [
              Snazzy Maps - Free Styles for Google Maps
         ](https://snazzymaps.com) 
+
+### February 13, 2018 
+- [Cheapass Parallax - daverupert.com](https://daverupert.com/2018/02/cheapass-parallax/) 
