@@ -1340,3 +1340,6 @@
 - [Cheapass Parallax - daverupert.com](https://daverupert.com/2018/02/cheapass-parallax/) 
 - [Home - Documentation](https://kantord.github.io/just-dashboard/) 
 - [DIY RSS Feed Reader by TJ Fogarty](https://tj.ie/diy-rss-feed-reader) 
+
+### February 15, 2018 
+- [Observable](https://beta.observablehq.com) 
