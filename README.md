@@ -1343,3 +1343,4 @@
 
 ### February 15, 2018 
 - [Observable](https://beta.observablehq.com) 
+- [&#x27;Private Variables in JavaScript&#x27; by Marcus Noble](https://marcusnoble.co.uk/2018-02-04-private-variables-in-javascript/) 
