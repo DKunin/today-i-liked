@@ -1347,3 +1347,4 @@
 
 ### February 17, 2018 
 - [The 25 best icebreaker questions for team-building at work](https://blog.knowyourcompany.com/the-25-best-icebreaker-questions-for-team-building-at-work-cf5f48740240) 
+- [GitHub - 11ty/eleventy: A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.](https://github.com/11ty/eleventy) 
