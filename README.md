@@ -1356,3 +1356,6 @@
 
 ### February 21, 2018 
 - [GitHub - k88hudson/git-flight-rules: Flight rules for git](https://github.com/k88hudson/git-flight-rules) 
+
+### March 5, 2018 
+- [GitHub - RadhiFadlillah/shiori: Simple bookmark manager built with Go](https://github.com/RadhiFadlillah/shiori) 
