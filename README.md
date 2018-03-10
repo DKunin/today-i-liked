@@ -1366,3 +1366,4 @@
 
 ### March 11, 2018 
 - [Introducing the JavaScript Calculator Progressive Web App (PWA)](https://love2dev.com/blog/javascript-calculator-pwa/) 
+- [CodePen - Animated status indicator](https://codepen.io/bnhovde/full/WMgbEa/) 
