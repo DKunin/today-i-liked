@@ -1363,3 +1363,6 @@
 - [Magicons: 100 Business Icons | GraphicBurger](https://graphicburger.com/magicons-100-business-icons/) 
 - [Machine Learning Crash Course  &nbsp;|&nbsp; Google Developers](https://developers.google.com/machine-learning/crash-course/) 
 - [What the heck is JWT anyway? ](https://dev.to/siwalik/what-the-heck-is-jwt-anyway--47hg) 
+
+### March 11, 2018 
+- [Introducing the JavaScript Calculator Progressive Web App (PWA)](https://love2dev.com/blog/javascript-calculator-pwa/) 
