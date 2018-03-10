@@ -1368,3 +1368,4 @@
 - [Introducing the JavaScript Calculator Progressive Web App (PWA)](https://love2dev.com/blog/javascript-calculator-pwa/) 
 - [CodePen - Animated status indicator](https://codepen.io/bnhovde/full/WMgbEa/) 
 - [It’s Dangerous to Go Stallone. Take Glyphhanger | Filament Group, Inc., Boston, MA](https://www.filamentgroup.com/lab/glyphhanger/) 
+- [Creating a Parking Game With the HTML Drag and Drop API | CSS-Tricks](https://css-tricks.com/creating-a-parking-game-with-the-html-drag-and-drop-api/) 
