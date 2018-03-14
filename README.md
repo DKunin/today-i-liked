@@ -1375,3 +1375,6 @@
 - [Driver](http://kamranahmed.info/driver) 
 - [GitHub - gribnoysup/wunderbar: Simple horizontal bar chart printer for your terminal](https://github.com/gribnoysup/wunderbar) 
 - [7 Super Useful Aliases to make your development life easier 👨‍💻 👩‍💻](https://codeburst.io/7-super-useful-aliases-to-make-your-development-life-easier-fef1ee7f9b73) 
+
+### March 14, 2018 
+- [Заполнение полей бланков](https://www.pochta.ru/form?type=F7P) 
