@@ -1379,3 +1379,6 @@
 ### March 14, 2018 
 - [Заполнение полей бланков](https://www.pochta.ru/form?type=F7P) 
 - [The introduction to Reactive Programming you&#39;ve been missing · GitHub](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) 
+
+### March 16, 2018 
+- [Go vs Node.js In Building Microservices: An Exhausting Comparison](https://artjoker.net/blog/go-vs-nodejs-in-building-microservices-an-exhausting-comparison/) 
