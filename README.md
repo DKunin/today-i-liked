@@ -1382,3 +1382,6 @@
 
 ### March 16, 2018 
 - [Go vs Node.js In Building Microservices: An Exhausting Comparison](https://artjoker.net/blog/go-vs-nodejs-in-building-microservices-an-exhausting-comparison/) 
+- [
+	A Practical Introduction to Progressive Web Apps - Part 3
+](https://www.telerik.com/blogs/a-gentle-and-practical-introduction-to-progressive-web-apps-part-3) 
