@@ -1397,3 +1397,4 @@
 ### March 20, 2018 
 - [UI Faces – Avatars for design mockups](https://uifaces.co/) 
 - [D3 Graph Theory](https://mrpandey.github.io/d3graphTheory/index.html) 
+- [Setting up 2FA for Node.js Applications](https://ponyfoo.com/articles/setting-up-2fa-for-nodejs-applications) 
