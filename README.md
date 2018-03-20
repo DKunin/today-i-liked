@@ -1393,3 +1393,6 @@
 
 ### March 19, 2018 
 - [GitHub - goinvo/hGraph: An open source javascript-based web application for visualizing health data.](https://github.com/goinvo/hGraph) 
+
+### March 20, 2018 
+- [UI Faces – Avatars for design mockups](https://uifaces.co/) 
