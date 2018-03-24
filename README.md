@@ -1398,3 +1398,6 @@
 - [UI Faces – Avatars for design mockups](https://uifaces.co/) 
 - [D3 Graph Theory](https://mrpandey.github.io/d3graphTheory/index.html) 
 - [Setting up 2FA for Node.js Applications](https://ponyfoo.com/articles/setting-up-2fa-for-nodejs-applications) 
+
+### March 24, 2018 
+- [How to write Selenium tests in Node.js with WebDriverIO](https://hackernoon.com/how-to-write-selenium-tests-in-node-js-with-webdriverio-cc108b7a31ad) 
