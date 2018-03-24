@@ -1401,3 +1401,4 @@
 
 ### March 24, 2018 
 - [How to write Selenium tests in Node.js with WebDriverIO](https://hackernoon.com/how-to-write-selenium-tests-in-node-js-with-webdriverio-cc108b7a31ad) 
+- [Jessie Frazelle&#39;s Blog: Building Container Images Securely on Kubernetes](https://blog.jessfraz.com/post/building-container-images-securely-on-kubernetes/) 
