@@ -1407,3 +1407,6 @@
 - [How We Effectively Share And “Reuse” Code Between Microservices At Scale](https://blog.bitsrc.io/how-we-successfully-share-and-reuse-code-between-microservices-at-scale-20fcfaebc6d0) 
 - [Download Deck: A free card-style UI kit](https://www.invisionapp.com/blog/card-ui-kit-deck/) 
 - [Workbox  &nbsp;|&nbsp; Google Developers](https://developers.google.com/web/tools/workbox/) 
+
+### March 28, 2018 
+- [Selectors - ESLint - Pluggable JavaScript linter](https://eslint.org/docs/developer-guide/selectors) 
