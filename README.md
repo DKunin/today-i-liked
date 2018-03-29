@@ -1410,3 +1410,6 @@
 
 ### March 28, 2018 
 - [Selectors - ESLint - Pluggable JavaScript linter](https://eslint.org/docs/developer-guide/selectors) 
+
+### March 29, 2018 
+- [Basic Rules for Dungeons &amp; Dragons | Dungeons &amp; Dragons](https://dnd.wizards.com/articles/features/basicrules) 
