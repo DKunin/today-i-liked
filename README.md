@@ -1419,3 +1419,4 @@
 - [
    Plot Parade 
  ](http://plotparade.com/) 
+- [secrets | lhs](https://lhs.nu/archive) 
