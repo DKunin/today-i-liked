@@ -1414,3 +1414,8 @@
 ### March 29, 2018 
 - [Basic Rules for Dungeons &amp; Dragons | Dungeons &amp; Dragons](https://dnd.wizards.com/articles/features/basicrules) 
 - [GitHub - wonderunit/storyboarder: Storyboarder makes it easy to visualize a story as fast you can draw stick figures.](https://github.com/wonderunit/storyboarder) 
+
+### March 30, 2018 
+- [
+   Plot Parade 
+ ](http://plotparade.com/) 
