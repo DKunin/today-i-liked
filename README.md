@@ -1423,3 +1423,4 @@
 
 ### April 2, 2018 
 - [Microservices — From Idea To Starting Line – codeburst](https://codeburst.io/microservices-from-idea-to-starting-line-d6e8cd5e9bb4) 
+- [Make a Magic: The Gathering card in CSS – codeburst](https://codeburst.io/make-a-magic-the-gathering-card-in-css-5e4e06a5e604) 
