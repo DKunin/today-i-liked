@@ -1425,3 +1425,4 @@
 - [Microservices — From Idea To Starting Line – codeburst](https://codeburst.io/microservices-from-idea-to-starting-line-d6e8cd5e9bb4) 
 - [Make a Magic: The Gathering card in CSS – codeburst](https://codeburst.io/make-a-magic-the-gathering-card-in-css-5e4e06a5e604) 
 - [Solved With CSS! Colorizing SVG Backgrounds | CSS-Tricks](https://css-tricks.com/solved-with-css-colorizing-svg-backgrounds/) 
+- [Watch Friends Online | Full Episodes in HD FREE](http://watchfriendsonline.net) 
