@@ -1426,3 +1426,5 @@
 - [Make a Magic: The Gathering card in CSS – codeburst](https://codeburst.io/make-a-magic-the-gathering-card-in-css-5e4e06a5e604) 
 - [Solved With CSS! Colorizing SVG Backgrounds | CSS-Tricks](https://css-tricks.com/solved-with-css-colorizing-svg-backgrounds/) 
 - [Watch Friends Online | Full Episodes in HD FREE](http://watchfriendsonline.net) 
+- [
+        Freebie: The Famous Robots Icon Set (20 Icons, AI, SVG &amp; PNG)    ](https://speckyboy.com/free-famous-robot-icon-set/) 
