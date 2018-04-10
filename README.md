@@ -1435,3 +1435,6 @@
 ### April 7, 2018 
 - [Can Developer Productivity be Measured?](https://dev.to/nickhodges/can-developer-productivity-be-measured-1npo) 
 - [AST explorer](https://astexplorer.net/) 
+
+### April 10, 2018 
+- [5e System Reference Document (SRD)](https://dnd5e.info) 
