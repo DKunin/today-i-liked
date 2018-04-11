@@ -1441,3 +1441,4 @@
 
 ### April 11, 2018 
 - [GitHub - tabler/tabler: Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap 4](https://github.com/tabler/tabler) 
+- [Chrome and Firefox have a new standard for password-free logins - The Verge](https://www.theverge.com/2018/4/10/17215406/webauthn-support-chrome-firefox-edge-fido-password-free) 
