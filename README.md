@@ -1445,3 +1445,6 @@
 
 ### April 13, 2018 
 - [Javascript Algorithms Challenges | Part 2](https://dev.to/martinnrdstrm/javascript-algorithms-challenges--part-2-344e) 
+
+### April 15, 2018 
+- [Build your own Twitter scheduler](https://tomasz.janczuk.org/2018/04/build-your-own-twitter-scheduler.html) 
