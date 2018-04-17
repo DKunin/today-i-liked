@@ -1451,3 +1451,4 @@
 
 ### April 17, 2018 
 - [VuePress](https://vuepress.vuejs.org/) 
+- [GitHub - ory/hydra: OAuth2 server with OpenID Connect - cloud native, security-first, open source API security for your infrastructure. Written in Go. SDKs for any language.](https://github.com/ory/hydra) 
