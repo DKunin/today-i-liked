@@ -1465,3 +1465,4 @@
 ### April 19, 2018 
 - [GitHub - wireapp/wire-server: 🇪🇺 Wire back-end services](https://github.com/wireapp/wire-server) 
 - [unavatar](https://unavatar.now.sh/) 
+- [GitHub - dropbox/zxcvbn: Low-Budget Password Strength Estimation](https://github.com/dropbox/zxcvbn) 
