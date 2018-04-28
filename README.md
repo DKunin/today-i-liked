@@ -1472,3 +1472,8 @@
 
 ### April 26, 2018 
 - [donjon; RPG Tools](https://donjon.bin.sh/) 
+
+### April 28, 2018 
+- [
+	Functional Programming with JavaScript Object Arrays
+](https://www.telerik.com/blogs/functional-programming-with-javascript-object-arrays) 
