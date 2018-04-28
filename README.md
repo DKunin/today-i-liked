@@ -1477,3 +1477,6 @@
 - [
 	Functional Programming with JavaScript Object Arrays
 ](https://www.telerik.com/blogs/functional-programming-with-javascript-object-arrays) 
+- [
+    Use the web share API easily with web components | Phil Nash
+  ](https://philna.sh/blog/2018/04/25/web-share-api-with-web-components/) 
