@@ -1483,3 +1483,6 @@
 
 ### May 11, 2018 
 - [<title data-n-head="true">Free Royalty Free Music — Fugue](https://icons8.com/music/) 
+
+### May 15, 2018 
+- [Unicode Patterns](https://yuanchuan.name/2018/05/06/unicode-patterns.html) 
