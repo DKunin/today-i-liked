@@ -1486,3 +1486,4 @@
 
 ### May 15, 2018 
 - [Unicode Patterns](https://yuanchuan.name/2018/05/06/unicode-patterns.html) 
+- [Morse Typing Trainer for Gboard by Tania Finlayson, Use all Five and Google Creative Lab | Experiments with Google](https://experiments.withgoogle.com/morse-learn) 
