@@ -1494,3 +1494,6 @@
 - [GitHub - cucumber/cucumber-js: Cucumber for JavaScript](https://github.com/cucumber/cucumber-js) 
 - [GitHub - standard/standard-engine: The guts of `standard` modularized for reuse](https://github.com/standard/standard-engine) 
 - [GitHub - danistefanovic/build-your-own-x: 🤓 Build your own (insert technology here)](https://github.com/danistefanovic/build-your-own-x#build-your-own-front-end-framework--library) 
+
+### May 18, 2018 
+- [GitHub - klauscfhq/signale: 👋 Hackable console logger](https://github.com/klauscfhq/signale) 
