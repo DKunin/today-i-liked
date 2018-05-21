@@ -1498,3 +1498,6 @@
 ### May 18, 2018 
 - [GitHub - klauscfhq/signale: 👋 Hackable console logger](https://github.com/klauscfhq/signale) 
 - [Screely - Generate Beautiful Images](https://www.screely.com/) 
+
+### May 21, 2018 
+- [GitHub - standard/standard-engine: The guts of `standard` modularized for reuse](https://github.com/standard/standard-engine) 
