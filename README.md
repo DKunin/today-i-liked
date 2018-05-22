@@ -1506,3 +1506,4 @@
 ### May 22, 2018 
 - [toybox](https://jlpaca.github.io/toybox/) 
 - [CodePen - Wobble Checkboxes](https://codepen.io/Zaku/full/zjarZO/) 
+- [Animated SVG Icons - Lordicon - created for web and mobile projects](http://www.lordicon.com/) 
