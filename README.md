@@ -1510,3 +1510,6 @@
 
 ### May 23, 2018 
 - [GitHub - trekhleb/javascript-algorithms: Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms) 
+
+### May 24, 2018 
+- [What&#8217;s missing? Find out using OUTER JOIN&#8217;s in MySQL with examples. | Digital Owl&#039;s Prose](https://joshuaotwell.com/2018/05/16/whats-missing-find-out-using-outer-joins-in-mysql-with-examples/) 
