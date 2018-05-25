@@ -1517,3 +1517,4 @@
 ### May 25, 2018 
 - [Sending Web Push Notifications from Node.js | www.thecodebarbarian.com](https://thecodebarbarian.com/sending-web-push-notifications-from-node-js.html?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=115) 
 - [How to display a &quot;new version available&quot; of your Progressive Web App](https://deanhume.com/displaying-a-new-version-available-progressive-web-app/) 
+- [GitHub - juliangruber/just-launch: Launch any browser, on any OS, with a fresh session!](https://github.com/juliangruber/just-launch) 
