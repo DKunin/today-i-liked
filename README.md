@@ -1521,3 +1521,6 @@
 
 ### May 28, 2018 
 - [ServiceWorker Cookbook](https://serviceworke.rs/) 
+
+### June 1, 2018 
+- [30 seconds of interviews](https://30secondsofinterviews.org/) 
