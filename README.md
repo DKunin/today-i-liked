@@ -1524,3 +1524,6 @@
 
 ### June 1, 2018 
 - [30 seconds of interviews](https://30secondsofinterviews.org/) 
+
+### June 3, 2018 
+- [Web Design &amp; Development News: Collective #420 | Codrops](https://tympanus.net/codrops/collective/collective-420/) 
