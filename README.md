@@ -1532,3 +1532,6 @@
 - [André Staltz - Why we need Callbags](https://staltz.com/why-we-need-callbags.html) 
 - [Changes to Add to Home Screen Behavior &nbsp;|&nbsp; Web
       &nbsp;|&nbsp; Google Developers](https://developers.google.com/web/updates/2018/06/a2hs-updates) 
+
+### June 5, 2018 
+- [GitHub - nim-lang/nimforum: Lightweight alternative to Discourse written in Nim](https://github.com/nim-lang/nimforum) 
