@@ -1527,3 +1527,6 @@
 
 ### June 3, 2018 
 - [Web Design &amp; Development News: Collective #420 | Codrops](https://tympanus.net/codrops/collective/collective-420/) 
+
+### June 4, 2018 
+- [André Staltz - Why we need Callbags](https://staltz.com/why-we-need-callbags.html) 
