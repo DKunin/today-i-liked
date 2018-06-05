@@ -1535,3 +1535,4 @@
 
 ### June 5, 2018 
 - [GitHub - nim-lang/nimforum: Lightweight alternative to Discourse written in Nim](https://github.com/nim-lang/nimforum) 
+- [GitHub - beakerbrowser/homebase: A Dat-hosting service for a single user on a VPS or personal Linux server](https://github.com/beakerbrowser/homebase) 
