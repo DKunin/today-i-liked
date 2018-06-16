@@ -1539,3 +1539,6 @@
 
 ### June 10, 2018 
 - [Make a P2P connection in 10 minutes – Carlos Galarza – Medium](https://medium.com/@carloslfu/make-a-p2p-connection-in-10-minutes-57d9559fd1c) 
+
+### June 17, 2018 
+- [musicForProgramming(&quot;51: M&#252;cha&quot;);](http://www.musicforprogramming.net) 
