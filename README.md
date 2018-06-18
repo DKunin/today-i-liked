@@ -1542,3 +1542,6 @@
 
 ### June 17, 2018 
 - [musicForProgramming(&quot;51: M&#252;cha&quot;);](http://www.musicforprogramming.net) 
+
+### June 18, 2018 
+- [The Layouts of Tomorrow | Max Böck - Frontend Web Developer](https://mxb.at/blog/layouts-of-tomorrow/) 
