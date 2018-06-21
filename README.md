@@ -1546,3 +1546,7 @@
 ### June 18, 2018 
 - [The Layouts of Tomorrow | Max Böck - Frontend Web Developer](https://mxb.at/blog/layouts-of-tomorrow/) 
 - [GitHub - dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.](https://github.com/dylanaraps/pure-bash-bible) 
+
+### June 22, 2018 
+- [Using JavaScript modules on the web &nbsp;|&nbsp; Web Fundamentals
+      &nbsp;|&nbsp; Google Developers](https://developers.google.com/web/fundamentals/primers/modules) 
