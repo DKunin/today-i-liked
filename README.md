@@ -1550,3 +1550,4 @@
 ### June 22, 2018 
 - [Using JavaScript modules on the web &nbsp;|&nbsp; Web Fundamentals
       &nbsp;|&nbsp; Google Developers](https://developers.google.com/web/fundamentals/primers/modules) 
+- [CodePen - vue.js - order and filter list animation](https://codepen.io/ClementRoche/full/dKWWXL/) 
