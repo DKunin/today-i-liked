@@ -1551,3 +1551,6 @@
 - [Using JavaScript modules on the web &nbsp;|&nbsp; Web Fundamentals
       &nbsp;|&nbsp; Google Developers](https://developers.google.com/web/fundamentals/primers/modules) 
 - [CodePen - vue.js - order and filter list animation](https://codepen.io/ClementRoche/full/dKWWXL/) 
+
+### June 25, 2018 
+- [GitHub - dan-v/dosxvpn: Easily deploy your own personal VPN server with DNS adblocking running on DigitalOcean](https://github.com/dan-v/dosxvpn) 
