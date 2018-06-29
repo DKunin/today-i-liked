@@ -1556,3 +1556,6 @@
 - [GitHub - dan-v/dosxvpn: Easily deploy your own personal VPN server with DNS adblocking running on DigitalOcean](https://github.com/dan-v/dosxvpn) 
 - [Watch Friends Online | Full Episodes in HD FREE](http://watchfriendsonline.net/) 
 - [GitHub - leptojs/lepto: Automated image Editing, Optimization and Analysis via CLI and a web interface](https://github.com/leptojs/lepto) 
+
+### June 29, 2018 
+- [ml5js · Friendly Machine Learning For The Web.](https://ml5js.org/) 
