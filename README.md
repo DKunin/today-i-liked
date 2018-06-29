@@ -1559,3 +1559,4 @@
 
 ### June 29, 2018 
 - [ml5js · Friendly Machine Learning For The Web.](https://ml5js.org/) 
+- [GitHub - FiloSottile/mkcert: A simple zero-config tool to make locally-trusted development certificates with any names you&#39;d like.](https://github.com/FiloSottile/mkcert) 
