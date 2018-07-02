@@ -1560,3 +1560,6 @@
 ### June 29, 2018 
 - [ml5js · Friendly Machine Learning For The Web.](https://ml5js.org/) 
 - [GitHub - FiloSottile/mkcert: A simple zero-config tool to make locally-trusted development certificates with any names you&#39;d like.](https://github.com/FiloSottile/mkcert) 
+
+### July 2, 2018 
+- [<title data-react-helmet="true">Building a list keyboard control component with Vue.js and scoped slots | Codementor](https://www.codementor.io/thomas478/building-a-list-keyboard-control-component-with-vue-js-and-scoped-slots-l113pk2ny) 
