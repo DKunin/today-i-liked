@@ -1563,3 +1563,6 @@
 
 ### July 2, 2018 
 - [<title data-react-helmet="true">Building a list keyboard control component with Vue.js and scoped slots | Codementor](https://www.codementor.io/thomas478/building-a-list-keyboard-control-component-with-vue-js-and-scoped-slots-l113pk2ny) 
+
+### July 3, 2018 
+- [GitHub - fluid-notion/fluid-outliner: Open source web based outliner built with a strong focus on simplicity and ease of use](https://github.com/fluid-notion/fluid-outliner) 
