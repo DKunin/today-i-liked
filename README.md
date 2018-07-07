@@ -1566,3 +1566,6 @@
 
 ### July 3, 2018 
 - [GitHub - fluid-notion/fluid-outliner: Open source web based outliner built with a strong focus on simplicity and ease of use](https://github.com/fluid-notion/fluid-outliner) 
+
+### July 7, 2018 
+- [Vue Authentication And Route Handling Using Vue-router &#8213; Scotch](https://scotch.io/tutorials/vue-authentication-and-route-handling-using-vue-router) 
