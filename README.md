@@ -1569,3 +1569,6 @@
 
 ### July 7, 2018 
 - [Vue Authentication And Route Handling Using Vue-router &#8213; Scotch](https://scotch.io/tutorials/vue-authentication-and-route-handling-using-vue-router) 
+
+### July 8, 2018 
+- [itty.bitty](https://itty.bitty.site/edit) 
