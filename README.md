@@ -1572,3 +1572,4 @@
 
 ### July 8, 2018 
 - [itty.bitty](https://itty.bitty.site/edit) 
+- [Stop using JWT for sessions - joepie91's Ramblings](http://cryto.net/%7Ejoepie91/blog/2016/06/13/stop-using-jwt-for-sessions/) 
