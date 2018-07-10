@@ -1577,3 +1577,4 @@
 ### July 10, 2018 
 - [Displaying PDFs lazily with Vue - rossta.net](https://rossta.net/blog/building-a-pdf-viewer-with-vue-part-2.html) 
 - [ASCIIFlow Infinity](http://asciiflow.com/) 
+- [GitHub - konaraddio/web-riimote: Turn your smartphone into a 3D controller with just a web app. No native app needed.](https://github.com/konaraddio/web-riimote) 
