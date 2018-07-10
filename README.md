@@ -1573,3 +1573,6 @@
 ### July 8, 2018 
 - [itty.bitty](https://itty.bitty.site/edit) 
 - [Stop using JWT for sessions - joepie91's Ramblings](http://cryto.net/%7Ejoepie91/blog/2016/06/13/stop-using-jwt-for-sessions/) 
+
+### July 10, 2018 
+- [Displaying PDFs lazily with Vue - rossta.net](https://rossta.net/blog/building-a-pdf-viewer-with-vue-part-2.html) 
