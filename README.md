@@ -1578,3 +1578,6 @@
 - [Displaying PDFs lazily with Vue - rossta.net](https://rossta.net/blog/building-a-pdf-viewer-with-vue-part-2.html) 
 - [ASCIIFlow Infinity](http://asciiflow.com/) 
 - [GitHub - konaraddio/web-riimote: Turn your smartphone into a 3D controller with just a web app. No native app needed.](https://github.com/konaraddio/web-riimote) 
+
+### July 12, 2018 
+- [GitHub - lucianw/ldap-jwt: Lightweight node.js based web service that provides user authentication against LDAP server (Active Directory / Windows network) credentials and returns a JSON Web Token.](https://github.com/lucianw/ldap-jwt) 
