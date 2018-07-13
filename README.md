@@ -1581,3 +1581,6 @@
 
 ### July 12, 2018 
 - [GitHub - lucianw/ldap-jwt: Lightweight node.js based web service that provides user authentication against LDAP server (Active Directory / Windows network) credentials and returns a JSON Web Token.](https://github.com/lucianw/ldap-jwt) 
+
+### July 13, 2018 
+- [Inaccessibility of CAPTCHA](https://www.w3.org/TR/turingtest/) 
