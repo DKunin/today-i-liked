@@ -1584,3 +1584,6 @@
 
 ### July 13, 2018 
 - [Inaccessibility of CAPTCHA](https://www.w3.org/TR/turingtest/) 
+
+### July 17, 2018 
+- [Term Sheets](https://gpoitch.github.io/term-sheets/) 
