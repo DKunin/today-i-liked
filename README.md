@@ -1594,3 +1594,4 @@
 ### July 20, 2018 
 - [UIengine 1.0](https://dennisreimann.de/articles/uiengine-1-0.html) 
 - [Airdrop — Technical casestudy. – epicagency – Medium](https://medium.com/epicagency/airdrop-technical-casestudy-bafabf2f8c1e) 
+- [Operationalizing Node.js for Server Side Rendering – Airbnb Engineering &amp; Data Science – Medium](https://medium.com/airbnb-engineering/operationalizing-node-js-for-server-side-rendering-c5ba718acfc9) 
