@@ -1598,3 +1598,4 @@
 
 ### July 23, 2018 
 - [GitHub - GoogleChromeLabs/ndb: ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools](https://github.com/GoogleChromeLabs/ndb) 
+- [A Complete Guide to Getting What You Want](https://www.raptitude.com/2018/06/getting-what-you-want/) 
