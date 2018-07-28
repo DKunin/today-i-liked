@@ -1603,3 +1603,6 @@
 ### July 25, 2018 
 - [Page Lifecycle API &nbsp;|&nbsp; Web
       &nbsp;|&nbsp; Google Developers](https://developers.google.com/web/updates/2018/07/page-lifecycle-api) 
+
+### July 28, 2018 
+- [dat-gateway](https://dat.bovid.space) 
