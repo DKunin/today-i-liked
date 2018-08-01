@@ -1610,3 +1610,6 @@
 ### July 31, 2018 
 - [Алгоритм процедурной генерации подземелий - ProGamer.Ru](https://www.progamer.ru/dev/procedural-dungeon-generation.htm) 
 - [Алгоритм процедурной генерации подземелий - ProGamer.Ru](https://www.progamer.ru/dev/procedural-dungeon-generation.htm) 
+
+### August 1, 2018 
+- [React Authentication with Twitter, Google, Facebook and Github](https://codeburst.io/react-authentication-with-twitter-google-facebook-and-github-862d59583105) 
