@@ -1613,3 +1613,6 @@
 
 ### August 1, 2018 
 - [React Authentication with Twitter, Google, Facebook and Github](https://codeburst.io/react-authentication-with-twitter-google-facebook-and-github-862d59583105) 
+
+### August 2, 2018 
+- [GitHub - pfrazee/dat-gateway: Quick Dat to HTTP gateway](https://github.com/pfrazee/dat-gateway) 
