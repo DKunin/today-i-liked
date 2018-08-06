@@ -1616,3 +1616,6 @@
 
 ### August 2, 2018 
 - [GitHub - pfrazee/dat-gateway: Quick Dat to HTTP gateway](https://github.com/pfrazee/dat-gateway) 
+
+### August 6, 2018 
+- [Let&#039;s make a form that puts current location to use in a map! | CSS-Tricks](https://css-tricks.com/lets-make-a-form-that-puts-current-location-to-use-in-a-map/) 
