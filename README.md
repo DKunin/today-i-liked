@@ -1619,3 +1619,6 @@
 
 ### August 6, 2018 
 - [Let&#039;s make a form that puts current location to use in a map! | CSS-Tricks](https://css-tricks.com/lets-make-a-form-that-puts-current-location-to-use-in-a-map/) 
+
+### August 13, 2018 
+- [GitHub - zeeshanu/dumper.js: A better and pretty variable inspector for your Node.js applications](https://github.com/zeeshanu/dumper.js) 
