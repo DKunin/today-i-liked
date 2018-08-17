@@ -1623,3 +1623,6 @@
 ### August 13, 2018 
 - [GitHub - zeeshanu/dumper.js: A better and pretty variable inspector for your Node.js applications](https://github.com/zeeshanu/dumper.js) 
 - [GRID: A simple visual cheatsheet for CSS Grid Layout](http://grid.malven.co/) 
+
+### August 18, 2018 
+- [Dweb: Building a Resilient Web with WebTorrent – Mozilla Hacks &#8211; the Web developer blog](https://hacks.mozilla.org/2018/08/dweb-building-a-resilient-web-with-webtorrent/) 
