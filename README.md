@@ -1626,3 +1626,6 @@
 
 ### August 18, 2018 
 - [Dweb: Building a Resilient Web with WebTorrent – Mozilla Hacks &#8211; the Web developer blog](https://hacks.mozilla.org/2018/08/dweb-building-a-resilient-web-with-webtorrent/) 
+
+### August 27, 2018 
+- [How to build a math expression tokenizer using JavaScript (or any other language)](https://medium.freecodecamp.org/how-to-build-a-math-expression-tokenizer-using-javascript-3638d4e5fbe9) 
