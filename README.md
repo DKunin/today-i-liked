@@ -1629,3 +1629,6 @@
 
 ### August 27, 2018 
 - [How to build a math expression tokenizer using JavaScript (or any other language)](https://medium.freecodecamp.org/how-to-build-a-math-expression-tokenizer-using-javascript-3638d4e5fbe9) 
+
+### August 28, 2018 
+- [GitHub - pfrazee/citizen: A social web API for beaker/dat applications](https://github.com/pfrazee/citizen) 
