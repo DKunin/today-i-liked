@@ -1632,3 +1632,6 @@
 
 ### August 28, 2018 
 - [GitHub - pfrazee/citizen: A social web API for beaker/dat applications](https://github.com/pfrazee/citizen) 
+
+### August 29, 2018 
+- [Building A Simple Single Sign On(SSO) Server And Solution From Scratch In Node.js.](https://codeburst.io/building-a-simple-singlesign-on-sso-server-and-solution-from-scratch-in-node-js-ea6ee5fdf340) 
