@@ -1635,3 +1635,6 @@
 
 ### August 29, 2018 
 - [Building A Simple Single Sign On(SSO) Server And Solution From Scratch In Node.js.](https://codeburst.io/building-a-simple-singlesign-on-sso-server-and-solution-from-scratch-in-node-js-ea6ee5fdf340) 
+
+### August 31, 2018 
+- [How to use Git efficiently – freeCodeCamp](https://medium.freecodecamp.org/how-to-use-git-efficiently-54320a236369) 
