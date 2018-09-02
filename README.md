@@ -1638,3 +1638,6 @@
 
 ### August 31, 2018 
 - [How to use Git efficiently – freeCodeCamp](https://medium.freecodecamp.org/how-to-use-git-efficiently-54320a236369) 
+
+### September 2, 2018 
+- [GitHub - directus/directus: Directus is an Open-Source Headless CMS &amp; API for Managing Custom Databases](https://github.com/directus/directus) 
