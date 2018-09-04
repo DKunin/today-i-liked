@@ -1641,3 +1641,6 @@
 
 ### September 2, 2018 
 - [GitHub - directus/directus: Directus is an Open-Source Headless CMS &amp; API for Managing Custom Databases](https://github.com/directus/directus) 
+
+### September 4, 2018 
+- [Фисташково-малиновый торт на заказ в Москве](https://teabakery.ru/shop/cakes/fistashkovo-malinovyj-tort/) 
