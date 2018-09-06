@@ -1647,3 +1647,4 @@
 
 ### September 6, 2018 
 - [GitHub - sindresorhus/ky: Tiny and elegant HTTP client based on the browser Fetch API](https://github.com/sindresorhus/ky) 
+- [ How do you mark up an accordion? — Sara Soueidan – Freelance-Front-End UI/UX Developer ](https://www.sarasoueidan.com/blog/accordion-markup/) 
