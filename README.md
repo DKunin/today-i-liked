@@ -1644,3 +1644,6 @@
 
 ### September 4, 2018 
 - [Фисташково-малиновый торт на заказ в Москве](https://teabakery.ru/shop/cakes/fistashkovo-malinovyj-tort/) 
+
+### September 6, 2018 
+- [GitHub - sindresorhus/ky: Tiny and elegant HTTP client based on the browser Fetch API](https://github.com/sindresorhus/ky) 
