@@ -1651,3 +1651,6 @@
 - [The Reporting API &nbsp;|&nbsp; Web
       &nbsp;|&nbsp; Google Developers](https://developers.google.com/web/updates/2018/09/reportingapi?utm_source=feed&utm_medium=feed&utm_campaign=updates_feed) 
 - [Как сделать поиск пользователей по GitHub на WebAssembly / Хабр](https://habr.com/post/369785/) 
+
+### September 7, 2018 
+- [Welcome, Readable-stream@3! - NearForm](https://www.nearform.com/blog/welcome-readable-stream-3/) 
