@@ -1657,3 +1657,6 @@
 
 ### September 10, 2018 
 - [Go 101 - Go 101 (Golang Knowledgebase)](https://go101.org/article/101.html) 
+
+### September 11, 2018 
+- [Ava: HTML landing page for beta products - Freebiesbug](https://freebiesbug.com/code-stuff/ava/) 
