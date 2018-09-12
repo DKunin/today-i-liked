@@ -1661,3 +1661,6 @@
 ### September 11, 2018 
 - [Ava: HTML landing page for beta products - Freebiesbug](https://freebiesbug.com/code-stuff/ava/) 
 - [Заполнение полей бланков](https://www.pochta.ru/form?type=F7P) 
+
+### September 12, 2018 
+- [The Jira Software Cloud REST API](https://developer.atlassian.com/cloud/jira/software/rest) 
