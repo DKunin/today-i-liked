@@ -1664,3 +1664,4 @@
 
 ### September 12, 2018 
 - [The Jira Software Cloud REST API](https://developer.atlassian.com/cloud/jira/software/rest) 
+- [The Jira Cloud platform REST API](https://developer.atlassian.com/cloud/jira/platform/rest/v3) 
