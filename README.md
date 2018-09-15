@@ -1668,3 +1668,6 @@
 
 ### September 14, 2018 
 - [OpenWrt Project: SSH Access for Newcomers](https://openwrt.org/docs/guide-quick-start/sshadministration) 
+
+### September 15, 2018 
+- [Servant leadership - Wikipedia](https://en.wikipedia.org/wiki/Servant_leadership) 
