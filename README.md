@@ -1671,3 +1671,6 @@
 
 ### September 15, 2018 
 - [Servant leadership - Wikipedia](https://en.wikipedia.org/wiki/Servant_leadership) 
+
+### September 16, 2018 
+- [Trendy Palettes | Beautiful Color Palettes](https://trendypalettes.com/) 
