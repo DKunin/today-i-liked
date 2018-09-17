@@ -1674,3 +1674,6 @@
 
 ### September 16, 2018 
 - [Trendy Palettes | Beautiful Color Palettes](https://trendypalettes.com/) 
+
+### September 17, 2018 
+- [GitHub - amiechen/codrops-libre: A reponsive single page app template for collection management projects](https://github.com/amiechen/codrops-libre) 
