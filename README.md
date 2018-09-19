@@ -1678,3 +1678,6 @@
 ### September 17, 2018 
 - [GitHub - amiechen/codrops-libre: A reponsive single page app template for collection management projects](https://github.com/amiechen/codrops-libre) 
 - [Why do we need HTTPS? - How HTTPS works](https://howhttps.works/why-do-we-need-https/) 
+
+### September 19, 2018 
+- [GitHub - scroll-out/scroll-out: ScrollOut detects changes in scroll for reveal, parallax, and CSS Variable effects!](https://github.com/scroll-out/scroll-out) 
