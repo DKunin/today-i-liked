@@ -1681,3 +1681,7 @@
 
 ### September 19, 2018 
 - [GitHub - scroll-out/scroll-out: ScrollOut detects changes in scroll for reveal, parallax, and CSS Variable effects!](https://github.com/scroll-out/scroll-out) 
+
+### September 21, 2018 
+- [Consumer-Driven Contracts: A Service Evolution
+	Pattern](https://martinfowler.com/articles/consumerDrivenContracts.html) 
