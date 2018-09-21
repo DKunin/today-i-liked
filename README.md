@@ -1686,3 +1686,4 @@
 - [Consumer-Driven Contracts: A Service Evolution
 	Pattern](https://martinfowler.com/articles/consumerDrivenContracts.html) 
 - [<title data-react-helmet="true">Aragon](https://aragon.org/) 
+- [docker-compose, nginx, and letsencrypt — setting up website to do all the things for that HTTPS!](https://medium.com/@kritner/docker-compose-nginx-and-letsencrypt-setting-up-website-to-do-all-the-things-for-that-https-7cb0bf774b7e) 
